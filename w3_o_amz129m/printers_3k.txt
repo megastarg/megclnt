@@ -1,0 +1,6 @@
+08-02-26
+03:25:26 => Ramdev Olivetti PR2/PB02 RIBBON CARTDRIGE Multi-function Monochrome Dot Matrix Printer => ok => 699 => 351 => LSTPRNHHRP5ZUSYKGZCVHBQRW
+03:25:26 => HP DeskJet 2131 All-in-One Printer => ok => 4288 => 2009 => LSTPRNE9ZUQFCTH2WFZ8NOS1B
+03:25:26 => Canon PIXMA E417 Multi-function Color Inkjet Printer => ok => 4495 => 2569 => LSTPRNEHVNBFGSDEWZNNTJ61X
+03:25:26 => Canon PIXMA MG3670 Multi-function WiFi Color Inkjet Printer => ok => 5525 => 2679 => LSTPRNEETGAFTFUCWZ7PGIAGU
+03:25:26 => HP DeskJet Ink Advantage 2138 Multi-function Color Inkjet Printer => ok => 6187 => 2909 => LSTPRNEZY3U5FZED6HFZMFUUX

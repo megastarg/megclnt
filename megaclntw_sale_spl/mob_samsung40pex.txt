@@ -1,0 +1,13 @@
+04-10-26
+03:00:32 => Samsung Galaxy Tab A11 4 GB RAM 64 GB ROM 8.7 inch with Wi-Fi+4G Gaming MediaTek Helio G99 Tablet (Gray) => IN_STOCK => 34999 => 18610 => LSTTABHFTNZVFXFPUHZOZFAWA
+03:00:32 => Samsung Galaxy Tab A11 4 GB RAM 64 GB ROM 8.7 inch with Wi-Fi+4G Gaming MediaTek Helio G99 Tablet (Gray) => IN_STOCK => 34999 => 18610 => LSTTABHFTNZVFXFPUHZOZFAWA
+03:00:32 => Samsung Galaxy Tab A11 4 GB RAM 64 GB ROM 8.7 inch with Wi-Fi+4G Gaming MediaTek Helio G99 Tablet (Gray) => IN_STOCK => 34999 => 18610 => LSTTABHFTNZVFXFPUHZOZFAWA
+03:00:32 => Samsung Galaxy Tab A11 4 GB RAM 64 GB ROM 8.7 inch with Wi-Fi+4G Gaming MediaTek Helio G99 Tablet (Gray) => IN_STOCK => 34999 => 18610 => LSTTABHFTNZVFXFPUHZOZFAWA
+03:00:32 => Samsung Galaxy Tab A11+ 6 GB RAM 128 GB ROM 11 inch with Wi-Fi Only Gaming Mediatek MT8755 Tablet (Gray) => IN_STOCK => 40999 => 22990 => LSTTABHJKZWSKPSY7VYXZ2J2W
+05:01:19 => Samsung Galaxy Tab A11+ 6 GB RAM 128 GB ROM 11 inch with Wi-Fi Only Gaming Mediatek MT8755 Tablet (Gray) => OUT_OF_STOCK => 40999 => 22990 => LSTTABHJKZWSKPSY7VYXZ2J2W
+11:22:04 => Samsung Galaxy Tab A11 4 GB RAM 64 GB ROM 8.7 inch with Wi-Fi+4G Gaming MediaTek Helio G99 Tablet (Gray) => OUT_OF_STOCK => 34999 => 18610 => LSTTABHFTNZVFXFPUHZOZFAWA
+11:22:04 => Samsung Galaxy Tab A11 4 GB RAM 64 GB ROM 8.7 inch with Wi-Fi+4G Gaming MediaTek Helio G99 Tablet (Gray) => OUT_OF_STOCK => 34999 => 18610 => LSTTABHFTNZVFXFPUHZOZFAWA
+11:22:04 => Samsung Galaxy Tab A11 4 GB RAM 64 GB ROM 8.7 inch with Wi-Fi+4G Gaming MediaTek Helio G99 Tablet (Gray) => OUT_OF_STOCK => 34999 => 18610 => LSTTABHFTNZVFXFPUHZOZFAWA
+11:22:04 => Samsung Galaxy Tab A11 4 GB RAM 64 GB ROM 8.7 inch with Wi-Fi+4G Gaming MediaTek Helio G99 Tablet (Gray) => OUT_OF_STOCK => 34999 => 18610 => LSTTABHFTNZVFXFPUHZOZFAWA
+14:52:56 => Samsung Galaxy Tab A11+ 6 GB RAM 128 GB ROM 11 inch with Wi-Fi+5G Gaming MediaTek MT8755 Tablet (Gray) => IN_STOCK => 47999 => 26488 => LSTTABHHQEYGFNBJMB9RIY0AZ
+14:52:56 => Samsung Galaxy Tab A11+ 6 GB RAM 128 GB ROM 11 inch with Wi-Fi+5G Gaming MediaTek MT8755 Tablet (Silver) => IN_STOCK => 47999 => 26499 => LSTTABHHQEYZ9DTXKJXZGLZS1

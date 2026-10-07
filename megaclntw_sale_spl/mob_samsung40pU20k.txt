@@ -1,0 +1,27 @@
+04-10-26
+03:00:33 => Samsung Galaxy Tab A7 Lite 3 GB RAM 32 GB ROM 8.7 inches with 4G MediaTek Tablet (Grey) => OUT_OF_STOCK => 16934 => 6999 => LSTTABG3WWRAYHANVVDFKIAXI
+03:00:33 => Samsung Galaxy Tab A7 Lite 3 GB RAM 32 GB ROM 8.7 inches with 4G MediaTek Tablet (Silver) => OUT_OF_STOCK => 17500 => 10000 => LSTTABG3WWRXYDURNVFYRT73B
+03:00:33 => Samsung Galaxy Tab A9 4 GB RAM 64 GB ROM 22.1 inch with 4G Gaming MediaTek Helio G99 Tablet (Graphite) => OUT_OF_STOCK => 19999 => 11768 => LSTTABGTF4GK2ZMM4C8F8LVQH
+03:00:33 => Samsung Galaxy Tab A8 3 GB RAM 32 GB ROM 10.5 inch with 4G Octa Core Tablet (Gray) => OUT_OF_STOCK => 26399 => 11999 => LSTTABGA36YCZCFNEQMIIB2XR
+03:00:33 => Samsung Galaxy Tab A8 3 GB RAM 32 GB ROM 10.5 inch with 4G Octa Core Tablet (Gray) => OUT_OF_STOCK => 26399 => 11999 => LSTTABGA36YCZCFNEQMIIB2XR
+03:00:33 => Samsung Galaxy Tab A8 3 GB RAM 32 GB ROM 10.5 inch with 4G Octa Core Tablet (Gray) => OUT_OF_STOCK => 26399 => 11999 => LSTTABGA36YCZCFNEQMIIB2XR
+03:00:33 => Samsung Galaxy Tab A8 3 GB RAM 32 GB ROM 10.5 inch with 4G Octa Core Tablet (Gray) => OUT_OF_STOCK => 26399 => 11999 => LSTTABGA36YCZCFNEQMIIB2XR
+03:00:33 => Samsung Galaxy Tab A7 3 GB RAM 64 GB ROM 10.4 inch with Wi-Fi Only Qualcomm Snapdragon 662 Tablet (Dark Grey) => OUT_OF_STOCK => 21999 => 12999 => LSTTABGFZY2Y8P8KZXUJOHH6G
+03:00:33 => Samsung Galaxy Tab A8 4 GB RAM 64 GB ROM 10.5 inch with 4G Octa Core Tablet (Gray) => OUT_OF_STOCK => 28999 => 14999 => LSTTABGA36YQUPDGJZKMZBMUH
+03:00:33 => Samsung Galaxy Tab A9+ 8 GB RAM 128 GB ROM 11.0 inch with Wi-Fi+5G Qualcomm Snapdragon 695 Tablet (Graphite) => OUT_OF_STOCK => 32989 => 17500 => LSTTABGTF4G3RPUDTVQHFXK4Q
+03:00:33 => Samsung Galaxy Tab A9+ 8 GB RAM 128 GB ROM 11.0 inch with Wi-Fi+5G Qualcomm Snapdragon 695 Tablet (Navy) => OUT_OF_STOCK => 32999 => 17599 => LSTTABGTF4GRCRW7FAZJP4MXH
+03:00:33 => Samsung Galaxy Tab A9+ 8 GB RAM 128 GB ROM 11.0 inch with Wi-Fi Only Qualcomm SM6375 Tablet (Graphite) => OUT_OF_STOCK => 32999 => 17999 => LSTTABH23YYTUPAGZAC4PVNB3
+03:00:33 => Samsung Galaxy Tab A9+ 8 GB RAM 128 GB ROM 11.0 inch with Wi-Fi+5G Qualcomm Snapdragon 695 Tablet (Silver) => OUT_OF_STOCK => 32999 => 18490 => LSTTABGTF4GNVTZTZPMMHTMFR
+03:00:33 => Samsung Galaxy Tab A11 4 GB RAM 64 GB ROM 8.7 inch with Wi-Fi+4G Gaming MediaTek Helio G99 Tablet (Gray) => IN_STOCK => 34999 => 18610 => LSTTABHFTNZVFXFPUHZOZFAWA
+03:00:33 => Samsung Galaxy Tab A11 4 GB RAM 64 GB ROM 8.7 inch with Wi-Fi+4G Gaming MediaTek Helio G99 Tablet (Gray) => IN_STOCK => 34999 => 18610 => LSTTABHFTNZVFXFPUHZOZFAWA
+03:00:33 => Samsung Galaxy Tab A11 4 GB RAM 64 GB ROM 8.7 inch with Wi-Fi+4G Gaming MediaTek Helio G99 Tablet (Gray) => IN_STOCK => 34999 => 18610 => LSTTABHFTNZVFXFPUHZOZFAWA
+03:00:33 => Samsung Galaxy Tab A11 4 GB RAM 64 GB ROM 8.7 inch with Wi-Fi+4G Gaming MediaTek Helio G99 Tablet (Gray) => IN_STOCK => 34999 => 18610 => LSTTABHFTNZVFXFPUHZOZFAWA
+12:57:27 => Samsung Galaxy Tab A11 4 GB RAM 64 GB ROM 8.7 inch with Wi-Fi+4G Gaming MediaTek Helio G99 Tablet (Gray) => OUT_OF_STOCK => 34999 => 18610 => LSTTABHFTNZVFXFPUHZOZFAWA
+12:57:27 => Samsung Galaxy Tab A11 4 GB RAM 64 GB ROM 8.7 inch with Wi-Fi+4G Gaming MediaTek Helio G99 Tablet (Gray) => OUT_OF_STOCK => 34999 => 18610 => LSTTABHFTNZVFXFPUHZOZFAWA
+12:57:27 => Samsung Galaxy Tab A11 4 GB RAM 64 GB ROM 8.7 inch with Wi-Fi+4G Gaming MediaTek Helio G99 Tablet (Gray) => OUT_OF_STOCK => 34999 => 18610 => LSTTABHFTNZVFXFPUHZOZFAWA
+12:57:27 => Samsung Galaxy Tab A11 4 GB RAM 64 GB ROM 8.7 inch with Wi-Fi+4G Gaming MediaTek Helio G99 Tablet (Gray) => OUT_OF_STOCK => 34999 => 18610 => LSTTABHFTNZVFXFPUHZOZFAWA
+18:32:36 => Samsung Galaxy Tab A7 3 GB RAM 64 GB ROM 10.4 inch with Wi-Fi Only Qualcomm Snapdragon 662 Tablet (Dark Grey) => IN_STOCK => 21999 => 12999 => LSTTABGFZY2Y8P8KZXUJOHH6G
+00:31:45 => Samsung Galaxy Tab A9 4 GB RAM 64 GB ROM 22.1 inch with 4G Gaming MediaTek Helio G99 Tablet (Graphite) => IN_STOCK => 19999 => 11768 => LSTTABGTF4GK2ZMM4C8F8LVQH
+00:31:45 => Samsung Galaxy Tab A8 4 GB RAM 64 GB ROM 10.5 inch with 4G Octa Core Tablet (Gray) => IN_STOCK => 28999 => 14999 => LSTTABGA36YQUPDGJZKMZBMUH
+00:31:45 => Samsung Galaxy Tab A9+ 8 GB RAM 128 GB ROM 11.0 inch with Wi-Fi+5G Qualcomm Snapdragon 695 Tablet (Navy) => IN_STOCK => 32999 => 17599 => LSTTABGTF4GRCRW7FAZJP4MXH
+00:31:45 => Samsung Galaxy Tab A9+ 8 GB RAM 128 GB ROM 11.0 inch with Wi-Fi+5G Qualcomm Snapdragon 695 Tablet (Silver) => IN_STOCK => 32999 => 18490 => LSTTABGTF4GNVTZTZPMMHTMFR

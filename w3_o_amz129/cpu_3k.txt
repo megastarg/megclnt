@@ -1,0 +1,6 @@
+06-09-26
+01-03-26
+03:01:50 => Sparewave CPU Cooling fan for Asus TUF Gaming FX505 FX566 FX705 FX705G FX766 FX766LI FX95 CPU Cooling Fan (0 MB RAM/NA Graphics/No OS) Workstation => IN_STOCK => 999 => 467 => LSTCPUHMHSFXH46WZFHYK3QPJ
+03:01:50 => KAVTRON Intel Stock Fan i3,i5,i7 CPU Cooling Aluminum Heatsink LGA Socket 1155/1150/1156 NA (0 MB RAM/NA Graphics/64 GB SSD Capacity/No OS) Full Tower => IN_STOCK => 899 => 599 => LSTCPUGHMHRYRZJKBVJAXID67
+04:03:15 => KAVTRON Intel Stock Fan i3,i5,i7 CPU Cooling Aluminum Heatsink LGA Socket 1155/1150/1156 NA (0 MB RAM/NA Graphics/64 GB SSD Capacity/No OS) Full Tower => OUT_OF_STOCK => 899 => 599 => LSTCPUGHMHRYRZJKBVJAXID67
+06:43:24 => Sparewave CPU Cooling fan for Asus TUF Gaming FX505 FX566 FX705 FX705G FX766 FX766LI FX95 CPU Cooling Fan (0 MB RAM/NA Graphics/No OS) Workstation => OUT_OF_STOCK => 999 => 467 => LSTCPUHMHSFXH46WZFHYK3QPJ

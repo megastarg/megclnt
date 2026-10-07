@@ -1,0 +1,21 @@
+04-10-26
+03:00:27 => CAUL X1 Classic 2G Feature Phone| Dual SIM| 1.77 Inch LCD Display| 1000mAh Battery => IN_STOCK => 1499 => 982 => LSTMOBHNGX2FZY6RWN4POXTJV
+03:00:27 => CAUL NANO 2G Feature Phone with 1.77-inch LCD Display| Dual SIM| 1000mAh Battery => IN_STOCK => 1499 => 1079 => LSTMOBHNGXFSXJKAQ2GAZXIYM
+03:00:27 => CAUL X1 Classic 2G Feature Phone| Dual SIM| 1.77 Inch LCD Display| 1000mAh Battery => IN_STOCK => 1499 => 1261 => LSTMOBHNH338X4FTCNRSPKK7E
+03:00:27 => I Kall N16 Pro Tablet - 4000mAh Battery, Powerful Octa-Core Processor, 8MP Rear Camera 3 GB RAM 32 GB ROM 8 inch with 4G Tablet (Blue) => IN_STOCK => 8999 => 6999 => LSTTABHEQPTAYEMCSJMAEGISI
+03:00:27 => I Kall N16 Pro Tablet - 4000mAh Battery, Powerful Octa-Core Processor & 8MP Rear Camera 3 GB RAM 32 GB ROM 8 inch with 4G QUAD CORE Tablet (Purple) => IN_STOCK => 8999 => 7199 => LSTTABHEQQDPZQJRTBFHJNIY5
+03:00:27 => SIAVANTAGE s1 ultra 10 (Silver, 32 GB) => IN_STOCK => 9999 => 9300 => LSTMOBHQY3TYXVDDCPJ3SOJPO
+03:00:27 => SIAVANTAGE S1 ultra (Blue, 32 GB) => IN_STOCK => 9999 => 9800 => LSTMOBHQY3SSJA5HNVKFMXTLT
+03:00:27 => Coolpad CP12 Neo Plus (Blue, 64 GB) => IN_STOCK => 12999 => 9999 => LSTMOBHPBRKMAHXE9SDIWVGJT
+06:20:53 => Peace P26 (Black, 128 GB) => IN_STOCK => 10999 => 9500 => LSTMOBHRGRPWSXGNFJKCGDGIO
+06:25:12 => SIAVANTAGE S1 ultra (Blue, 32 GB) => OUT_OF_STOCK => 9999 => 9800 => LSTMOBHQY3SSJA5HNVKFMXTLT
+06:53:30 => Peace P26 (Black, 128 GB) => OUT_OF_STOCK => 10999 => 9500 => LSTMOBHRGRPWSXGNFJKCGDGIO
+07:55:11 => I Kall N16 PRO Tablet - 5000mAh Battery, Powerful Octa-Core Processor, 8MP Rear Camera 4 GB RAM 32 GB ROM 8 inch with 4G Tablet (Blue) => OUT_OF_STOCK => 8999 => 7544 => LSTTABHJN7GF7YVTW3TFEFOFU
+09:12:52 => CAUL X1 Classic 2G Feature Phone| Dual SIM| 1.77 Inch LCD Display| 1000mAh Battery => OUT_OF_STOCK => 1499 => 982 => LSTMOBHNGX2FZY6RWN4POXTJV
+09:12:52 => CAUL NANO 2G Feature Phone with 1.77-inch LCD Display| Dual SIM| 1000mAh Battery => OUT_OF_STOCK => 1499 => 1079 => LSTMOBHNGXFSXJKAQ2GAZXIYM
+09:12:52 => CAUL X1 Classic 2G Feature Phone| Dual SIM| 1.77 Inch LCD Display| 1000mAh Battery => OUT_OF_STOCK => 1499 => 1261 => LSTMOBHNH338X4FTCNRSPKK7E
+11:25:34 => I Kall N16 Pro Tablet - 4000mAh Battery, Powerful Octa-Core Processor, 8MP Rear Camera 3 GB RAM 32 GB ROM 8 inch with 4G Tablet (Blue) => OUT_OF_STOCK => 8999 => 6999 => LSTTABHEQPTAYEMCSJMAEGISI
+11:25:34 => I Kall N16 Pro Tablet - 4000mAh Battery, Powerful Octa-Core Processor & 8MP Rear Camera 3 GB RAM 32 GB ROM 8 inch with 4G QUAD CORE Tablet (Purple) => OUT_OF_STOCK => 8999 => 7199 => LSTTABHEQQDPZQJRTBFHJNIY5
+17:48:06 => SIAVANTAGE s1 ultra 10 (Silver, 32 GB) => OUT_OF_STOCK => 9999 => 9300 => LSTMOBHQY3TYXVDDCPJ3SOJPO
+11:35:57 => DOMO SL39 4G Tab 4 GB RAM 32 GB ROM 10.1 inch with 4G MTK 6750 A53 64 bit Octa Core Processor running @ 2.5GHz (1.5GHz QuadCore + 1GHz QuadCore) Tablet (Grey) => IN_STOCK => 24990 => 8490 => LSTTABHEDGGAHRQQZPFKJGPUA
+13:34:00 => DOMO SL39 4G Tab 4 GB RAM 32 GB ROM 10.1 inch with 4G MTK 6750 A53 64 bit Octa Core Processor running @ 2.5GHz (1.5GHz QuadCore + 1GHz QuadCore) Tablet (Grey) => OUT_OF_STOCK => 24990 => 8490 => LSTTABHEDGGAHRQQZPFKJGPUA

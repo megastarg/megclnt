@@ -1,0 +1,52 @@
+2026-09-23 21:46:29,905 - Rotating Log - ERROR - Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/dist-packages/curl_cffi/requests/session.py", line 652, in request
+    c.perform()
+  File "/usr/local/lib/python3.12/dist-packages/curl_cffi/curl.py", line 422, in perform
+    self._check_error(ret, "perform")
+  File "/usr/local/lib/python3.12/dist-packages/curl_cffi/curl.py", line 199, in _check_error
+    raise error
+curl_cffi.curl.CurlError: Failed to perform, curl: (28) Operation timed out after 30002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/html/fkbis/bis2.py", line 119, in loadsite
+    r = requests.post(myurl, data=data, headers=d_shuffled, verify=False, impersonate="chrome110")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/curl_cffi/requests/__init__.py", line 147, in post
+    return request(method="POST", url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/curl_cffi/requests/__init__.py", line 135, in request
+    return s.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/curl_cffi/requests/session.py", line 659, in request
+    raise error(str(e), e.code, rsp) from e
+curl_cffi.requests.exceptions.Timeout: Failed to perform, curl: (28) Operation timed out after 30002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/dist-packages/curl_cffi/requests/session.py", line 652, in request
+    c.perform()
+  File "/usr/local/lib/python3.12/dist-packages/curl_cffi/curl.py", line 422, in perform
+    self._check_error(ret, "perform")
+  File "/usr/local/lib/python3.12/dist-packages/curl_cffi/curl.py", line 199, in _check_error
+    raise error
+curl_cffi.curl.CurlError: Failed to perform, curl: (28) Operation timed out after 30002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/html/fkbis/bis2.py", line 121, in loadsite
+    r = requests.post(myurl, data=data, headers=d_shuffled, verify=False, impersonate="chrome110")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/curl_cffi/requests/__init__.py", line 147, in post
+    return request(method="POST", url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/curl_cffi/requests/__init__.py", line 135, in request
+    return s.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/curl_cffi/requests/session.py", line 659, in request
+    raise error(str(e), e.code, rsp) from e
+curl_cffi.requests.exceptions.Timeout: Failed to perform, curl: (28) Operation timed out after 30002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+

@@ -1,0 +1,2748 @@
+{
+    "abExperiments": {
+        "revampedFAssured": {
+            "value": true,
+            "abId": "STG|launchedGroup|033288de|h",
+            "expId": "gh-5953-fassured-logo-revamp"
+        },
+        "value_comms": {
+            "value": true,
+            "abId": "STG|launchedGroup|fa30ec3a|h",
+            "expId": "value_comms_shopsy"
+        },
+        "sonicGcpMigration": {
+            "value": true,
+            "abId": "STG|launchedGroup|5c52fd71|h",
+            "expId": "sonic_gcp_migration_desktop"
+        },
+        "collapseFreebies": {
+            "value": true,
+            "abId": "STG|launchedGroup|77803d84|h",
+            "expId": "gh-2934-collapse-freebie-widget"
+        },
+        "enableExpressCheckoutShopsy": {
+            "value": true,
+            "abId": "STG|launchedGroup|5a11c9ad|h",
+            "expId": "enableexpresscheckoutshopsy"
+        },
+        "ecoConfirmModalEnabled": {
+            "value": "false",
+            "abId": "STG|launchedGroup|5a11c9ad|h",
+            "expId": "enableexpresscheckoutshopsy"
+        },
+        "enableSwipeButton": {
+            "value": "false",
+            "abId": "STG|launchedGroup|5a11c9ad|h",
+            "expId": "enableexpresscheckoutshopsy"
+        },
+        "compactV4BPRes": {
+            "value": true,
+            "abId": "STG|launchedGroup|92e3b799|h",
+            "expId": "payloadreductionbp"
+        },
+        "isGroceryDLSEnabled": {
+            "value": true,
+            "abId": "STG|launchedGroup|fb587ba2|h",
+            "expId": "dls_compliant_ghp"
+        },
+        "value_tags_feed": {
+            "value": true,
+            "abId": "STG|launchedGroup|ba8d3149|h",
+            "expId": "value_tags_on_feed"
+        },
+        "groceryHomePageOptimisation": {
+            "value": true,
+            "abId": "STG|launchedGroup|ac30948b|h",
+            "expId": "grocery_hp_optimisations"
+        },
+        "asSearchBarTheme": {
+            "value": true,
+            "abId": "STG|launchedGroup|92fc6b33|h",
+            "expId": "search_bar_theming_bau"
+        },
+        "searchFilterAnimation": {
+            "value": true,
+            "abId": "STG|launchedGroup|02145d74|h",
+            "expId": "gh-5410-animation-on-search-filter"
+        },
+        "enableOneViewDesktopHP": {
+            "value": true,
+            "abId": "STG|launchedGroup|33842643|h",
+            "expId": "oneviewhomepagedesktop"
+        },
+        "isFastFashionThemeEnabled": {
+            "value": true,
+            "abId": "STG|launchedGroup|464e29b5|h",
+            "expId": "fast_fashion_v2"
+        },
+        "new_transition": {
+            "value": true,
+            "abId": "STG|launchedGroup|8860a34a|h",
+            "expId": "mall_transition_new"
+        },
+        "configPollingIntervalDesktop": {
+            "value": 45000,
+            "abId": "STG|launchedGroup|24c4218d|h",
+            "expId": "appconfig_desktop"
+        },
+        "pointToCdnDesktop": {
+            "value": true,
+            "abId": "STG|launchedGroup|24c4218d|h",
+            "expId": "appconfig_desktop"
+        },
+        "abPriceVariationPPEnabled": {
+            "value": true,
+            "abId": "STG|launchedGroup|827977ec|h",
+            "expId": "gh-3794-vas-widget-upgrade-pp-cart"
+        },
+        "abPVPPFinalPricePosition": {
+            "value": 3,
+            "abId": "STG|launchedGroup|827977ec|h",
+            "expId": "gh-3794-vas-widget-upgrade-pp-cart"
+        },
+        "abPVPPDiscountFontWeight": {
+            "value": "MEDIUM",
+            "abId": "STG|launchedGroup|827977ec|h",
+            "expId": "gh-3794-vas-widget-upgrade-pp-cart"
+        },
+        "abPVPPStrikeOffMRPPosition": {
+            "value": 2,
+            "abId": "STG|launchedGroup|827977ec|h",
+            "expId": "gh-3794-vas-widget-upgrade-pp-cart"
+        },
+        "abPVPPStrikeOffMRPFontWeight": {
+            "value": "MEDIUM",
+            "abId": "STG|launchedGroup|827977ec|h",
+            "expId": "gh-3794-vas-widget-upgrade-pp-cart"
+        },
+        "abPVPPFinalPriceFontWeight": {
+            "value": "MEDIUM",
+            "abId": "STG|launchedGroup|827977ec|h",
+            "expId": "gh-3794-vas-widget-upgrade-pp-cart"
+        },
+        "showBestSellerSpotlight": {
+            "value": true,
+            "abId": "STG|launchedGroup|827977ec|h",
+            "expId": "gh-3794-vas-widget-upgrade-pp-cart"
+        },
+        "abPriceVariationSPCartEnabled": {
+            "value": true,
+            "abId": "STG|launchedGroup|827977ec|h",
+            "expId": "gh-3794-vas-widget-upgrade-pp-cart"
+        },
+        "abPVPPDiscountPosition": {
+            "value": 1,
+            "abId": "STG|launchedGroup|827977ec|h",
+            "expId": "gh-3794-vas-widget-upgrade-pp-cart"
+        },
+        "enablePriceVariationForVASWidget": {
+            "value": true,
+            "abId": "STG|launchedGroup|827977ec|h",
+            "expId": "gh-3794-vas-widget-upgrade-pp-cart"
+        },
+        "enhancedDealsTagAB": {
+            "value": true,
+            "abId": "STG|launchedGroup|04fab975|h",
+            "expId": "enhanced_deals_tag_experiment"
+        },
+        "topChartsTitleCopyVariant": {
+            "value": "TITLE_COPY1",
+            "abId": "STG|launchedGroup|d2b0d2b3|h",
+            "expId": "gh-3787-pp-best-seller-reco"
+        },
+        "topChartsSpotlightDisabled": {
+            "value": false,
+            "abId": "STG|launchedGroup|d2b0d2b3|h",
+            "expId": "gh-3787-pp-best-seller-reco"
+        },
+        "recoHighlightsEnabled": {
+            "value": true,
+            "abId": "STG|launchedGroup|d2b0d2b3|h",
+            "expId": "gh-3787-pp-best-seller-reco"
+        },
+        "topChartsBannerIconVariant": {
+            "value": "STATIC_ICON_STAR",
+            "abId": "STG|launchedGroup|d2b0d2b3|h",
+            "expId": "gh-3787-pp-best-seller-reco"
+        },
+        "isTopFilterAnimationV2Enabled": {
+            "value": "true",
+            "abId": "STG|launchedGroup|895401ca|h",
+            "expId": "top_filters_animation_v1"
+        },
+        "isAdPositionChanged": {
+            "value": true,
+            "abId": "STG|launchedGroup|9e6ebec3|h",
+            "expId": "gh-3550-across-funnel-renaming-ads-to-sponsored"
+        },
+        "renameAdToSponsored": {
+            "value": true,
+            "abId": "STG|launchedGroup|9e6ebec3|h",
+            "expId": "gh-3550-across-funnel-renaming-ads-to-sponsored"
+        },
+        "ENABLE_NEW_WIDGET_ON_MSITE": {
+            "value": true,
+            "abId": "STG|launchedGroup|4aad7243|h",
+            "expId": "v2_on_msite_version_3"
+        },
+        "dynamicRecoCardHeight": {
+            "value": true,
+            "abId": "STG|launchedGroup|18952fa7|h",
+            "expId": "pp_-_dynamic_reco_card_height"
+        },
+        "showViewButtonOnPLAAds": {
+            "value": true,
+            "abId": "STG|launchedGroup|2b2648f2|h",
+            "expId": "ghi-213-pp-view-cta-for-pla-add"
+        },
+        "enableLandmarksAndBuildingsOutlines": {
+            "value": true,
+            "abId": "STG|launchedGroup|a1a44e4a|h",
+            "expId": "map_ux_enhancements"
+        },
+        "enableHPMUDesignChanges": {
+            "value": true,
+            "abId": "STG|launchedGroup|f46b74f7|h",
+            "expId": "hmpu_refresh_"
+        },
+        "shouldDisableFallbackImageForPN": {
+            "value": true,
+            "abId": "STG|launchedGroup|a69e0810|h",
+            "expId": "pn_image_load_error"
+        },
+        "isMsiteHtmlStreamingEnabled": {
+            "value": false,
+            "abId": "STG|inlineTargetingRules|793472f9|h",
+            "expId": "msite_html_streaming"
+        },
+        "minBufferMs": {
+            "value": 3500,
+            "abId": "STG|launchedGroup|0f6fc508|h",
+            "expId": "video_load_strategy_experiment_layered_v5"
+        },
+        "bufferForPlaybackAfterRebufferMs": {
+            "value": 1500,
+            "abId": "STG|launchedGroup|0f6fc508|h",
+            "expId": "video_load_strategy_experiment_layered_v5"
+        },
+        "maxBufferMs": {
+            "value": 10000,
+            "abId": "STG|launchedGroup|0f6fc508|h",
+            "expId": "video_load_strategy_experiment_layered_v5"
+        },
+        "bufferForPlaybackMs": {
+            "value": 1500,
+            "abId": "STG|launchedGroup|0f6fc508|h",
+            "expId": "video_load_strategy_experiment_layered_v5"
+        },
+        "videoResolutionViewSizeScale": {
+            "value": 0.75,
+            "abId": "STG|launchedGroup|a75d324f|h",
+            "expId": "view_based_resolution_experiment_layered_v5"
+        },
+        "isVideoResolutionByViewSizeEnabled": {
+            "value": true,
+            "abId": "STG|launchedGroup|a75d324f|h",
+            "expId": "view_based_resolution_experiment_layered_v5"
+        },
+        "enableiOSJustPaySDK": {
+            "value": true,
+            "abId": "STG|launchedGroup|99627049|h",
+            "expId": "justpay__ios"
+        },
+        "enableiOSJustPaySDKV2": {
+            "value": true,
+            "abId": "STG|launchedGroup|66e48ed6|h",
+            "expId": "juspay_ios_v2_minutes"
+        },
+        "enableiOSJustPaySDKFlipkartV2": {
+            "value": true,
+            "abId": "STG|launchedGroup|2bb14007|h",
+            "expId": "juspay_ios_v2_flipkart"
+        },
+        "enableOneViewGhpDesktop": {
+            "value": true,
+            "abId": "STG|launchedGroup|bf57ae88|h",
+            "expId": "ghp_revamp_desktop"
+        },
+        "enableOneViewMhpDesktop": {
+            "value": true,
+            "abId": "STG|launchedGroup|cccc9e27|h",
+            "expId": "bh_rule_testing_for_desktop_hp_-_min_nav"
+        },
+        "atlas_pp": {
+            "value": false,
+            "abId": "STG|prestart|bc0e9f22|h",
+            "expId": "productpage_revamp"
+        },
+        "enableOneViewPP": {
+            "value": true,
+            "abId": "STG|5FMNFApxxknUBpv9yo8dP:override|1409e39f|h",
+            "expId": "neprevamp"
+        },
+        "isPPLCPImagePreloadEnabled": {
+            "value": false,
+            "abId": "STG|inlineTargetingRules|1a2d558d|h",
+            "expId": "msite_pp_preload"
+        },
+        "isGhpMhpSSREnabled": {
+            "value": false,
+            "abId": "STG|inlineTargetingRules|d721a3ad|h",
+            "expId": "msite_ghp_mhp_ssr"
+        },
+        "enableHaptics": {
+            "value": true,
+            "abId": "STG|launchedGroup|3d446348|h",
+            "expId": "haptics_feedback_flo"
+        },
+        "enableAddressBarKeyRemount": {
+            "value": true,
+            "abId": "STG|launchedGroup|8dff313e|h",
+            "expId": "minutes-_rain_fees_and_surge"
+        },
+        "rules.isFloPaginationLoaderEnabled": {
+            "value": true,
+            "abId": "STG|launchedGroup|f0c1b23b|h",
+            "expId": "flo_android_pagination"
+        },
+        "childitemrevamp": {
+            "value": true,
+            "abId": "STG|launchedGroup|2303dd5e|h",
+            "expId": "childitemrevamp"
+        },
+        "isHeroAnimationEnable": {
+            "value": false,
+            "abId": "STG|prestart|dcec5780|h",
+            "expId": "hero_animation_android_layered"
+        },
+        "isMsiteTabbedHeaderEnabled": {
+            "value": false,
+            "abId": "STG|inlineTargetingRules|299de45b|h",
+            "expId": "msite_bottom_bar"
+        },
+        "enablePersistentBottomBar": {
+            "value": false,
+            "abId": "STG|inlineTargetingRules|299de45b|h",
+            "expId": "msite_bottom_bar"
+        },
+        "showBottomBarOnATC": {
+            "value": false,
+            "abId": "STG|inlineTargetingRules|299de45b|h",
+            "expId": "msite_bottom_bar"
+        },
+        "drop_dd_nav": {
+            "value": false,
+            "abId": "STG|inlineTargetingRules|299de45b|h",
+            "expId": "msite_bottom_bar"
+        },
+        "isMsiteBottomBarEnabled": {
+            "value": false,
+            "abId": "STG|inlineTargetingRules|299de45b|h",
+            "expId": "msite_bottom_bar"
+        },
+        "enableMultiBottomBar": {
+            "value": false,
+            "abId": "STG|inlineTargetingRules|299de45b|h",
+            "expId": "msite_bottom_bar"
+        },
+        "show_l1_nav": {
+            "value": false,
+            "abId": "STG|inlineTargetingRules|299de45b|h",
+            "expId": "msite_bottom_bar"
+        },
+        "GeoLandmarkEnabled": {
+            "value": false,
+            "abId": "STG|prestart|9c3e1cc1|h",
+            "expId": "landmark_ab_geocode"
+        },
+        "GeoLandmarkCount": {
+            "value": 1,
+            "abId": "STG|prestart|9c3e1cc1|h",
+            "expId": "landmark_ab_geocode"
+        },
+        "LandmarkThresholdMeters": {
+            "value": 1,
+            "abId": "STG|prestart|9c3e1cc1|h",
+            "expId": "landmark_ab_geocode"
+        },
+        "msite_parallel_fetch": {
+            "value": false,
+            "abId": "STG|prestart|f083a305|h",
+            "expId": "msite_parallel_fetch"
+        },
+        "enableOneviewHLRevamp": {
+            "value": true,
+            "abId": "STG|launchedGroup|83aa2997|h",
+            "expId": "pp_revamp_desktop_v2"
+        },
+        "enableOneviewGroceryRevamp": {
+            "value": true,
+            "abId": "STG|launchedGroup|83aa2997|h",
+            "expId": "pp_revamp_desktop_v2"
+        },
+        "enableOneviewFlipkartRevamp": {
+            "value": true,
+            "abId": "STG|launchedGroup|83aa2997|h",
+            "expId": "pp_revamp_desktop_v2"
+        },
+        "msite_svg_optimisation": {
+            "value": false,
+            "abId": "STG|prestart|6f384292|h",
+            "expId": "msite_svg_optimsiation"
+        },
+        "isHybridTrackerEnabled": {
+            "value": false,
+            "abId": "STG|prestart|23f12fe0|h",
+            "expId": "hybrid_condition_tracker"
+        },
+        "isCmcdEnabled": {
+            "value": true,
+            "abId": "STG|launchedGroup|6699b962|h",
+            "expId": "android_cmcd"
+        },
+        "enableOneViewCartRevamp": {
+            "value": true,
+            "abId": "STG|launchedGroup|8fbcf6f3|h",
+            "expId": "ov_cart_revamp_test"
+        },
+        "msitePPFullPageScroll": {
+            "value": false,
+            "abId": "STG|prestart|0b46a304|h",
+            "expId": "msite_pp_fullpage_scrollable"
+        },
+        "webInfiniteScrollUXImp": {
+            "value": false,
+            "abId": "STG|inlineTargetingRules|05aaaf97|h",
+            "expId": "web_infinite_scroll_improvement"
+        },
+        "desktopInfiniteScrollUXImp": {
+            "value": false,
+            "abId": "STG|inlineTargetingRules|f9101bbf|h",
+            "expId": "desktop_infinite_scroll_imp"
+        },
+        "includeEsmBundle": {
+            "value": false,
+            "abId": "STG|inlineTargetingRules|c64579bf|h",
+            "expId": "msite_esm_bundler"
+        },
+        "web_maps_revamp": {
+            "value": false,
+            "abId": "STG|inlineTargetingRules|b8b719c1|h",
+            "expId": "web_maps_revamp"
+        },
+        "isImageDimensionProviderEnabled": {
+            "value": false,
+            "abId": "STG|prestart|8ffebe0c|h",
+            "expId": "mhp_ghp_image_improvement"
+        },
+        "isModulePreloadEnabled": {
+            "value": false,
+            "abId": "STG|prestart|65ff5e01|h",
+            "expId": "msite_module_preload"
+        },
+        "openLhsViaD1Hl": {
+            "value": "",
+            "abId": "STG|prestart|23fc2e2d|h",
+            "expId": "minutes_snb_changes"
+        },
+        "enableMsiteSearchPageRevamp": {
+            "value": false,
+            "abId": "STG|prestart|23fc2e2d|h",
+            "expId": "minutes_snb_changes"
+        },
+        "isImageDimensionProviderPresent": {
+            "value": false,
+            "abId": "STG|prestart|236e3306|h",
+            "expId": "image_view_optimization"
+        },
+        "crossCart": {
+            "value": "old",
+            "abId": "STG|prestart|00dae71f|h",
+            "expId": "cross_sell_m1_me_essentials-explore_unlayered"
+        },
+        "isParallisationEnabled": {
+            "value": false,
+            "abId": "STG|prestart|0b6e51e5|h",
+            "expId": "payments_request_parellisation"
+        },
+        "sync_autosuggest": {
+            "value": false,
+            "abId": "STG|prestart|91437ef2|h",
+            "expId": "address_autosuggest_sync_exp"
+        },
+        "combo_logic": {
+            "value": "old",
+            "abId": "STG|prestart|137e573c|h",
+            "expId": "cross_sell_m1_combo_logic_unlayered"
+        },
+        "ComboUI": {
+            "value": "control",
+            "abId": "STG|prestart|4ea811c6|h",
+            "expId": "cross_sell_m1_combo_ui_unlayered"
+        },
+        "trunkLogSampleRate": {
+            "value": 1,
+            "abId": "STG|prestart|1f2d5d70|h",
+            "expId": "sampling_nr_log"
+        },
+        "enablePlaceholderLcpShimmer": {
+            "value": false,
+            "abId": "STG|prestart|382055de|h",
+            "expId": "pp_lcp_placeholder"
+        },
+        "enableDirectApiFromBrowser": {
+            "value": false,
+            "abId": "STG|prestart|07df3769|h",
+            "expId": "direct_api_from_browser_ab"
+        },
+        "lazyPackageEnabled": {
+            "value": false,
+            "abId": "STG|prestart|ab2746cf|h",
+            "expId": "rn-lazypackage-android"
+        },
+        "structured_address_extraction": {
+            "value": false,
+            "abId": "STG|prestart|728fc27b|h",
+            "expId": "address_reverse_geocode_v2"
+        },
+        "enableSnBInceptionRevampMsite": {
+            "value": false,
+            "abId": "STG|prestart|e79d2519|h",
+            "expId": "search_inception_msite"
+        },
+        "fk-maps_porting": {
+            "value": false,
+            "abId": "STG|prestart|56fa8087|h",
+            "expId": "fk_all_marketplaces_address_porting"
+        },
+        "API_backend_Call": {
+            "value": false,
+            "abId": "STG|prestart|b0b05d58|h",
+            "expId": "fk_address_gmapsapis_backend"
+        },
+        "Geocode_API_V3": {
+            "value": true,
+            "abId": "STG|prestart|b0b05d58|h",
+            "expId": "fk_address_gmapsapis_backend"
+        },
+        "Search_API_V3": {
+            "value": true,
+            "abId": "STG|prestart|b0b05d58|h",
+            "expId": "fk_address_gmapsapis_backend"
+        },
+        "enablePostTtiRelayout": {
+            "value": false,
+            "abId": "STG|prestart|1ca1b2b2|h",
+            "expId": "rlv-fcp-perf"
+        }
+    },
+    "activateVip": {
+        "asyncStatus": "INIT",
+        "widget": []
+    },
+    "autosuggest": {
+        "query": null,
+        "payloadId": null,
+        "searchHistory": [],
+        "asyncStatus": "INIT",
+        "words": {},
+        "searchBrowseHistoryRequest": {}
+    },
+    "basket": {
+        "asyncStatus": "INIT",
+        "pageLevelError": false
+    },
+    "buyingGuides": {
+        "asyncStatus": "INIT"
+    },
+    "cartData": {
+        "asyncStatus": "INIT",
+        "pageLevelError": false
+    },
+    "saveForLaterData": {
+        "asyncStatus": "INIT",
+        "data": {
+            "requestedStores": []
+        }
+    },
+    "checkoutPage": {
+        "summary": {
+            "asyncStatus": "INIT"
+        },
+        "checkoutAsyncStatus": "INIT",
+        "addressCache": {
+            "newAddressForm": {
+                "id": "newAddressForm",
+                "name": "",
+                "addressLine1": "",
+                "addressLine2": "",
+                "landmark": "",
+                "city": "",
+                "state": "",
+                "pincode": "",
+                "phone": "",
+                "alternatePhone": "",
+                "locationTypeTag": ""
+            }
+        },
+        "visualState": {
+            "login": "EXPANDED",
+            "address": "COLLAPSED",
+            "orderSummary": "COLLAPSED",
+            "payment": "COLLAPSED"
+        },
+        "loginState": {
+            "asyncStatus": "INIT"
+        },
+        "buyNow": {
+            "eids": "",
+            "domain": "physical",
+            "analytics": {},
+            "quantity": 0
+        },
+        "addressLocation": {
+            "asyncStatus": "INIT"
+        },
+        "staticPage": {
+            "asyncStatus": "INIT"
+        }
+    },
+    "claimedReward": {
+        "asyncStatus": "INIT",
+        "widget": []
+    },
+    "compareAddProductData": {
+        "asyncStatus": "INIT",
+        "brandvsproduct": {},
+        "brand": null
+    },
+    "compareBrandData": {
+        "asyncStatus": "INIT"
+    },
+    "comparePageData": {
+        "asyncStatus": "INIT",
+        "showDifference": false
+    },
+    "compareWidgetData": [],
+    "config": {
+        "asyncStatus": "SUCCESS",
+        "data": {
+            "cobrandedExperience": {
+                "yahoo": {
+                    "logo": "https://img1a.flixcart.com/www/promos/new/20161121-160909-yahoo-store.png",
+                    "class": "yahoo-store",
+                    "store-link": "https://in.yahoo.com/",
+                    "store-name": "Go Back to Yahoo.in",
+                    "tracking-name": "yahoocobr",
+                    "pixel-tracking-url": "https://sp.analytics.yahoo.com/spp.pl?a=10000&.yp=10021645",
+                    "search-pixel-url": "https://bat.bing.com/action/0?ti=4003414&Ver=2"
+                },
+                "airtel": {
+                    "logo": "http://img5a.flixcart.com/www/promos/new/20150618-144245-header-airtel-white.png",
+                    "class": "airtel-store",
+                    "store-link": "www.airtel.in",
+                    "store-name": "Go Back to Airtel.in",
+                    "tracking-name": "airtel-cobrand-store"
+                },
+                "axis": {
+                    "logo": "https://rukminim1.flixcart.com/www/245/50/promos/02/06/2017/4a815cb2-29f5-4c5b-a5af-a9278feb1a1b.png?q=90",
+                    "class": "axis-store",
+                    "store-link": "http://axis.store.flipkart.com/",
+                    "store-name": "Go back to Axis Bank",
+                    "tracking-name": "affiliate789",
+                    "footer": "Exclusive Store, for Axis Bank Customers!"
+                },
+                "offers": {
+                    "logo": "https://img1a.flixcart.com/www/promos/new/20150618-145909-header-smartbuy-white.png",
+                    "class": "hdfc-store ",
+                    "store-link": "www.smartbuy.hdfcbank.com",
+                    "store-name": "Go Back to Smart buy",
+                    "tracking-name": "hdfc-cobrand-store",
+                    "footer": "Upto 3x Reward points or 1% cashback on your HDFC Bank cards"
+                },
+                "bhaskar": {
+                    "logo": "http://img6a.flixcart.com/www/promos/new/20150618-142842-header-logo-bhaskar.png",
+                    "class": "bhasker-store ",
+                    "store-link": "www.dainikbhaskar.com",
+                    "store-name": "Go Back to Dainik Bhaskar",
+                    "tracking-name": "dainik-cobrand-store"
+                },
+                "itzcash": {
+                    "logo": "https://rukminim1.flixcart.com/www/245/50/promos/09/01/2017/c1c2c887-ba6f-4346-9bac-fd98e208bb03.png?q=90",
+                    "class": "itzcash-store",
+                    "store-link": "http://itzcash.com",
+                    "store-name": "Go Back to Itzcash-store",
+                    "tracking-name": "itzcash-cobrand-store",
+                    "footer": "Exclusive store, for Itz cash store customers!"
+                },
+                "indusind": {
+                    "logo": "https://img1a.flixcart.com/www/promos/new/20160620-133321-powered-header-indusindbank-new.png",
+                    "class": "indusind-store",
+                    "store-link": "http://indusind.store.flipkart.com/",
+                    "store-name": "Go back go indsland store",
+                    "tracking-name": "indusind-cobrand-store",
+                    "footer": "Exclusive store for Induslnd Bank customers!"
+                },
+                "yono": {
+                    "logo": "https://rukminim1.flixcart.com/www/245/50/promos/13/12/2019/2ad891cf-64df-4873-a27d-2a352a36c4e3.jpg?q=100",
+                    "class": "sbiyono-store ",
+                    "store-link": "http://yono.store.flipkart.com/",
+                    "store-name": "Go Back to SBI Yono",
+                    "tracking-name": "sbiyono-cobrand-store",
+                    "footer": "Exclusive offer for SBI Yono customers - Get a Flipkart Gift Voucher worth 5% of your transaction"
+                }
+            },
+            "degradationData": {
+                "endPointsConfig": {
+                    "4/page/fetch": {
+                        "statusCodes": [
+                            "503",
+                            "429",
+                            "533"
+                        ],
+                        "isBlocking": false
+                    },
+                    "5/cart": {
+                        "statusCodes": [
+                            "503",
+                            "429",
+                            "533"
+                        ],
+                        "isBlocking": false
+                    },
+                    "5/checkout": {
+                        "statusCodes": [
+                            "503",
+                            "429",
+                            "533"
+                        ],
+                        "isBlocking": false
+                    }
+                },
+                "isDegradationDisabled": false,
+                "statusCodesConfig": {
+                    "529": {
+                        "timeRemaining": 10,
+                        "title": "Access Denied",
+                        "image": "https://rukminim1.flixcart.com/www/{@width}/{@height}/promos/28/09/2023/935ce1e9-ca68-4b8c-9e12-f10298bb86d4.png?q={@quality}",
+                        "subtitle": "Our systems have detected an unusual activity. For security reasons, we cannot allow access at this time. If you want this resolved quickly, write to us at app-feedback@flipkart.com.",
+                        "autoRetry": false
+                    }
+                }
+            },
+            "fillersConfig": {
+                "LANDSCAPE": [
+                    {
+                        "imageUrl": "https://rukminim1.flixcart.com/www/{@width}/{@height}/promos/22/05/2023/6350965b-ae8b-4b2a-a298-2ce4c7371f0d.jpg?q={@quality}",
+                        "redirectUrl": "/search?q=camera"
+                    },
+                    {
+                        "imageUrl": "https://rukminim1.flixcart.com/www/{@width}/{@height}/promos/22/05/2023/56b829f7-d4ea-40e9-9c35-900560809a09.jpg?q={@quality}",
+                        "redirectUrl": "/search?q=furniture"
+                    }
+                ],
+                "PORTRAIT": [
+                    {
+                        "imageUrl": "https://rukminim1.flixcart.com/www/{@width}/{@height}/promos/16/05/2023/5bbabbf4-4c7e-42cd-93af-421822916848.jpg?q={@quality}",
+                        "redirectUrl": "/travel/flights"
+                    },
+                    {
+                        "imageUrl": "https://rukminim1.flixcart.com/www/{@width}/{@height}/promos/22/05/2023/44d98c6b-16de-4759-a3c4-9d6412ad8bfa.jpg?q={@quality}",
+                        "redirectUrl": "/search?q=sports"
+                    }
+                ]
+            },
+            "fkc-multi-try-on-categories-list": [],
+            "fkCameraCampaignOnboardingConfig": {
+                "default": {
+                    "onboardingVideo": "https://static-assets-web.flixcart.com/camera/filters/filter-onb-muted.mp4",
+                    "titleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_TITLE",
+                    "subTitleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_SUBTITLE"
+                },
+                "mobileFilters": {
+                    "onboardingVideo": "https://assets.mixkit.co/videos/preview/mixkit-tree-with-yellow-flowers-1173-large.mp4",
+                    "titleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_TITLE",
+                    "subTitleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_SUBTITLE"
+                },
+                "bbd22Home": {
+                    "onboardingVideo": "https://static-assets-web.flixcart.com/camera/filters/filter-onb-muted.mp4",
+                    "titleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_TITLE",
+                    "subTitleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_SUBTITLE"
+                },
+                "internalComms": {
+                    "onboardingVideo": "https://static-assets-web.flixcart.com/camera/filters/filter-onb-muted.mp4",
+                    "titleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_TITLE",
+                    "subTitleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_SUBTITLE"
+                },
+                "mobileZones": {
+                    "onboardingVideo": "https://assets.mixkit.co/videos/preview/mixkit-tree-with-yellow-flowers-1173-large.mp4",
+                    "titleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_TITLE",
+                    "subTitleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_SUBTITLE"
+                },
+                "mobileFestiveZone": {
+                    "onboardingVideo": "https://static-assets-web.flixcart.com/camera/filters/filter-onb-muted.mp4",
+                    "titleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_TITLE",
+                    "subTitleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_SUBTITLE"
+                },
+                "shaFilters": {
+                    "onboardingVideo": "https://static-assets-web.flixcart.com/camera/filters/filter-onb-muted.mp4",
+                    "titleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_TITLE",
+                    "subTitleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_SUBTITLE"
+                },
+                "fashionFilters": {
+                    "onboardingVideo": "https://static-assets-web.flixcart.com/camera/filters/filter-onb-muted.mp4",
+                    "titleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_TITLE",
+                    "subTitleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_SUBTITLE"
+                },
+                "gameFilters": {
+                    "onboardingVideo": "https://static-assets-web.flixcart.com/camera/filters/filter-onb-muted.mp4",
+                    "titleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_TITLE",
+                    "subTitleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_SUBTITLE"
+                },
+                "flipkartAwards": {
+                    "onboardingVideo": "https://static-assets-web.flixcart.com/camera/filters/filter-onb-muted.mp4",
+                    "titleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_TITLE",
+                    "subTitleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_SUBTITLE"
+                },
+                "beautyFilters": {
+                    "onboardingVideo": "https://static-assets-web.flixcart.com/camera/filters/filter-onb-muted.mp4",
+                    "titleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_TITLE",
+                    "subTitleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_SUBTITLE"
+                },
+                "internalFilters": {
+                    "onboardingVideo": "https://static-assets-web.flixcart.com/camera/filters/filter-onb-muted.mp4",
+                    "titleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_TITLE",
+                    "subTitleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_SUBTITLE"
+                },
+                "electroFilters": {
+                    "onboardingVideo": "https://static-assets-web.flixcart.com/camera/filters/filter-onb-muted.mp4",
+                    "titleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_TITLE",
+                    "subTitleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_SUBTITLE"
+                },
+                "test": {
+                    "onboardingVideo": "https://static-assets-web.flixcart.com/camera/filters/filter-onb-muted.mp4",
+                    "titleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_TITLE",
+                    "subTitleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_SUBTITLE"
+                },
+                "tes2t": {
+                    "onboardingVideo": "https://static-assets-web.flixcart.com/camera/filters/filter-onb-muted.mp4",
+                    "titleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_TITLE",
+                    "subTitleIrisKey": "FK_CAMERA_ENHANCED_ONBOARDING_WITHOUT_PERMISSION_SUBTITLE"
+                }
+            },
+            "globalConfig": {
+                "deferReco": true,
+                "disableAddNewCardOnSavedCardsSection": true,
+                "disableRecentlyViewed": false,
+                "disableSearch": false,
+                "disableSeo": true,
+                "enableRenderableSnippets": true,
+                "enableSnippetsInSwatches": true,
+                "enableProductPageServerRendering": true,
+                "enableBrowsePageServerRendering": false,
+                "enableHomePageServerRendering": true,
+                "enableTncPageServerRendering": true,
+                "enableCLPServerRendering": true,
+                "enableStreaming": true,
+                "enableH2": true,
+                "enableAllReviewsPageServerRendering": true,
+                "enablePaymentDegrade": false,
+                "enableYahooPixel": false,
+                "enableCriteo": false,
+                "enableFingerPrint": true,
+                "skipCTARender": false,
+                "enableNewProductTitle": true,
+                "enableStickyBasketV2": true,
+                "enableOffersAsSnippets": true,
+                "checkBnplMigration": true,
+                "autoSuggestCacheTTLInMillis": 0,
+                "supportHeliosRedirection": true,
+                "enableUPIPayment": true,
+                "enableCryspIntegration": false,
+                "enableWalletExperiment": true,
+                "disableBrpV1": false,
+                "isFdpConfigIntervalEnabled": true,
+                "fdpBatchTimeInterval": 20000,
+                "enableABV2Changes": true,
+                "enableServerSideABV2": true,
+                "enableClientSideABV2": true,
+                "sessionExpiryTime": 30,
+                "bbdNFRFlags": {
+                    "compactRichNav": true,
+                    "compactRichNavTracking": true,
+                    "seoDedupe": false
+                },
+                "enableEEEChanges": true,
+                "returnIssueId": "4",
+                "returnSubIssueId": "6",
+                "enableReturnTimeline": true,
+                "enableGoToApps": true,
+                "enableNewrelic": true,
+                "disableCODFee": false,
+                "enableCOOTPView": true,
+                "enableSignupPassword": false,
+                "enableLoginPassword": false,
+                "enableUpdateIdentityPassword": false,
+                "enableNewFDPPath": false,
+                "enableOneView": true,
+                "cleanupV4Res": true,
+                "disableOneViewABV2": false,
+                "disableABV2Homepage": true,
+                "disableShopsyV3Chat": false,
+                "blobioAttachmentsDownloadEnabled": false,
+                "cleanupV4BPRes": true,
+                "enable3DS2": true,
+                "isImageSaveDisabled": true,
+                "disableDeleteAccount": false,
+                "isReCaptchaEnabled": true,
+                "enableLRU": true,
+                "disableFdpOnServer": true,
+                "postOrderSonicMigration": true,
+                "enableDesktopODV4": true,
+                "enableDesktopHlOdV4": true,
+                "enableEhcChatWithUs": true,
+                "enableDesktopOCv4": true,
+                "shorteningOdEnabled": true,
+                "enableConsignmentNote": true,
+                "enableMOv4": false,
+                "openLinkInNewTab": true,
+                "cancelReturnNewFlow": true,
+                "enablePennyDrop": false,
+                "isFlightCfwEnabled": true
+            },
+            "NewRelicConfig": {
+                "crashReporting": true,
+                "analyticsEvents": true,
+                "interactionTracing": true,
+                "defaultInteraction": true,
+                "networkRequests": true,
+                "networkErrorRequests": true,
+                "handledException": true,
+                "distributedTracing": false,
+                "nativeReporting": true
+            },
+            "supportHeliosRedirection": true,
+            "tooltip-zion-services": {
+                "deliverdBy": "**Shipping Policy of Flipkart:**\n\n- In case your order is not delivered even after the delivery confirmation email/SMS is shared with you, please contact us within 7 days to report this issue. Issue reported after 7 days of delivery confirmation email/SMS being sent will be automatically rejected.",
+                "tentativeRelease": "__What is the tentative delivery time?__\n\n Sellers generally procure and ship the items within the time specified on the product page. Business days exclude public holidays and Sundays.\n\n Estimated delivery time depends on the following factors:\n * The Seller offering the product \n * Product's availability with the Seller \n * The destination to which you want the order shipped to and the Seller's location\n\n__Why does the delivery date not correspond to the delivery timeline of X-Y business days?__ \n\n It is possible that the Seller or our courier partners observe a holiday between the day you placed your order and the date of delivery, which is based on the timelines shown on the product page. In this case, we add a day to the estimated date. Some courier partners and Sellers do not work on Sundays and this is factored in to the delivery dates. \n\n __Why does the estimated delivery time vary for each seller?__ \n\n You have probably noticed varying estimated delivery times for Sellers of the product you are interested in. Delivery times are influenced by product availability, geographic location of the Seller, your shipping destination and the courier partner's time-to-deliver to your location. \n\n Please enter your default pin code on the product page (you don't have to enter it every single time) to know more accurate delivery times on the product page itself. \n\n __Seller does not/cannot ship to my area. Why?__ \n\n Enter your pincode on the product page (you don't have to enter it every single time) to know whether the product can be delivered to your location. \n\n If you haven't provided your pincode until the checkout stage, the pincode in your last used shipping address will be used to check for serviceability. \n\n Whether your location can be serviced or not depends on:\n\n * Whether the Seller actually ships to your location \n * Legal restrictions, if any, in shipping particular products to your location \n * The availability of reliable courier partners in your location \n\n At times Sellers prefer not to ship to certain locations. This is entirely at their discretion.\n\n More answers in our <a href='/pages/shipping' target='_blank'>Shipping FAQs \u00bb</a>",
+                "groceryDeliveryCharges": "**What is the estimated delivery time?**\r\n\r\nSupermart delivers at a convenient time as selected by you at the checkout time. Slots for delivery are available from next day.\r\n\r\n**Seller does not/cannot ship to my area. Why?**\r\n\r\nCurrently, Supermart is available only in select cities. We hope to launch in your location soon!",
+                "emiTableFaq": "\nThis table shows different banks and the respective EMI options based on the product price. This is for indicative purposes only, your EMI payments may differ with total order amount and additional bank charges, if any.",
+                "emiFaq": "\n\n- Select your preferred EMI option at the time of payment.\r\n- Final EMI is calculated on the total value of your order at the time of payment.\r\n- The Bank charges annual interest rates according to the reducing monthly balance. In the monthly reducing cycle, the principal is reduced with every EMI and the interest is calculated on the outstanding balance.\r\n- The minimum order value to avail the EMI payment option is Rs 2,500.\r\n- This option is available only when the cart contains items from a single seller.\r\n- The Bank charges annual interest rates according to the reducing monthly balance. In the monthly reducing cycle, the principal is reduced with every EMI and the interest is calculated on the outstanding balance.\r\n- While you will not be charged a processing fee for availing Flipkart&#39;s EMI option, the interest charged by the bank shall not be refunded by Flipkart.\r\n- You may check with the respective bank/issuer on how a cancellation, refund or pre-closure could affect the EMI terms, and what interest charges would be levied on you for the same.\r\n- For select banks, the interest amount on the first EMI will be calculated from the loan booking date till the payment due date.\r\n- Processing fee if any will be charged by your card issuing Bank. Please check the Terms & conditions of availing EMI with your Bank\r\n- GST may also be levied by the bank as applicable.",
+                "fkAssuredTnC": "Flipkart Assured is the seal of Quality and Reliability. Flipkart Assured products are verified, packed with care and safely dispatched by Flipkart. With extensive quality checks, stringent seller guidelines and reliable & free shipping, Flipkart Assured guarantees a superior and hassle-free shopping experience, every time. \n\n * 6 quality Checks - Flipkart Quality guidelines ensure that extensive quality checks are done from storage to final packaging so that you get exactly what you ordered. \n * Transit Safe Packaging - Flipkart packaging guidelines ensure that your product will be safe in its journey to your doorstep. \n * Reliable Delivery - We ship your product through our most trusted courier partners, ensuring that it not only reaches you safely by the promised date but is also trackable in real-time. \n * Stringent Seller Guidelines - Flipkart Assured badge is given only to select products from our most trusted and reliable sellers to ensure your shopping outcome is perfect,very single time. \n * Free Shipping - All orders above Rs.500 are eligible for FREE shipping. \n * Faster Shipping Options - Large selection of items available with faster shipping options. We ensure you get what you want, when you want.\n\n*Available as a value added service on selected pin codes",
+                "certifiedBuyer": "The '__certified buyer__' badge indicates that this user has purchased this product on Flipkart.",
+                "flipkart_'": "__Flipkart Assured__\n\n Products marked with Flipkart Assured are sold by/sourced from a Seller but are quality checked, stocked, packed and shipped by Flipkart. Expedited delivery* options such as Same Day/In-a-Day Guarantee Delivery are an added bonus. <a href='/flipkart-assured' target='_blank'>Read More</a>\n\n \\* Shipments from locations where relevant permissions have been obtained.",
+                "phonepe_info": "<b>PhonePe UPI</b>\n\nInstant Payment: Just enter your MPIN to pay.\n\nReal Cashback: Transfer PhonePe balance instantly to your bank account for free.\n\nSecure as ATM: Only you know your secret UPI MPIN.",
+                "myProfileFAQ": "#### What happens when I update my email address (or mobile number)?\n\nYour login email id (or mobile number) changes, likewise. You'll receive all your account related communication on your updated email address (or mobile number).\n\n\n#### When will my Flipkart account be updated with the new email address (or mobile number)?\n\nIt happens as soon as you confirm the verification code sent to your email (or mobile) and save the changes.\n\n\n#### What happens to my existing Flipkart account when I update my email address (or mobile number)?\n\nUpdating your email address (or mobile number) doesn't invalidate your account. Your account remains fully functional. You'll continue seeing your Order history, saved information and personal details.\n\n\n#### Does my Seller account get affected when I update my email address?\n\nFlipkart has a 'single sign-on' policy. Any changes will reflect in your Seller account also.",
+                "changePasswordFAQ": "### Your new password must:\n\n- Be at least 4 characters in length\n\n- Not be same as your current password\n\n- Not contain common passwords.",
+                "deactivateFAQ": "### When you deactivate your account\n\n- You are logged out of your Flipkart Account\n\n- Your public profile on Flipkart is no longer visible\n\n- Your reviews/ratings are still visible, while your profile information is shown as \u2018unavailable\u2019 as a result of deactivation.\n\n- Your wishlist items are no longer accessible through the associated public hyperlink. Wishlist is shown as \u2018unavailable\u2019 as a result of deactivation\n\n- You will be unsubscribed from receiving promotional emails from Flipkart\n\n- Your account data is retained and is restored in case you choose to reactivate your account\n\n\n\n### How do I reactivate my Flipkart account?\n\n\n\nReactivation is easy.\n\n\n\nSimply login with your registered email id or mobile number and password combination used prior to deactivation. Your account data is fully restored. Default settings are applied and you will be subscribed to receive promotional emails from Flipkart.\n\n\nFlipkart retains your account data for you to conveniently start off from where you left, if you decide to reactivate your account.\n\n\n### Remember: Account Reactivation can be done on the Desktop version only.",
+                "pickupAddress_unavailable": "Please select the reason for return to proceed further",
+                "safetyNotificationMoreInfo": "\n\n * We save your card number, expiry date and name on card only. We do not save CVV Nos.\n * Be assured, your card details are 100% safe with us. We use world class encryption for storing card details and our systems are PCI DSS security certified.\n * Should you wish to un-save the card, you can do so in the 'Saved Cards' section in the 'My Account' Menu.",
+                "walletFAQ": "__What is PhonePe? What payment options does PhonePe provide?__\n\n PhonePe is a new mobile payment solution. Our goal is to make digital payments so easy and safe that people never have to carry cash or cards again! You can use PhonePe as a wallet or directly make transfers through your linked bank account using UPI. It's safe, easy and instant, you have to use it to believe it!\n\n__What is UPI? What is the advantage of UPI transfers over wallets?__\n\n 'Unified Payment Interface' (UPI) is an instant payment system that allows you to transfer money directly from your bank account. The best part about UPI is that it allows you to make payments with a few clicks without the hassle of sharing bank a/c details or typing your card details, net banking password, OTP, etc. There are many advantages of UPI. The main advantage is that you don't have to block your money by loading it into a wallet. Simply link your bank account and then you can make seamless payments without having to worry about topping up a wallet, wallet spend limits or not earning interest on your money. Makes sense to use UPI for direct bank transfer rather than the plethora of wallets, doesn't it? \n\n__Can I transfer funds from PhonePe wallet? If yes, how much can be transferred?__\n\n Yes, you can transfer funds from PhonePe wallet to your bank account using the Bank Account Number and Branch IFSC Code. You can transfer a maximum of \u20b95,000 in a single transaction and a maximum of \u20b925,000 in a month.\n\n__Can I use an International phone number to activate PhonePe wallet?__\n\n No, currently PhonePe wallet is available only for domestic mobile numbers.",
+                "giftcardFAQ": "__How do I buy / gift a Flipkart Gift Card?__\n\n 1. Enter the name and email address of the person you want to send the Flipkart Gift Card to. \n\n 2. Select the value of the card you would like to purchase, then click 'Proceed To Pay'. \n\n 3. You'll now see the payment options. You can pay by Credit Card / Debit Card / ATM Card / Netbanking. Proceed to pay using your preferred choice. If you need to make any changes to the Gift Card value, you can always click 'Edit' to modify it. \n\n 4. Complete the checkout process to receive an email with the Gift Card details.\n\n__How do I pay with a Flipkart Gift Card?__\n\n 1. Go to flipkart.com and select the items you want to purchase. When you are ready to checkout, click 'Proceed To Pay'. \n\n 2. Select the 'Pay By Gift Card' option. \n\n 3. Enter your 16-digit gift card number and the corresponding 6-digit PIN number when prompted. \n\n 4. If the Gift Card value doesn't cover your Order total, you will be prompted to select an additional payment method. \n\n NOTE: Funds will be deducted from your Flipkart Gift Card when you place your order. In case of any adjustment or cancellation at a later stage, we will credit the refund back to your Gift Card. \n\n__Does my Flipkart Gift Card expire?__\n\n All Flipkart Gift Cards expire 1 year from the date of their creation.",
+                "giftcardTnC": "\n\n 1. Flipkart Gift Cards (\u201cGCs\u201d or \u201cGift Cards\u201d) are issued by Qwikcilver Solutions Pvt. Ltd. ('Qwikcilver') which is a private limited company incorporated under the laws of India, and is authorized by the Reserve Bank of India ('RBI') to issue such Gift Cards. \n 2. The Gift Cards can be redeemed online against Sellers listed on www.flipkart.com or Flipkart Mobile App or Flipkart m-site ('Platform') only. \n 3. Gift Cards can be purchased on www.flipkart.com or Flipkart Mobile App using the following payment modes only - Credit Card, Debit Card and Net Banking. \n 4. Gift Cards can be redeemed by selecting the payment mode as Gift Card. \n 5. Gift Cards cannot be used to purchase other Flipkart Gift Cards or Flipkart First subscriptions. \n 6. Gift Cards cannot be used to make bulk purchases on the Platform. \n 7. If the order value exceeds the Gift Card amount, the balance must be paid by Credit Card/Debit Card/Internet Banking. The Cash on Delivery payment option cannot be used to pay the balance amount.",
+                "savedCardFAQ": "__Why is my card being tokenised?__\n\nAs per the new RBI guidelines to make card data more secure, merchants like Flipkart cannot store the card details of users. As an alternative, RBI has authorised card networks and card issuers to offer card tokenisation services, which means the replacement of actual credit and debit card details with an alternate code called \u201ctoken\u201d. The user can either choose to tokenise their card by giving consent for future transactions or choose to continue without tokenisation.\n\n__What is a token?__\n\nA token is generated when a user gives consent to Flipkart to tokenise their card. A token is a unique value for a combination of card, token requestor (Flipkart is a token requestor & accepts request from the customer for tokenisation of a card and passes it onto the card network to issue a corresponding token) and device. The token does not contain any personal information linked to your card and is generated only when a customer uses a new card for a successful transaction on Flipkart.\n\n__Is it safe to tokenise my card?__\n\nYes. A tokenised card transaction is considered safer as the actual card details are not shared with the Flipkart during transaction processing . Card information is stored with the authorised card networks or card issuers only and Flipkart does not store your 16-digit card number.\n\n__Is tokenisation of card mandatory?__\n\nNo, customer can choose whether or not to tokenise their card.\n\n__What happens if I don\u2019t give consent to secure my card?__\n\nIf you don\u2019t give consent to tokenise your card, you need to enter your card details for every transaction as stipulated under the RBI guidelines.",
+                "savedVpaFAQ": "__Why is my UPI being saved on Flipkart?__\n\nIt's quicker. You can save the hassle of typing in the complete UPI information every time you shop at Flipkart by saving your UPI details. You can make your payment by selecting the saved UPI ID of your choice at checkout. While this is obviously faster, it is also very secure.\n\n__Is it safe to save my UPI on Flipkart?__\n\nAbsolutely. Your UPI ID information is 100 percent safe with us. UPI ID details are non PCI compliant and are non confidential data.\n\n__What all UPI information does Flipkart store?__\n\nFlipkart only stores UPI ID and payment provider details. We do not store UPI PIN/MPIN.\n\n__Can I delete my saved UPI?__\n\nYes, you can delete your UPI ID at any given time.",
+                "bnplTnC": "\n\n 1. Available on select sellers and Flipkart Assured Products only. \n\n 2. You can settle your dues by Credit Card, Debit Card or Netbanking. \n\n 3. Failure to pay by due date may invite a late fee.",
+                "bnplTnCv2": "\n\n 1. Available on products from select sellers only. \n\n 2. You can settle your dues by Credit Card, Debit Card or Netbanking. \n\n 3. Failure to pay by due date may invite a late fee.",
+                "product_page": {
+                    "policy": {
+                        "cancellation_fee": {
+                            "tooltip": "\n\n<b>Cancellation Policy</b>\n\nWe are liable to compensate our sellers and logistics partner for the cost, time and effort they incur while processing an order.\n\nHence, we now charge a cancellation fee on certain products.\n\nKnow more about the Cancellation Policy <a href='/pages/cancellation-tnc' target='_blank'>here</a>"
+                        }
+                    },
+                    "services": {
+                        "cash_on_delivery": {
+                            "tooltip": "__How do I place a Cash on Delivery (C-o-D) order?__ \n\n All items that have the 'Cash on Delivery Available' icon are valid for order by Cash on Delivery. Add the item(s) to your cart and proceed to checkout. When prompted to choose a payment option, select 'Pay By Cash on Delivery'. Enter the CAPTCHA text as shown, for validation. Once verified and confirmed, your order will be processed for shipment in the time specified, from the date of confirmation. You will be required to make a cash-only payment to our courier partner at the time of delivery of your order to complete the payment.\n\n __Terms & Conditions__ \n\n * e-Gift Vouchers or Store Credit cannot be used for C-o-D orders. \n * Cash-only payment at the time of delivery. \n\n More answers in our <a href='/pages/shipping' target='_blank'>Shipping FAQs \u00bb</a>"
+                        },
+                        "cash_on_delivery_part_payment": {
+                            "tooltip": "__How do I place a Cash on Delivery (C-o-D) order with advance payment?__ \n\n Add the item(s) to your cart and proceed to checkout. When prompted to choose a payment option, select 'Pay By Cash on Delivery'. You will be prompted to complete an advance payment to place the Cash on Delivery order. The advance payment can be made using any online payment method like Credit Card, Debit Card, Net Banking or UPI. Once the advance payment is done, your order will be processed for shipment in the time specified, from the date of confirmation. You will be required to make a cash-only payment for the remaining amount to our courier partner at the time of delivery of your order to complete the payment.\n\n __Terms & Conditions__ \n\n * Gift Vouchers or Store Credit cannot be used for C-o-D orders. \n * Cash-only payment at the time of delivery.\n\n More answers in our <a href='/pages/shipping' target='_blank'>Shipping FAQs \u00bb</a>"
+                        },
+                        "slotted_delivery": {
+                            "tooltip": "__How do I get an item delivered at a time convenient for me?__ \n\n While placing an order, you may select the time convenient for you from the available slots.\n\n The item will be delivered at the time you specify. We'll give you a confirmation call before the item is out for delivery.\n\n __Can I change the preferred delivery time after I have selected it at the time of placing the order?__ \n\n Yes. You may change the scheduled time of delivery. Give us a call and tell us what would be convenient for you. We'll reschedule the delivery as per your convenience.\n\n __Do I need to be available in person while taking the delivery?__ \n\n You need not be available in person at the scheduled time of delivery. You may delegate someone to accept the delivery, complete Cash on Delivery payment and sign the delivery sheet. \n\n __Are there any extra charges for scheduling the delivery at a convenient time?__ \n\n No. There are no extra charges. Just check for available slots and pick a time."
+                        },
+                        "gst_invoicing_policy": {
+                            "tooltip": "Users with registered businesses may purchase products for their business requirements offered for sale by sellers on the Platform. Provided, however, purchases on the Platform must only be for end consumption. Users must not use products purchased on the Platform for any commercial, promotional, resale or further distribution purposes.\r\n\r\n *  For purchase of all such products, a Tax Invoice including the GSTIN provided by User (\u201c**GST invoice**\u201d) shall be provided to the User, which will have, *inter alia*, the following details printed on it:\r\n\r\n  \\- GSTIN associated with the registered business of the User as provided by the User  \r\n  \\- Entity name of the registered business of the User as provided by the User  \r\n\r\n\r\n *  Please note that not all products are eligible for GST Invoice. Only select products sold by participating sellers and having a 'GST Invoice Available\u2019 callout on the Product Detail Page of the Platform will be eligible for GST Invoice.\r\n *  GST Invoice will not be eligible on the following products/services:\r\n\r\n  \\- if Value Added Services of Complete Mobile Protection or Assured Buyback are attached to the products\r\n\r\n  \\- if the products are bought along with an exchange offer\r\n\r\n *  Please note that the GST invoice shall contain the details of User\u2019s GSTIN and business entity name as provided by the User. Users should ensure that the details entered by them are accurate. Flipkart and Seller shall not entertain any request for any revision in the GST Invoice. Flipkart and Seller shall not be liable for any default on User\u2019s part including for reasons associated with details provided by the User.\r\n *  Please note that Flipkart is not liable in any manner whatsoever in relation to the GST Invoice or any input tax credit associated therewith.\r\n *  For seamless availment of input tax credit, kindly select the address which is mentioned as the registered place of business as per the records of GST authority. Please note that availment of input tax credit is subject to provisions of GST Act and rules.\r\n *  The delivery and billing addresses will be required to be the same, please note that input tax credit will be denied by GST authority if the delivery address and GSTIN in the GST invoice are of different states.\r\n *  Please note that in case an incorrect GST details are provided during order placement, the order will be automatically cancelled.\r\n *  Please refer to our [Terms of Use][] and Privacy Policy for more details.\r\n\r\n**FAQs**\r\n\r\n1.  **What is GST Invoice option available on the product page?**\r\n\r\n  It is an option available on select products, through which you can enter your GST details during order placement and avail GST invoice which can be used to avail tax input credit.\r\n\r\n1.  **Where can I find the invoice with my GST details printed on it?**\r\n\r\n  The GST Invoice for your order will be shared in the form of a digital copy at your registered email address. You can also download the invoice for an already delivered order by visiting the 'My Orders' section and choosing the order for which you would like to download the invoice.\r\n\r\n1.  **Will I be able to edit my GST details after placing an order?**\r\n\r\n  The option to edit GST details after placing an order is currently not available. You can choose to cancel the ongoing order and place a fresh order with the correct GST details.\r\n\r\n1.  **Is the option of GST Invoice available with all products/sellers?**\r\n\r\n  The option of GST Invoice is currently available only on select products offered by participating sellers. You can visit the product page and scroll to the seller details section and if applicable, GST Invoice option will be clearly displayed. If the seller details do not call this out, it indicates that the seller does not currently provide this service.\r\n\r\n1.  **What are the details I should carefully enter while filling out my GST details?** \r\n\r\n  While entering the GST details ensure that the GST number mentioned is valid and active, belongs to the same state as that of the delivery address and also ensure that you mention the exact name of your registered business.\r\n\r\n1.  **What happens if I fill incorrect details?**\r\n\r\n  Please note that in case incorrect GST details are provided during order placement, the order will be automatically cancelled.\r\n\r\n1.  **My order is eligible for the GST Invoice but why am I not shown this option during order placement?**\r\n\r\n  An order is not eligible for GST Invoice option if value added services/plans/exchange offers are part of the order. You can choose to remove such plans from your order to ensure that your order is eligible for GST Invoice option.\r\n\r\n1.  **Can I get GST Invoice for installation/service/demo that will be charged by the brand after the delivery?**\r\n\r\n  If the delivery/installation/demo amount is charged by the brand, it is not included in the order invoice issued by the seller. Hence, it is not eligible for GST Invoice.\r\n\r\n1.  **What should I do if I missed sharing my GST details / provided incorrect details on the invoice?**\r\n\r\n  The GST related details as provided by the customers are automatically captured and printed on the invoice. Hence, this cannot be changed once the order has been placed. In case you entered the wrong GST details while placing the order, you can choose to cancel it and place a fresh order with the correct details.\r\n\r\n1.  **Can I get my invoice modified?**\r\n\r\n  The seller does not have the option to modify sections of the order invoice once it's generated.\r\n\r\n1.  **If I had entered my GST details while placing an earlier order, do I have to mention it again for the next orders I place?**\r\n\r\n  Please note that the GST details have to be entered each time you place an order for an eligible product in order to receive GST Invoice.\r\n\r\n\r\n[Terms of Use]: https://www.flipkart.com/pages/terms"
+                        },
+                        "return_policy": {
+                            "no_returns": {
+                                "tooltip": "This product is not eligible for returns. <a href='/pages/no-return-products' target='_blank'>Know more.</a>"
+                            },
+                            "2_day_easy_return": {
+                                "tooltip_TABLE": "[{\"Validity\": \"2 days from delivery/installation\",\"Covers\": \"All Return Reasons\",\"Type Accepted\": \"Refund / Replacement\"}]",
+                                "tooltip": "\n\n If there are any issues with your product, you can raise a refund or replacement request within 2 days of receiving the product.\n\nSuccessful pick-up of the product is subject to the following conditions being met:\n\n *  Correct and complete product (with the original brand, article number, undetached MRP tag, product's original packaging, freebies and accessories)\n\n *  The product should be in unused, undamaged and original condition without any stains, scratches, tears or holes and with non-tampered quality check seals/return tags/ warranty seals (wherever applicable)\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            },
+                            "7_day_return_service_centre_action": {
+                                "tooltip": "*Returns are offered only if the product was received in damaged condition. For all other device-related issues, please contact the brand authorized service centre directly:\n\nAuthorized Service Partner Locator :</br>Apple & Beats - <a href='https://locate.apple.com/in/en' target='_blank'>https://locate.apple.com/in/en</a></br>Google - <a href='https://support.google.com/pixelphone/answer/7173456?hl=en-GB' target='_blank'>https://support.google.com/pixelphone/answer/7173456?hl=en-GB</a></br>Realme - <a href='https://www.realme.com/in/support/services' target='_blank'>https://www.realme.com/in/support/services</a></br>Samsung - <a href='https://www.samsung.com/in/support/service-center/' target='_blank'>https://www.samsung.com/in/support/service-center/</a></br>JBL - <a href='https://in.jbl.com/servicecenter.html' target='_blank'>https://in.jbl.com/servicecenter.html</a><br/>\n\n Support Site :</br>Apple & Beats - <a href='https://support.apple.com/en-in' target='_blank'>https://support.apple.com/en-in</a></br>Google - <a href='https://madeby.google.com/intl/en_in/phone/support/' target='_blank'>https://madeby.google.com/intl/en_in/phone/support/</a></br>Realme - <a href='https://www.realme.com/in/support' target='_blank'>https://www.realme.com/in/support</a></br>Samsung - <a href='https://www.samsung.com/in/support/' target='_blank'>https://www.samsung.com/in/support/</a><br/>JBL - <a href='https://support.jbl.com/in/en/' target='_blank'>https://support.jbl.com/in/en/</a>\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            },
+                            "3_day_return_policy_shopsy": {
+                                "tooltip_TABLE": "[{\"Validity\": \"3 days from delivery\",\"Covers\": \"Damaged and Item not as described\",\"Type Accepted\": \"Refund / Replacement\"}]",
+                                "tooltip": "\r\n\r\nIf you have received a damaged product or if it is not as described, you can raise a return request on the Website/App/Mobile site within 3 days of receiving the product. The return will be considered on the basis of successful image check verification by the customer service agent.\r\n\r\nSuccessful pick-up of the product is subject to the following conditions being met:\r\n\r\n- Correct and complete product (with the original brand/product Id/undetached MRP tag/product's original packaging/freebies and accessories).\r\n- The product should be in unused, undamaged and original condition without any scratches or dents.\n\nKnow more about the Return Policy <a href='/pages/reseller-return-policy-may21' target='_blank'>here</a>"
+                            },
+                            "3_day_replacement_policy_shopsy": {
+                                "tooltip_TABLE": "[{\"Validity\": \"3 days from delivery\",\"Covers\": \"Damaged and Item not as described\",\"Type Accepted\": \"Replacement\"}]",
+                                "tooltip": "If you have received a damaged product or if it is not as described, you can raise a return request on the Website/App/Mobile site within 3 days of receiving the product. The replacement will be considered on the basis of successful image check verification by the customer service agent\r\n\r\nSuccessful pick-up of the product is subject to the following conditions being met:\r\n\r\n- Correct and complete product (with the original brand/product Id/undetached MRP tag/product's original packaging/freebies and accessories).\r\n- The product should be in unused, undamaged and original condition without any scratches or dents.\n\nKnow more about the Return Policy <a href='/pages/reseller-return-policy-may21' target='_blank'>here</a>"
+                            },
+                            "7_day_replacement_service_centre_action": {
+                                "tooltip": "Defective:\r\n\r\nBrand assistance for device related issues is subject to brand warranty guidelines and service policies. Please reach out to the nearest**\u00a0brand authorized service centre**\u00a0for more details.\r\n\r\nPlease note that Flipkart is an online marketplace and the final decision on\u00a0**replacement/repair**\u00a0of defective device rests with the seller/brand\r\n\r\n**Authorized Service partner Locator for Brands:[\u00a0Click here](https://www.flipkart.com/pages/service-partner-tnc)**\r\n\r\n**Damaged, Wrong/Missing items:**\r\n\r\nReturns for\u00a0**missing items, damaged product, or wrong produc**t will not be accepted if it is an Open Box Delivery order.\r\n\r\nIf the order is not an Open Box Delivery order, please reach out to Flipkart customer support only in case of missing items, damaged/wrong product within 7 days of delivery\r\n\r\nFor products requiring installation, returns shall be eligible only when such products are installed by the Flipkart / brand authorized personnel.\r\n\r\nKnow more about the Return Policy\u00a0[here](https://www.flipkart.com/pages/returnpolicy)\r\n"
+                            },
+                            "7_day_replacement_lifestyle": {
+                                "tooltip_TABLE": "[{\"Validity\": \"7 days from delivery\",\"Covers\": \"Damaged, Defective, Item not as described\",\"Type Accepted\": \"Replacement\"}]",
+                                "tooltip": "\n\n*If you have received a damaged or defective product or if it is not as described, you can raise a replacement request on the Website/App/Mobile site within 7 days of receiving the product.\n\nSuccessful pick-up of the product is subject to the following conditions being met:\n\n *  Correct and complete product (with the original brand/product Id/undetached MRP tag/product's original packaging/freebies and accessories).\n *  The product should be in unused, undamaged and original condition without any scratches or dents.\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            },
+                            "7_day_replacement_bgm": {
+                                "tooltip_TABLE": "[{\"Validity\": \"7 days from delivery\",\"Covers\": \"Damaged and wrong item received\",\"Type Accepted\": \"Replacement\"}]",
+                                "tooltip": "*If you have received a damaged product or wrong item received, you can raise a replacement request on the Website/App/Mobile site within 7 days of receiving the product. The replacement will be considered on the basis of successful image check verification by the customer service agent..\n\n Successful pick-up of the product is subject to the following conditions being met: \n\n * Correct and complete product (with the original brand, article number, undetached MRP tag, product&#39;s original packaging, freebies and accessories) \n * The product should be in unused, undamaged and original condition without any stains, scratches, tears or holes and with non-tampered quality check seals/return tags/ warranty seals (wherever applicable)\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            },
+                            "7_day_return_policy_bgm": {
+                                "tooltip_TABLE": "[{\"Validity\": \"7 days from delivery\",\"Covers\": \"Damaged and Item not as described\",\"Type Accepted\": \"Refund/Replacement\"}]",
+                                "tooltip": "*If you have received a damaged product or if it is not as described, you can raise a return request on the Website/App/Mobile site within 7 days of receiving the product. The return will be considered on the basis of successful image check verification by the customer service agent.\n\n Successful pick-up of the product is subject to the following conditions being met:\n\n * Correct and complete product (with the original brand/product Id/undetached MRP tag/product's original packaging/freebies and accessories) \n * The product should be in unused, undamaged and original condition without any scratches or dents."
+                            },
+                            "7_day_replacement_laptop": {
+                                "tooltip": "**Defective: The brand will do the verification through on-call support followed by inspection at your doorstep (if required)**\n\n**Physical Damage, Wrong, Missing Items: Flipkart may contact you to ascertain the damaged/missing product prior to issuing the return.**\n\n**Know more:**\n\n1.  Product is eligible for return within 7 days of delivery if it's damaged/defective/different product delivered to you.\n2.  Damaged / different product / missing item, Returns will not be accepted if it is an open box delivery order. Please verify the product before sharing OTP for an OBD order. For Non OBD orders, the customer has to reach out to Flipkart to provide visual proof for further inspection.\n3.  Defective product - The brand will provide on-call support; if the issue is not resolved, a technician will visit your doorstep. The technician will repair the product, provide a replacement, or issue a DOA letter as per the brand's policy. Based on the technician's confirmation, the FK/brand team will take further action. The turnaround time for resolution will be based on brand policies.\n4.  Software issues including OS, driver related issues and hardware issues including display, keyboard, trackpad, battery, speaker related issues that can be resolved by the technician will not be eligible for replacement. The technician will provide appropriate resolution for all these cases.\n5.  The product should be in its original condition, with the brand outer box, MRP tags attached, user manual, warranty cards, DOA seal, CDs, and original accessories in manufacturer packaging during replacement.\n\n**Brand Policy:**\n\n1.  Lenovo:\u00a0 Brand will handle the end-to-end refund process for all defective products based on the invoice value. If the customer does not agree to a refund, the Flipkart team will process a replacement. For customers who purchased the product under an exchange offer, the Flipkart team will process either a refund or a replacement.\n2.  HP: Brand will process the replacement for all defective laptops. If the customer does not agree to a replacement or the brand does not have the same model, the Flipkart team will process the replacement or refund based on the brand's confirmation.\n3.  Asus: For all defective laptops, the brand will share the DOA confirmation. Based on this, the Flipkart team will process the replacement or refund.\n4.  Acer, Infinix : For all defective laptops, the brand will share the DOA confirmation. Based on this, the Flipkart team will process the replacement or refund.\n\nKnow more about the Return Policy [here][]\n\n\n[here]: https://www.flipkart.com/pages/returnpolicy"
+                            },
+                            "7_day_replacement": {
+                                "tooltip": "*For products requiring installation, Returns valid only when installed by Flipkart authorized personnel. \n\n If you have received a damaged or defective product or if it is not as described, you can raise a replacement request on the Website/App/Mobile site within 7 days of receiving the product.\n\n We will help you troubleshoot any issues you may have, either through online tools, over the phone, and/or through an in-person technical visit. Only one (1) replacement will be provided in the unlikely event that the product is defective. If no defect is confirmed or the issue is not diagnosed within 7 days of delivery, you will be directed to a brand service centre to resolve any subsequent issues.\n\n In the rare event that you receive a damaged mobile, please create a return within 48 hours of switching on the device. Returning post 48 hours may result in your return being rejected. \n\n Successful pick-up of the product is subject to the following conditions being met:\n\n * Correct and complete product (with the original brand/product Id/undetached MRP tag/product's original packaging/freebies and accessories).\n * The product should be in unused, undamaged and original condition without any scratches or dents.\n * Before returning a Mobile/Laptop/Tablet, the device should be formatted and screen lock should be disabled. iCloud account should be unlocked for Apple devices.\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>",
+                                "tooltip_TABLE": "[{\"Validity\": \"7 days from delivery\",\"Covers\": \"Damaged, Defective, Item not as described\",\"Type Accepted\": \"Replacement\"}]"
+                            },
+                            "7_day_return": {
+                                "tooltip_TABLE": "[{\"Validity\": \"7 days from delivery\",\"Covers\": \"All Return Reasons\",\"Type Accepted\": \"Refund / Replacement / Exchange\"}]",
+                                "tooltip": "If there is any issues with your product, you can raise a refund, replacement & exchange request within 7 days of receiving the product.\n\nSuccessful pick-up of the product is subject to the following conditions being met:\n\n *  Correct and complete product (with the original brand/product Id/undetached MRP tag/product's original packaging/freebies and accessories).\n\n *  The product should be in unused, undamaged and original condition without any stains, scratches, tears or holes\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            },
+                            "7_days_returns_grocery": {
+                                "tooltip_TABLE": "[{\"Validity\": \"Easy doorstep return\",\"Covers\": \"Damaged & Item not as described\",\"Type Accepted\": \"Refund\"}]",
+                                "tooltip": "If you have received a **damaged product or if it is not as described**, you can return the item immediately during delivery by handing it over to the delivery executive and the refund will be processed accordingly. You can also raise a **one-time return request** for all the items **at once** under one order id that you would like to return, within 7 days of delivery of the order, for any issues, **except for the issues specifically stated below**. Further return requests will not be entertained.\n\n**Returns after delivery for:**\n\n *   **missing items,** \n *  **damaged products, or** \n *  **wrong product** \n\n**will not be accepted if it is an Open Box Delivery order.**\n\nPlease note that \u201c**damaged products**\u201d are defined as products which in itself or its packaging is compromised or altered on a plain human sight, without having to open the packaging of the product, and is thus not in the state it is sold in the market.\n\nWe will pick up the items before initiating a refund. Successful pick-up of the product is subject to the following conditions being met:\n\n *  Correct and complete product free of any damages (including Freebies).\n *  For items being returned on account of being different from what was ordered, please ensure the items are not opened.\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            },
+                            "2_day_return": {
+                                "tooltip": "If you have received a **damaged product or if it is not as described**, you can return the item immediately during delivery by handing it over to the delivery executive and the refund will be processed accordingly. You can also raise a **one-time return request** for all the items **at once** under one order id that you would like to return, within 7 days of delivery of the order, for any issues, **except for the issues specifically stated below**. Further return requests will not be entertained.\n\n**Returns after delivery for:**\n\n *   **missing items,** \n *  **damaged products, or** \n *  **wrong product** \n\n**will not be accepted if it is an Open Box Delivery order.**\n\nPlease note that \u201c**damaged products**\u201d are defined as products which in itself or its packaging is compromised or altered on a plain human sight, without having to open the packaging of the product, and is thus not in the state it is sold in the market.\n\nWe will pick up the items before initiating a refund. Successful pick-up of the product is subject to the following conditions being met:\n\n *  Correct and complete product free of any damages (including Freebies).\n *  For items being returned on account of being different from what was ordered, please ensure the items are not opened.\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>",
+                                "tooltip_TABLE": "[{\"Validity\": \"2 days from delivery\",\"Covers\": \"Damaged & Item not as described\",\"Type Accepted\": \"Refund\"}]"
+                            },
+                            "2_day_saving_pass": {
+                                "tooltip": "\n\n*2 days return is offered on this product. <a href='/pages/returnpolicy' target='_blank'>Know more</a>"
+                            },
+                            "2_day_digital": {
+                                "tooltip": "\n\nIf you have received a damaged product or if it is not as described, You can raise a request for return within 2 days of delivery.\n\nWe will pick up the items before initiating a refund. Successful pick-up of the product is subject to the following conditions being met:\n\n *  Return request should be made within 2 days of delivery\n *  Product with expiry date post delivery date is not eligible for return.\n *  Correct and complete product, free of any damages (including Freebies).\n *  For items being returned on account of being different from what was ordered, please ensure the items are not opened.\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>",
+                                "tooltip_TABLE": "[{\"Validity\": \"2 days from delivery\",\"Covers\": \"Damaged,  Item not as described\",\"Type Accepted\": \"Refund\"}]"
+                            },
+                            "10_day_exchange": {
+                                "tooltip_TABLE": "[{\"Validity\": \"10 days from delivery\",\"Covers\": \"Size/Color/Fit issues\",\"Type Accepted\": \"Easy Exchange\"}]",
+                                "tooltip": "If there is a size or colour or fit issue with your product, you can raise an exchange request within 10 days of receiving the product. \n\n Successful pick-up of the product is subject to the following conditions being met:\n\n * Correct and complete product (with the original brand, article number, undetached MRP tag, product's original packaging, freebies and accessories)\n - The product should be in unused, undamaged and original condition without any stains, scratches, tears or holes\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            },
+                            "10_day_replacement": {
+                                "tooltip_TABLE": "[{\"Validity\": \"10 days from delivery or installation (as applicable)*\",\"Covers\": \"Damaged, Defective, Item not as described\",\"Type Accepted\": \"Replacement\"}]",
+                                "tooltip": "*For products requiring installation, Returns valid only when installed by Flipkart authorized personnel. \n\n If you have received a damaged or defective product or if it is not as described, you can raise a replacement request on the Website/App/Mobile site within 10 days of receiving the product.\n\nWe will help you troubleshoot any issues you may have, either through online tools, over the phone, and/or through an in-person technical visit. Only one (1) replacement will be provided in the unlikely event that the product is defective. If no defect is confirmed or the issue is not diagnosed within 10 days of delivery, you will be directed to a brand service centre to resolve any subsequent issues.\n\n In the rare event that you receive a damaged mobile, please create a return within 48 hours of switching on the device. Returning post 48 hours may result in your return being rejected. \n\n Successful pick-up of the product is subject to the following conditions being met:\n\n * Correct and complete product (with the original brand/product Id/undetached MRP tag/product's original packaging/freebies and accessories).\n * The product should be in unused, undamaged and original condition without any scratches or dents.\n * Before returning a Mobile/Laptop/Tablet, the device should be formatted and screen lock should be disabled. iCloud account should be unlocked for Apple devices.\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            },
+                            "10_days_returns_grocery": {
+                                "tooltip_TABLE": "[{\"Validity\": \"Easy doorstep return\",\"Covers\": \"Defective & Item not as described\",\"Type Accepted\": \"Refund\"}]",
+                                "tooltip": "If you have received a defective product or if it is not as described, you can return the item immediately during delivery by handing it over to the delivery executive and refund will be processed accordingly. You can also raise a request for return within 10 days of delivery.\n\n We will pick up the items before initiating a refund. Successful pick-up of the product is subject to the following conditions being met: \n\n * Correct and complete product free of any damages (including Freebies). \n * For items being returned on account of being different from what was ordered, please ensure the items are not opened.\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            },
+                            "10_day_return": {
+                                "tooltip_TABLE": "[{\"Validity\": \"10 days from delivery\",\"Covers\": \"All Return Reasons\",\"Type Accepted\": \"Refund / Replacement\"}]",
+                                "tooltip": "If there is any issues with your product, you can raise a refund or replacement request within 10 days of receiving the product.\n\n Successful pick-up of the product is subject to the following conditions being met: \n\n * Correct and complete product (with the original brand, article number, undetached MRP tag, product's original packaging, freebies and accessories) \n * The product should be in unused, undamaged and original condition without any stains, scratches, tears or holes\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            },
+                            "10_day_return_no_replacement": {
+                                "tooltip_TABLE": "[{\"Validity\": \"10 days from delivery\",\"Covers\": \"All product related issues\",\"Type Accepted\": \"Refund Only\"}]",
+                                "tooltip": "If there is any issues with your product, you can raise a refund request within 10 days of receiving the product.\n\n Successful pick-up of the product is subject to the following conditions being met: \n\n * Correct and complete product (with the original brand, article number, undetached MRP tag, product's original packaging, freebies and accessories) \n * The product should be in unused, undamaged and original condition without any stains, scratches, tears or holes\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            },
+                            "10_day_replacement_service_centre_action": {
+                                "tooltip": "*Seller offers replacement only for missing items, product damaged on delivery, or wrong product delivery. \n\n   Brand assistance for device and other issues is subject to brand warranty guidelines and service policies. Please reach out to the nearest brand authorized service centre for more details.\n\nAuthorized Service Partner Locator :</br>Apple & Beats - <a href='https://locate.apple.com/in/en' target='_blank'>https://locate.apple.com/in/en</a></br>Google - <a href='https://support.google.com/pixelphone/answer/7173456?hl=en-GB' target='_blank'>https://support.google.com/pixelphone/answer/7173456?hl=en-GB</a></br>Realme - <a href='https://www.realme.com/in/support/services' target='_blank'>https://www.realme.com/in/support/services</a></br>Samsung - <a href='https://www.samsung.com/in/support/service-center/' target='_blank'>https://www.samsung.com/in/support/service-center/</a></br>\n\n Support Site :</br>Apple & Beats - <a href='https://support.apple.com/en-in' target='_blank'>https://support.apple.com/en-in</a></br>Google - <a href='https://madeby.google.com/intl/en_in/phone/support/' target='_blank'>https://madeby.google.com/intl/en_in/phone/support/</a></br>Realme - <a href='https://www.realme.com/in/support' target='_blank'>https://www.realme.com/in/support</a></br>Samsung - <a href='https://www.samsung.com/in/support/' target='_blank'>https://www.samsung.com/in/support/</a> \n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            },
+                            "10_day_replacement_lifestyle": {
+                                "tooltip_TABLE": "[{\"Validity\": \"10 days from delivery\",\"Covers\": \"Damaged, Defective, Item not as described\",\"Type Accepted\": \"Replacement\"}]",
+                                "tooltip": "If you have received a damaged or defective product or if it is not as described, you can raise a replacement request on the Website/App/Mobile site within 10 days of receiving the product.\n\n Successful pick-up of the product is subject to the following conditions being met:\n\n * Correct and complete product (with the original brand/product Id/undetached MRP tag/product's original packaging/freebies and accessories).\n * The product should be in unused, undamaged and original condition without any scratches or dents.\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            },
+                            "10_day_return_furniture": {
+                                "tooltip_TABLE": "[{\"Validity\": \"10 days from delivery or installation (as applicable)*\",\"Covers\": \"Damaged, Defective, Item not as described\",\"Type Accepted\": \"Refund / Replacement\"}]",
+                                "tooltip": "For products requiring installation, Returns valid only when installed by Flipkart authorized personnel.\n *  If you have received a damaged or defective product or if it is not as described, you can raise a return request on the Website/App/Mobile site within 10 days of receiving the product.\n\nWe will help you troubleshoot any issues you may have, either through online tools, over the phone, and/or through an in-person technical visit. Only one (1) replacement will be provided in the unlikely event that the product is defective. If no defect is confirmed or the issue is not diagnosed within 10 days of delivery, you will be directed to a brand service center to resolve any subsequent issues\n\nSuccessful pick-up of the product is subject to the following conditions being met:\n\n *  Correct and complete product (with the original brand/product Id/undetached MRP tag/product's original packaging/freebies and accessories).\n *  The product should be in unused, undamaged and original condition without any scratches or dents\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            },
+                            "10_day_try_buy": {
+                                "tooltip_TABLE": "[{\"Validity\": \"10 days from delivery\",\"Covers\": \"All Reasons\",\"Type Accepted\": \"Refund\"}]",
+                                "tooltip": "If you are not happy with the performance of the product received or if you have received a damaged or defective product or if it is not as described, you can raise a refund request on the Website/App/Mobile site within 10 days of receiving the product.\n\n Successful pick-up of the product is subject to the following conditions being met: \n * Correct and complete product (with the original brand box and packaging, all in box contents and freebies if any).\n * The product should be undamaged and in original condition without any scratches or dents.\n\nRefunds will be issued only if it is determined that the item was not damaged while in your possession, or is not different from what was shipped to you\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            },
+                            "14_day_return": {
+                                "tooltip_TABLE": "[{\"Validity\": \"14 days from delivery\",\"Covers\": \"All Return Reasons\",\"Type Accepted\": \"Refund / Replacement / Exchange\"}]",
+                                "tooltip": "\n\n*If there is any issue with your product, you can raise a refund, replacement or exchange request within 14 days of receiving the product.\n\nSuccessful pick-up of the product is subject to the following conditions being met:\n\n *  Correct and complete product (with the original brand, article number, undetached MRP tag, product's original packaging, freebies and accessories)\n *  The product should be in unused, undamaged and original condition without any stains, scratches, tears or holes and with non-tampered quality check seals/return tags/ warranty seals (wherever applicable)\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            },
+                            "15_day_return": {
+                                "tooltip_TABLE": "[{\"Validity\": \"15 days from delivery\",\"Covers\": \"All Return Reasons\",\"Type Accepted\": \"Refund / Replacement / Exchange\"}]",
+                                "tooltip": "\n\n*If there is any issues with your product, you can raise a refund, replacement or exchange request within 15 days of receiving the product.\n\nSuccessful pick-up of the product is subject to the following conditions being met:\n\n *  Correct and complete product (with the original brand, article number, undetached MRP tag, product's original packaging, freebies and accessories)\n *  The product should be in unused, undamaged and original condition without any stains, scratches, tears or holes and with non-tampered quality check seals/return tags/ warranty seals (wherever applicable)\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            },
+                            "15_day_replacement_lifestyle": {
+                                "tooltip_TABLE": "[{\"Validity\": \"15 days from delivery\",\"Covers\": \"Damaged, Defective, Item not as described\",\"Type Accepted\": \"Replacement / Exchange\"}]",
+                                "tooltip": "\n\n*If you have received a damaged or defective product or if it is not as described, you can raise a replacement request on the Website/App/Mobile site within 15 days of receiving the product.\n\nSuccessful pick-up of the product is subject to the following conditions being met:\n\n *  Correct and complete product (with the original brand/product Id/undetached MRP tag/product's original packaging/freebies and accessories).\n *  The product should be in unused, undamaged and original condition without any scratches or dents.\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            },
+                            "30_day_exchange": {
+                                "tooltip_TABLE": "[{\"Validity\": \"30 days from delivery\",\"Covers\": \"Size/Color/Fit issues\",\"Type Accepted\": \"Easy Exchange\"}]",
+                                "tooltip": "If there is a size, colour or fit issue with your product, you can raise an exchange request within 30 days of receiving the product.\n\n Successful pick-up of the product is subject to the following conditions being met: \n\n * Correct and complete product (with the original brand, article number, undetached MRP tag, product's original packaging, freebies and accessories) \n * The product should be in unused, undamaged and original condition without any stains, scratches, tears or holes\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            },
+                            "30_day_return_lifestyle": {
+                                "tooltip_TABLE": "[{\"Validity\": \"30 days from delivery\",\"Covers\": \"All Return Reasons\",\"Type Accepted\": \"Refund / Replacement / Exchange\"}]",
+                                "tooltip": "If there is any issues with your product, you can raise a refund, replacement or exchange request within 30 days of receiving the product.\n\n Successful pick-up of the product is subject to the following conditions being met: \n\n * Correct and complete product (with the original brand, article number, undetached MRP tag, product's original packaging, freebies and accessories) \n * The product should be in unused, undamaged and original condition without any stains, scratches, tears or holes and with non-tampered quality check seals/return tags/ warranty seals (wherever applicable)\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            },
+                            "10_day_returns_lifestyle": {
+                                "tooltip_TABLE": "[{\"Validity\": \"10 days from delivery\",\"Covers\": \"All Return Reasons\",\"Type Accepted\": \"Refund / Replacement / Exchange\"}]",
+                                "tooltip": "If there is any issues with your product, you can raise a refund, replacement or exchange request within 10 days of receiving the product.\n\n Successful pick-up of the product is subject to the following conditions being met: \n\n * Correct and complete product (with the original brand, article number, undetached MRP tag, product&#39;s original packaging, freebies and accessories) \n * The product should be in unused, undamaged and original condition without any stains, scratches, tears or holes and with non-tampered quality check seals/return tags/ warranty seals (wherever applicable)\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            },
+                            "30_day_return": {
+                                "tooltip_TABLE": "[{\"Validity\": \"30 days from delivery\",\"Covers\": \"All Return Reasons\",\"Type Accepted\": \"Refund / Replacement \"}]",
+                                "tooltip": "If there are any issues with your product, you can raise a refund, replacement or exchange request within 30 days of receiving the product.\n\n Successful pick-up of the product is subject to the following conditions being met: \n\n * Correct and complete product (with the original brand, article number, undetached MRP tag, product's original packaging, freebies and accessories) \n * The product should be in unused, undamaged and original condition without any stains, scratches, tears or holes and with non-tampered quality check seals/return tags/ warranty seals (wherever applicable)\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            },
+                            "3_day_return_policy": {
+                                "tooltip_TABLE": "[{\"Validity\": \"3 days from delivery\",\"Covers\": \"All Return Reasons\",\"Type Accepted\": \"Refund / Replacement / Exchange \"}]",
+                                "tooltip": "If there is any issues with your product, you can raise a refund, replacement & exchange request within 3 days of receiving the product.\n\nSuccessful pick-up of the product is subject to the following conditions being met:\n\n *  Correct and complete product (with the original brand, article number, undetached MRP tag, product's original packaging, freebies and accessories)\n *  The product should be in unused, undamaged and original condition without any stains, scratches, tears or holes.\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            },
+                            "7_day_replacement_refurbished": {
+                                "tooltip_TABLE": "[{\"Validity\": \"7 days from delivery or installation(as applicable)*\",\"Covers\": \"Damaged, Defective, Item not as described\",\"Type Accepted\": \"Refund / Replacement \"}]",
+                                "tooltip": "\n\n *  \\**For products requiring installation, Returns valid only when installed by Flipkart authorized personnel.\n  If you have received a damaged or defective product or if it is not as described, you can raise a replacement request on the Website/App/Mobile site within 10 days of receiving the product.\n\n We will help you troubleshoot any issues you may have, either through online tools, over the phone, and/or through an in-person technical visit. Only one (1) replacement will be provided in the unlikely event that the product is defective. If no defect is confirmed or the issue is not diagnosed within 10 days of delivery, you will be directed to a brand service center to resolve any subsequent issues.\n\n In the rare event that you receive a damaged mobile, please create a return within 48 hours of switching on the device. Returning post 48 hours may result in your return being rejected.\n\nSuccessful pick-up of the product is subject to the following conditions being met:\n\n *  Correct and complete product (with the original brand/product Id/undetached MRP tag/product&#39;s original packaging/freebies and accessories).\n *  The product should be in unused, undamaged and original condition without any scratches or dents.\n\n *  Before returning a Mobile/Laptop/Tablet, the device should be formatted and screen lock should be disabled. iCloud account should be unlocked for Apple devices.\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            },
+                            "lid_nqa_10_day_return": {
+                                "tooltip_TABLE": "[{\"Validity\": \"0 days from delivery or installation*\",\"Covers\": \"All Return Reasons\",\"Type Accepted\": \"Refund / Replacement \"}]",
+                                "tooltip": "\n\n *  \\*For products requiring installation, Returns valid only when installed by Flipkart authorized personnel.\n *  If you have received a damaged or defective product or if it is not as described, you can raise a replacement request on the Website/App/Mobile site within 10 days of receiving the product.\n\nSuccessful pick-up of the product is subject to the following conditions being met:\n\n *  Correct and complete product (with the original brand/product Id/undetached MRP tag/product's original packaging/freebies and accessories).\n *  The product should be in unused, undamaged and original condition without any scratches or dents, stains, tears or holes and with non-tampered quality check seals/return tags/ warranty seals (wherever applicable)\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            },
+                            "restricted_returns_nrv": {
+                                "tooltip_TABLE": "[{\"Validity\": \"5 days from delivery\",\"Covers\": \"Damaged, expired or wrong product\",\"Type Accepted\": \"Refund / Replacement\"}]",
+                                "tooltip": "Note: Returns should be requested within 5 days of delivery in case of above issues. Images of issues with the product need to be uploaded for return processing.\n\n Successful pick-up of the product is subject to the following conditions: \n\n * Correct and complete product (with the original brand box, undetached MRP tag, product's original packaging, freebies and accessories)\n * The product should be in unused, undamaged and original condition without any stains, scratches, tears or holes.\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            },
+                            "30_day_replacement": {
+                                "tooltip_TABLE": "[{\"Validity\": \"30 days from delivery\",\"Covers\": \"Damaged, Defective, Item not as described\",\"Type Accepted\": \"Easy Replacement\"}]",
+                                "tooltip": "If you have received a damaged or defective product or if it is not as described, you can raise a replacement request within 30 days of receiving the product.\n\n Successful pick-up of the product is subject to the following conditions being met: \n * Correct and complete product (with the original brand, article number, undetached MRP tag, product's original packaging, freebies and accessories)\n * The product should be in unused, undamaged and original condition without any stains, scratches, tears or holes\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            },
+                            "7_day_return_elec_eq": {
+                                "tooltip": "*For products requiring installation, Returns valid only when installed by Flipkart authorized personnel. \n\n If you have received a damaged or defective product or if it is not as described, you can raise a refund or replacement request on the Website/App/Mobile site within 7 days of receiving the product.\n\n We will help you troubleshoot any issues you may have, either through online tools, over the phone, and/or through an in-person technical visit. Only one (1) replacement will be provided in the unlikely event that the product is defective. If no defect is confirmed or the issue is not diagnosed within 7 days of delivery, you will be directed to a brand service centre to resolve any subsequent issues.\n\n In the rare event that you receive a damaged mobile, please create a return within 48 hours of switching on the device. Returning post 48 hours may result in your return being rejected. \n\n Successful pick-up of the product is subject to the following conditions being met:\n\n * Correct and complete product (with the original brand/product Id/undetached MRP tag/product's original packaging/freebies and accessories).\n * The product should be in unused, undamaged and original condition without any scratches or dents.\n * Before returning a Mobile/Laptop/Tablet, the device should be formatted and screen lock should be disabled. iCloud account should be unlocked for Apple devices.\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>",
+                                "tooltip_TABLE": "[{\"Validity\": \"7 days from delivery\",\"Covers\": \"Damaged, Defective, Item not as described\",\"Type Accepted\": \"Refund/Replacement\"}]"
+                            },
+                            "7_day_return_elec_noneq": {
+                                "tooltip": "*For products requiring installation, Returns valid only when installed by Flipkart authorized personnel. \n\n If you have received a damaged product or if it is not as described, you can raise a refund or replacement request on the Website/App/Mobile site within 7 days of receiving the product.\n\n In the rare event that you receive a damaged mobile, please create a return within 48 hours of switching on the device. Returning post 48 hours may result in your return being rejected. \n\n Successful pick-up of the product is subject to the following conditions being met:\n\n * Correct and complete product (with the original brand/product Id/undetached MRP tag/product's original packaging/freebies and accessories).\n * The product should be in unused, undamaged and original condition without any scratches or dents.\n * Before returning a Mobile/Laptop/Tablet, the device should be formatted and screen lock should be disabled. iCloud account should be unlocked for Apple devices.\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>",
+                                "tooltip_TABLE": "[{\"Validity\": \"7 days from delivery\",\"Covers\": \"Damaged, Item not as described\",\"Type Accepted\": \"Refund/Replacement\"}]"
+                            },
+                            "7_day_return_policy_lifestyle": {
+                                "tooltip": "If there is any issues with your product, you can raise a refund, replacement & exchange request within 7 days of receiving the product. \n\n Successful pick-up of the product is subject to the following conditions being met:\n\n * Correct and complete product (with the original brand, article number, undetached MRP tag, product's original packaging, freebies and accessories)\n * The product should be in unused, undamaged and original condition without any stains, scratches, tears or holes\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>",
+                                "tooltip_TABLE": "[{\"Validity\": \"7 days from delivery\",\"Covers\": \"All Return Reasons\",\"Type Accepted\": \"Refund / Replacement / Exchange\"}]"
+                            },
+                            "no_returns_ehc": {
+                                "tooltip_TABLE": "[{\"Validity\": \"5 days from delivery\",\"Covers\": \"Damaged, expired or wrong product\",\"Type Accepted\": \"Refund / Replacement\"}]",
+                                "tooltip": "Note: Returns should be requested within 5 days of delivery in case of above issues. Images of issues with the product need to be uploaded for return processing.\n\n Successful pick-up of the product is subject to the following conditions: \n\n * Correct and complete product (with the original brand box, undetached MRP tag, product's original packaging, freebies and accessories)\n * The product should be in unused, undamaged and original condition without any stains, scratches, tears or holes.\n\nKnow more about the Return Policy <a href='/pages/returnpolicy' target='_blank'>here</a>"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "responseMeta": {
+            "params": {
+                "client": "flipkart",
+                "platform": "desktop",
+                "lang": "en",
+                "appVersion": "0.0.0",
+                "language": "EN"
+            },
+            "versions": {}
+        }
+    },
+    "deferredContent": {},
+    "filters": {
+        "asyncStatus": "INIT"
+    },
+    "grocery": {
+        "offers": {
+            "listingIds": [],
+            "offerData": {}
+        },
+        "marketplaceServiceability": false,
+        "marketPlacePincodeReducer": {
+            "widgetTitle": "Where do you want the delivery ?",
+            "serviceable": false,
+            "asyncStatus": "INIT",
+            "widgetText": "Select city"
+        }
+    },
+    "helpCentre": {
+        "breadCrumbs": [
+            {
+                "title": "Help Centre",
+                "url": "/helpcentre"
+            }
+        ],
+        "catalogs": {
+            "asyncStatus": "INIT",
+            "list": [],
+            "selectedCatalogId": null
+        },
+        "contact": {
+            "callback": {
+                "asyncStatus": "INIT"
+            },
+            "channels": {
+                "asyncStatus": "INIT"
+            },
+            "emailUs": {
+                "asyncStatus": "INIT"
+            },
+            "postal": {
+                "asyncStatus": "INIT"
+            }
+        },
+        "faqs": {
+            "asyncStatus": "INIT",
+            "faqs": {},
+            "selectedFaqId": null,
+            "selectedFaqTitle": null
+        },
+        "getContext": {
+            "asyncStatus": "INIT",
+            "contextFetched": false
+        },
+        "incidents": {
+            "data": {},
+            "asyncStatus": "INIT"
+        },
+        "issueFaq": {
+            "data": {},
+            "asyncStatus": "INIT",
+            "selectedIssueFaq": null,
+            "parentIssue": null
+        },
+        "nonOrderIssue": {
+            "asyncStatus": "INIT"
+        },
+        "orderIssue": {
+            "currentOrderItem": null,
+            "orderIssueItem": null,
+            "showViewMore": false,
+            "asyncStatus": "INIT"
+        },
+        "orderList": {
+            "asyncStatus": "INIT",
+            "orders": {},
+            "pages": 0
+        },
+        "search": {
+            "asyncStatus": "INIT"
+        },
+        "selectedCatalog": {
+            "asyncStatus": "INIT",
+            "data": {}
+        },
+        "serviceTickets": {
+            "incidents": {},
+            "asyncStatus": "INIT"
+        },
+        "subCatalog": {
+            "asyncStatus": "INIT",
+            "data": {},
+            "selectedSubCatalogId": null
+        },
+        "suggestion": {
+            "asyncStatus": "INIT"
+        },
+        "viewType": "INIT"
+    },
+    "inAppNotifications": {
+        "isFetching": false,
+        "notifications": [],
+        "asyncStatus": "INIT"
+    },
+    "infiniteMU": {},
+    "layouts": {
+        "asyncStatus": "INIT"
+    },
+    "lockInData": {
+        "asyncStatus": "INIT"
+    },
+    "lockinTnc": {
+        "asyncStatus": "INIT"
+    },
+    "staticPage": {
+        "asyncStatus": "INIT"
+    },
+    "misc": {
+        "hostname": "www.flipkart.com",
+        "shouldComponentScroll": {
+            "rating": false,
+            "qna": false,
+            "delivery": false
+        },
+        "port": "8081",
+        "nonce": "12177149537698890517",
+        "anchorTagMap": {
+            "atlc2": true,
+            "atlssmo": true
+        },
+        "userDeviceWidth": 1366
+    },
+    "modal": null,
+    "modalActionManager": {},
+    "myAccount": {
+        "myReviews": {
+            "myCompleteReview": {
+                "asyncStatus": "INIT"
+            },
+            "myRecentReview": {
+                "asyncStatus": "INIT"
+            },
+            "myReviewDelete": {
+                "asyncStatus": "INIT"
+            }
+        },
+        "myProfileInfo": {
+            "myPersonalInfo": {
+                "asyncStatus": "INIT"
+            },
+            "updateEmailAndMobile": {
+                "asyncStatus": "INIT"
+            },
+            "changePassword": {
+                "asyncStatus": "INIT"
+            },
+            "deactivateAccount": {
+                "asyncStatus": "INIT"
+            }
+        },
+        "myRewards": {
+            "asyncStatus": "INIT"
+        },
+        "wallet": {
+            "walletBalance": {
+                "asyncStatus": "INIT"
+            },
+            "drawBalance": {
+                "asyncStatus": "INIT"
+            },
+            "activatePhonePe": {
+                "asyncStatus": "INIT"
+            }
+        },
+        "giftcard": {
+            "giftCardList": {
+                "asyncStatus": "INIT"
+            },
+            "addGiftCard": {
+                "asyncStatus": "INIT"
+            },
+            "checkBalance": {
+                "asyncStatus": "INIT"
+            },
+            "buyGiftCard": {
+                "asyncStatus": "INIT"
+            },
+            "denomination": {
+                "asyncStatus": "INIT"
+            },
+            "updateGiftList": {},
+            "sendNotification": {
+                "asyncStatus": "INIT"
+            },
+            "getStateList": {
+                "asyncStatus": "INIT"
+            },
+            "mailer": {
+                "asyncStatus": "INIT"
+            }
+        },
+        "myAddresses": {
+            "asyncStatus": "INIT"
+        },
+        "wishlistPageData": {
+            "asyncStatus": "INIT",
+            "data": {},
+            "products": []
+        },
+        "savedCards": {
+            "savedCards": {
+                "asyncStatus": "INIT"
+            },
+            "savedCardToken": {
+                "asyncStatus": "INIT"
+            },
+            "cardAdditionRedirectStatus": {
+                "asyncStatus": "INIT"
+            },
+            "cardStatusPage": {
+                "asyncStatus": "INIT"
+            }
+        },
+        "savedVpas": {
+            "savedVpas": {
+                "asyncStatus": "INIT"
+            },
+            "savedVpaToken": {
+                "asyncStatus": "INIT"
+            }
+        },
+        "bnpl": {
+            "buyNowPayLater": {
+                "asyncStatus": "INIT",
+                "data": []
+            },
+            "bnplSummary": {
+                "asyncStatus": "INIT",
+                "data": []
+            },
+            "bnplToken": {
+                "asyncStatus": "INIT",
+                "data": []
+            },
+            "bnplAccountSummary": {
+                "asyncStatus": "INIT",
+                "data": []
+            },
+            "bnplLinkedAccounts": {
+                "asyncStatus": "INIT"
+            },
+            "bnplMigration": {
+                "asyncStatus": "INIT",
+                "data": []
+            }
+        },
+        "panCard": {
+            "pancard": {
+                "asyncStatus": "INIT"
+            },
+            "pancardUploaded": {
+                "asyncStatus": "INIT"
+            }
+        }
+    },
+    "networkStatus": "ONLINE",
+    "offerInfo": {
+        "items": []
+    },
+    "pageDataV4": {
+        "page": {
+            "asyncStatus": "INIT",
+            "data": {
+                "ROOT": []
+            },
+            "pageNumber": 0,
+            "timeStamp": 1790383349510
+        },
+        "modal": {
+            "asyncStatus": "INIT",
+            "data": {
+                "ROOT": []
+            },
+            "pageNumber": 0,
+            "timeStamp": 1790383349511,
+            "derivedMetaData": {}
+        },
+        "tabs": {
+            "asyncStatus": "INIT",
+            "data": {
+                "ROOT": []
+            },
+            "pageNumber": 0,
+            "timeStamp": 1790383349511,
+            "derivedMetaData": {}
+        },
+        "browseMetadata": {},
+        "productPageMetadata": {},
+        "lookDetailsPageMetadata": {},
+        "analtyticsData": {}
+    },
+    "payments": {
+        "paymentOptions": {
+            "asyncStatus": "INIT",
+            "nudgeShownSavedCards": []
+        },
+        "paymentAsyncStatus": "INIT",
+        "selectedPaymentOption": {
+            "mainOption": "",
+            "emiCard": ""
+        },
+        "instrumentCheck": {},
+        "payWithDetails": {
+            "asyncStatus": "INIT"
+        },
+        "payByInstrumentType": {
+            "asyncStatus": "INIT"
+        },
+        "emiTerms": {
+            "asyncStatus": "INIT"
+        },
+        "emiState": {
+            "selectedBank": "",
+            "selectedBankEmiType": "",
+            "selectedTenure": "",
+            "selectedSection": "",
+            "selectedSectionKey": ""
+        },
+        "captcha": {
+            "asyncStatus": "INIT"
+        },
+        "emiCards": {
+            "asyncStatus": "INIT"
+        },
+        "emiBanks": {},
+        "emiTenures": {},
+        "emiItemLevelBreakup": {
+            "asyncStatus": "INIT",
+            "breakup": [],
+            "error": null
+        },
+        "netOptions": {
+            "asyncStatus": "INIT"
+        },
+        "upiOptions": {
+            "asyncStatus": "INIT",
+            "upi_apps": [],
+            "selectedUpiOption": ""
+        },
+        "upiPollState": {
+            "asyncStatus": "INIT"
+        },
+        "upiPollInfo": {
+            "asyncStatus": "INIT"
+        },
+        "payViaWallet": {
+            "asyncStatus": "INIT"
+        },
+        "adjustments": {},
+        "otpModes": {
+            "asyncStatus": "INIT"
+        },
+        "otpSubmitState": {
+            "asyncStatus": "INIT"
+        },
+        "advancePaymentBreakup": {
+            "asyncStatus": "INIT"
+        },
+        "selectInstrument": {
+            "asyncStatus": "INIT"
+        },
+        "errorOverlay": {},
+        "emiOnSavedCards": {},
+        "emi2FADetails": {
+            "asyncStatus": "INIT"
+        },
+        "mobileWalletOptions": {
+            "asyncStatus": "INIT",
+            "wallet_apps": [],
+            "preSelectedWalletId": ""
+        },
+        "mobileWalletOtpState": {
+            "asyncStatus": "INIT"
+        },
+        "mobileWalletBalance": {},
+        "rtgsInfo": {},
+        "rtgsPollingStatus": {
+            "asyncStatus": "INIT"
+        },
+        "kfsDetails": {
+            "asyncStatus": "INIT"
+        }
+    },
+    "paymentToken": {
+        "asyncStatus": "INIT",
+        "tokenVersion": "v3",
+        "dcId": "",
+        "error": null
+    },
+    "pincodeData": {
+        "localPincodes": [],
+        "suggestions": [],
+        "regionFilters": {},
+        "invalid": false,
+        "state": null,
+        "error": null,
+        "asyncStatus": "INIT"
+    },
+    "productBuyBack": {
+        "asyncStatus": "INIT"
+    },
+    "productInfo": {
+        "ttl": {}
+    },
+    "productPage": {
+        "verifyImeiInfo": {
+            "asyncStatus": "INIT"
+        },
+        "brandSearchInfo": {
+            "asyncStatus": "INIT"
+        },
+        "exchangeTooltip": {
+            "asyncStatus": "INIT",
+            "data": {
+                "ROOT": []
+            },
+            "pageNumber": 0,
+            "timeStamp": 1790383349511,
+            "derivedMetaData": {}
+        },
+        "exchangeTermsInfo": {
+            "asyncStatus": "INIT"
+        },
+        "productSimilarReco": {
+            "asyncStatus": "INIT"
+        },
+        "productCrossVerticalReco": {
+            "asyncStatus": "INIT"
+        },
+        "productBrowsingHistoryReco": {
+            "asyncStatus": "INIT"
+        },
+        "productDetails": {
+            "asyncStatus": "INIT"
+        },
+        "productActions": {
+            "share": {
+                "asyncStatus": "INIT"
+            }
+        },
+        "productReservation": {
+            "asyncStatus": "INIT"
+        },
+        "productLayout": {
+            "asyncStatus": "INIT"
+        },
+        "productImage": {
+            "defaultMedia": null
+        },
+        "wiggleSwatches": {},
+        "productABBData": {
+            "asyncStatus": "INIT"
+        },
+        "recommendations": {},
+        "updateExchangeAnswer": {},
+        "productAttachs": {},
+        "productEgvReducer": {
+            "asyncStatus": "INIT"
+        }
+    },
+    "productSummary": {},
+    "questionAndAnswer": {
+        "pageData": {
+            "asyncStatus": "INIT"
+        },
+        "inputValue": {
+            "asyncStatus": "INIT"
+        },
+        "deleteAnswer": {
+            "asyncStatus": "INIT"
+        },
+        "allAnswers": {
+            "asyncStatus": "INIT"
+        },
+        "moreContent": {
+            "asyncStatus": "INIT"
+        },
+        "searchQnAData": {
+            "asyncStatus": "INIT"
+        }
+    },
+    "ratingsAndReviews": {
+        "imageReviews": {},
+        "gallery": {
+            "url": "",
+            "asyncStatus": "INIT",
+            "images": [],
+            "imagePositionMap": {},
+            "pageNumber": 1,
+            "hasMorePages": true
+        }
+    },
+    "recentlyViewed": {
+        "asyncStatus": "INIT",
+        "list": []
+    },
+    "reviewPageData": {
+        "asyncStatus": "INIT"
+    },
+    "reviewPageTitle": {
+        "asyncStatus": "INIT"
+    },
+    "reviewsConfirmationPage": {
+        "asyncStatus": "INIT"
+    },
+    "saalListingsData": {
+        "listings": []
+    },
+    "sale": {
+        "asmData": null,
+        "index": 0,
+        "asyncStatus": "INIT",
+        "popup": null,
+        "error": null
+    },
+    "selfServe": {
+        "appContext": {
+            "context": {
+                "maxPageLength": 10
+            },
+            "pageLoadEvents": []
+        },
+        "deliverySlots": {
+            "asyncStatus": "INIT"
+        },
+        "dogfoodingData": {
+            "asyncStatus": "INIT",
+            "topics": {}
+        },
+        "ifscFinderData": {
+            "asyncStatus": "INIT"
+        },
+        "myOrders": {
+            "asyncStatus": "INIT"
+        },
+        "myOrdersV2": {
+            "asyncStatus": "INIT",
+            "adsDatabag": null
+        },
+        "filters": {
+            "asyncStatus": "INIT",
+            "applied": {},
+            "prevApplied": {},
+            "result": {},
+            "applicable": [],
+            "nextCallParams": {},
+            "searched": false,
+            "fetchFilterResults": false
+        },
+        "orderAddress": {
+            "asyncStatus": "INIT"
+        },
+        "orderCancellation": {
+            "asyncStatus": "INIT",
+            "confirmed": false
+        },
+        "orderConfirmationPage": {
+            "asyncStatus": "INIT"
+        },
+        "orderConfirmationPagePS2": {
+            "asyncStatus": "INIT"
+        },
+        "orderConfirmationReco": {
+            "asyncStatus": "INIT"
+        },
+        "postOrderDetails": {
+            "asyncStatus": "INIT"
+        },
+        "postOrderDetailsV2": {
+            "asyncStatus": "INIT"
+        },
+        "returnAddress": {
+            "asyncStatus": "INIT"
+        },
+        "returns": {
+            "asyncStatus": "INIT",
+            "subStatus": "REASON"
+        },
+        "trackOrder": {
+            "data": {},
+            "asyncStatus": "INIT"
+        },
+        "bnplData": {
+            "asyncStatus": "INIT"
+        },
+        "subscribeUnsubscribeData": {
+            "asyncStatus": "INIT"
+        },
+        "returnVisualState": {
+            "orderedSteps": [],
+            "stepVisualStates": {
+                "REASON": "COLLAPSED",
+                "PICKUP_ADDRESS": "COLLAPSED",
+                "IMAGE_UPLOAD": "COLLAPSED",
+                "RETURN_ACTION": "COLLAPSED",
+                "KYC_INFORMATION": "COLLAPSED",
+                "INLINE_RMT": "COLLAPSED"
+            }
+        },
+        "tokens": {
+            "returns": {}
+        },
+        "neftData": {
+            "asyncStatus": "INIT"
+        },
+        "neftIfscFinderData": {
+            "asyncStatus": "INIT"
+        },
+        "cancelReturnData": {
+            "asyncStatus": "INIT"
+        },
+        "ndrData": {
+            "asyncStatus": "INIT"
+        },
+        "reschedule": {},
+        "addressChange": {
+            "asyncStatus": "INIT"
+        },
+        "fileManager": {
+            "files": [],
+            "filesSize": {},
+            "dataURLs": [],
+            "filesV2": {}
+        },
+        "imageInstructions": {
+            "asyncStatus": "INIT"
+        },
+        "serviceListing": {},
+        "payNowPreorder": {
+            "asyncStatus": "INIT"
+        },
+        "prexoChecks": {
+            "asyncStatus": "INIT"
+        },
+        "issues": {
+            "asyncStatus": "INIT"
+        },
+        "issueDetails": {
+            "asyncStatus": "INIT"
+        },
+        "userInfo": null,
+        "blobIO": {
+            "asyncStatus": "INIT"
+        },
+        "nudges": {
+            "asyncStatus": "INIT",
+            "claimedInfo": {
+                "claimed": false
+            },
+            "data": {
+                "reason": null,
+                "REASON_BASED": null,
+                "REASON_AGNOSTIC": null
+            }
+        },
+        "startSmartActionData": {
+            "asyncStatus": "INIT"
+        },
+        "resumeSmartActionData": {
+            "asyncStatus": "INIT"
+        },
+        "claimCashbackData": {
+            "asyncStatus": "INIT"
+        },
+        "cashbackModeData": {
+            "cashbackPageInfo": {
+                "asyncStatus": "INIT"
+            },
+            "confirmCashbackMode": {
+                "asyncStatus": "INIT"
+            },
+            "cachedState": null
+        },
+        "blobIOResource": [],
+        "refundsData": {
+            "savedBankAccountDetails": [],
+            "savedUPIAccountDetails": [],
+            "allowedRefundModes": [],
+            "autoFetchUpiWidget": null,
+            "autoFetchUpi": {
+                "asyncStatus": "INIT"
+            },
+            "newBankAccountDetails": null
+        },
+        "priceLockDetailsData": {
+            "asyncStatus": "INIT"
+        },
+        "pageData": {
+            "asyncStatus": "INIT",
+            "cachedSlotsByPageType": {}
+        },
+        "returnRequests": {
+            "asyncStatus": "INIT"
+        },
+        "recoData": {
+            "asyncStatus": "INIT"
+        }
+    },
+    "sellerDetails": {
+        "asyncStatus": "INIT",
+        "data": []
+    },
+    "sellersPage": {
+        "asyncStatus": "INIT"
+    },
+    "seoMeta": {
+        "isFetching": false,
+        "metadata": {
+            "title": "Online Shopping India Mobile, Cameras, Lifestyle &amp; more Online @ Flipkart.com"
+        },
+        "asyncStatus": "INIT"
+    },
+    "singleReview": {
+        "asyncStatus": "INIT"
+    },
+    "stickyBasket": {
+        "data": {}
+    },
+    "subscription": {
+        "asyncStatus": "INIT"
+    },
+    "suggestions": {},
+    "surveyState": {
+        "asyncStatus": "INIT"
+    },
+    "swatches": {
+        "asyncStatus": "INIT",
+        "productSwatchDetails": {}
+    },
+    "tooltip": {
+        "id": null
+    },
+    "userState": {
+        "cart": {
+            "fkItems": [],
+            "groceryItems": [],
+            "items": []
+        },
+        "asyncStatus": "SUCCESS",
+        "error": null,
+        "abResponse": {
+            "abDataId": -1412962449,
+            "abExperiments": [
+                {
+                    "abId": "STG|launchedGroup|033288de|h",
+                    "appId": "Mapi",
+                    "expId": "gh-5953-fassured-logo-revamp",
+                    "metadata": {
+                        "revampedFAssured": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|fa30ec3a|h",
+                    "appId": "Mapi",
+                    "expId": "value_comms_shopsy",
+                    "metadata": {
+                        "value_comms": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|b1cfdbd0|h",
+                    "appId": "Mapi",
+                    "expId": "sonic_gcp_migration_msite",
+                    "metadata": {
+                        "sonicGcpMigration": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|77803d84|h",
+                    "appId": "Mapi",
+                    "expId": "gh-2934-collapse-freebie-widget",
+                    "metadata": {
+                        "collapseFreebies": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|5c52fd71|h",
+                    "appId": "Mapi",
+                    "expId": "sonic_gcp_migration_desktop",
+                    "metadata": {
+                        "sonicGcpMigration": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|5a11c9ad|h",
+                    "appId": "Mapi",
+                    "expId": "enableexpresscheckoutshopsy",
+                    "metadata": {
+                        "enableExpressCheckoutShopsy": true,
+                        "ecoConfirmModalEnabled": "false",
+                        "enableSwipeButton": "false"
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|92e3b799|h",
+                    "appId": "Mapi",
+                    "expId": "payloadreductionbp",
+                    "metadata": {
+                        "compactV4BPRes": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|fb587ba2|h",
+                    "appId": "Mapi",
+                    "expId": "dls_compliant_ghp",
+                    "metadata": {
+                        "isGroceryDLSEnabled": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|ba8d3149|h",
+                    "appId": "Mapi",
+                    "expId": "value_tags_on_feed",
+                    "metadata": {
+                        "value_tags_feed": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|ac30948b|h",
+                    "appId": "Mapi",
+                    "expId": "grocery_hp_optimisations",
+                    "metadata": {
+                        "groceryHomePageOptimisation": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|92fc6b33|h",
+                    "appId": "Mapi",
+                    "expId": "search_bar_theming_bau",
+                    "metadata": {
+                        "asSearchBarTheme": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|02145d74|h",
+                    "appId": "Mapi",
+                    "expId": "gh-5410-animation-on-search-filter",
+                    "metadata": {
+                        "searchFilterAnimation": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|33842643|h",
+                    "appId": "Mapi",
+                    "expId": "oneviewhomepagedesktop",
+                    "metadata": {
+                        "enableOneViewDesktopHP": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|464e29b5|h",
+                    "appId": "Mapi",
+                    "expId": "fast_fashion_v2",
+                    "metadata": {
+                        "isFastFashionThemeEnabled": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|8860a34a|h",
+                    "appId": "Mapi",
+                    "expId": "mall_transition_new",
+                    "metadata": {
+                        "new_transition": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|24c4218d|h",
+                    "appId": "Mapi",
+                    "expId": "appconfig_desktop",
+                    "metadata": {
+                        "configPollingIntervalDesktop": 45000,
+                        "pointToCdnDesktop": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|827977ec|h",
+                    "appId": "Mapi",
+                    "expId": "gh-3794-vas-widget-upgrade-pp-cart",
+                    "metadata": {
+                        "abPriceVariationPPEnabled": true,
+                        "abPVPPFinalPricePosition": 3,
+                        "abPVPPDiscountFontWeight": "MEDIUM",
+                        "abPVPPStrikeOffMRPPosition": 2,
+                        "abPVPPStrikeOffMRPFontWeight": "MEDIUM",
+                        "abPVPPFinalPriceFontWeight": "MEDIUM",
+                        "showBestSellerSpotlight": true,
+                        "abPriceVariationSPCartEnabled": true,
+                        "abPVPPDiscountPosition": 1,
+                        "enablePriceVariationForVASWidget": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|04fab975|h",
+                    "appId": "Mapi",
+                    "expId": "enhanced_deals_tag_experiment",
+                    "metadata": {
+                        "enhancedDealsTagAB": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|d2b0d2b3|h",
+                    "appId": "Mapi",
+                    "expId": "gh-3787-pp-best-seller-reco",
+                    "metadata": {
+                        "topChartsTitleCopyVariant": "TITLE_COPY1",
+                        "topChartsSpotlightDisabled": false,
+                        "recoHighlightsEnabled": true,
+                        "topChartsBannerIconVariant": "STATIC_ICON_STAR"
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|895401ca|h",
+                    "appId": "Mapi",
+                    "expId": "top_filters_animation_v1",
+                    "metadata": {
+                        "isTopFilterAnimationV2Enabled": "true"
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|9e6ebec3|h",
+                    "appId": "Mapi",
+                    "expId": "gh-3550-across-funnel-renaming-ads-to-sponsored",
+                    "metadata": {
+                        "isAdPositionChanged": true,
+                        "renameAdToSponsored": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|4aad7243|h",
+                    "appId": "Mapi",
+                    "expId": "v2_on_msite_version_3",
+                    "metadata": {
+                        "ENABLE_NEW_WIDGET_ON_MSITE": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|18952fa7|h",
+                    "appId": "Mapi",
+                    "expId": "pp_-_dynamic_reco_card_height",
+                    "metadata": {
+                        "dynamicRecoCardHeight": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|2b2648f2|h",
+                    "appId": "Mapi",
+                    "expId": "ghi-213-pp-view-cta-for-pla-add",
+                    "metadata": {
+                        "showViewButtonOnPLAAds": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|a1a44e4a|h",
+                    "appId": "Mapi",
+                    "expId": "map_ux_enhancements",
+                    "metadata": {
+                        "enableLandmarksAndBuildingsOutlines": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|f46b74f7|h",
+                    "appId": "Mapi",
+                    "expId": "hmpu_refresh_",
+                    "metadata": {
+                        "enableHPMUDesignChanges": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|a69e0810|h",
+                    "appId": "Mapi",
+                    "expId": "pn_image_load_error",
+                    "metadata": {
+                        "shouldDisableFallbackImageForPN": true
+                    }
+                },
+                {
+                    "abId": "STG|inlineTargetingRules|793472f9|h",
+                    "appId": "Mapi",
+                    "expId": "msite_html_streaming",
+                    "metadata": {
+                        "isMsiteHtmlStreamingEnabled": false
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|0f6fc508|h",
+                    "appId": "Mapi",
+                    "expId": "video_load_strategy_experiment_layered_v5",
+                    "metadata": {
+                        "minBufferMs": 3500,
+                        "bufferForPlaybackAfterRebufferMs": 1500,
+                        "maxBufferMs": 10000,
+                        "bufferForPlaybackMs": 1500
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|a75d324f|h",
+                    "appId": "Mapi",
+                    "expId": "view_based_resolution_experiment_layered_v5",
+                    "metadata": {
+                        "videoResolutionViewSizeScale": 0.75,
+                        "isVideoResolutionByViewSizeEnabled": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|99627049|h",
+                    "appId": "Mapi",
+                    "expId": "justpay__ios",
+                    "metadata": {
+                        "enableiOSJustPaySDK": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|66e48ed6|h",
+                    "appId": "Mapi",
+                    "expId": "juspay_ios_v2_minutes",
+                    "metadata": {
+                        "enableiOSJustPaySDKV2": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|2bb14007|h",
+                    "appId": "Mapi",
+                    "expId": "juspay_ios_v2_flipkart",
+                    "metadata": {
+                        "enableiOSJustPaySDKFlipkartV2": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|bf57ae88|h",
+                    "appId": "Mapi",
+                    "expId": "ghp_revamp_desktop",
+                    "metadata": {
+                        "enableOneViewGhpDesktop": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|cccc9e27|h",
+                    "appId": "Mapi",
+                    "expId": "bh_rule_testing_for_desktop_hp_-_min_nav",
+                    "metadata": {
+                        "enableOneViewMhpDesktop": true
+                    }
+                },
+                {
+                    "abId": "STG|5FMNFApxxknUBpv9yo8dP:override|1409e39f|h",
+                    "appId": "Mapi",
+                    "expId": "neprevamp",
+                    "metadata": {
+                        "atlas_pp": true,
+                        "enableOneViewPP": true
+                    }
+                },
+                {
+                    "abId": "STG|prestart|bc0e9f22|h",
+                    "appId": "Mapi",
+                    "expId": "productpage_revamp",
+                    "metadata": {
+                        "atlas_pp": false
+                    }
+                },
+                {
+                    "abId": "STG|inlineTargetingRules|1a2d558d|h",
+                    "appId": "Mapi",
+                    "expId": "msite_pp_preload",
+                    "metadata": {
+                        "isPPLCPImagePreloadEnabled": false
+                    }
+                },
+                {
+                    "abId": "STG|inlineTargetingRules|d721a3ad|h",
+                    "appId": "Mapi",
+                    "expId": "msite_ghp_mhp_ssr",
+                    "metadata": {
+                        "isGhpMhpSSREnabled": false
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|3d446348|h",
+                    "appId": "Mapi",
+                    "expId": "haptics_feedback_flo",
+                    "metadata": {
+                        "enableHaptics": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|8dff313e|h",
+                    "appId": "Mapi",
+                    "expId": "minutes-_rain_fees_and_surge",
+                    "metadata": {
+                        "enableAddressBarKeyRemount": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|f0c1b23b|h",
+                    "appId": "Mapi",
+                    "expId": "flo_android_pagination",
+                    "metadata": {
+                        "rules.isFloPaginationLoaderEnabled": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|2303dd5e|h",
+                    "appId": "Mapi",
+                    "expId": "childitemrevamp",
+                    "metadata": {
+                        "childitemrevamp": true
+                    }
+                },
+                {
+                    "abId": "STG|prestart|dcec5780|h",
+                    "appId": "Mapi",
+                    "expId": "hero_animation_android_layered",
+                    "metadata": {
+                        "isHeroAnimationEnable": false
+                    }
+                },
+                {
+                    "abId": "STG|inlineTargetingRules|299de45b|h",
+                    "appId": "Mapi",
+                    "expId": "msite_bottom_bar",
+                    "metadata": {
+                        "isMsiteTabbedHeaderEnabled": false,
+                        "enablePersistentBottomBar": false,
+                        "showBottomBarOnATC": false,
+                        "drop_dd_nav": false,
+                        "isMsiteBottomBarEnabled": false,
+                        "enableMultiBottomBar": false,
+                        "show_l1_nav": false
+                    }
+                },
+                {
+                    "abId": "STG|prestart|9c3e1cc1|h",
+                    "appId": "Mapi",
+                    "expId": "landmark_ab_geocode",
+                    "metadata": {
+                        "GeoLandmarkEnabled": false,
+                        "GeoLandmarkCount": 1,
+                        "LandmarkThresholdMeters": 1
+                    }
+                },
+                {
+                    "abId": "STG|prestart|f083a305|h",
+                    "appId": "Mapi",
+                    "expId": "msite_parallel_fetch",
+                    "metadata": {
+                        "msite_parallel_fetch": false
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|83aa2997|h",
+                    "appId": "Mapi",
+                    "expId": "pp_revamp_desktop_v2",
+                    "metadata": {
+                        "enableOneviewHLRevamp": true,
+                        "enableOneviewGroceryRevamp": true,
+                        "enableOneviewFlipkartRevamp": true
+                    }
+                },
+                {
+                    "abId": "STG|prestart|6f384292|h",
+                    "appId": "Mapi",
+                    "expId": "msite_svg_optimsiation",
+                    "metadata": {
+                        "msite_svg_optimisation": false
+                    }
+                },
+                {
+                    "abId": "STG|prestart|23f12fe0|h",
+                    "appId": "Mapi",
+                    "expId": "hybrid_condition_tracker",
+                    "metadata": {
+                        "isHybridTrackerEnabled": false
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|6699b962|h",
+                    "appId": "Mapi",
+                    "expId": "android_cmcd",
+                    "metadata": {
+                        "isCmcdEnabled": true
+                    }
+                },
+                {
+                    "abId": "STG|launchedGroup|8fbcf6f3|h",
+                    "appId": "Mapi",
+                    "expId": "ov_cart_revamp_test",
+                    "metadata": {
+                        "enableOneViewCartRevamp": true
+                    }
+                },
+                {
+                    "abId": "STG|prestart|0b46a304|h",
+                    "appId": "Mapi",
+                    "expId": "msite_pp_fullpage_scrollable",
+                    "metadata": {
+                        "msitePPFullPageScroll": false
+                    }
+                },
+                {
+                    "abId": "STG|inlineTargetingRules|05aaaf97|h",
+                    "appId": "Mapi",
+                    "expId": "web_infinite_scroll_improvement",
+                    "metadata": {
+                        "webInfiniteScrollUXImp": false
+                    }
+                },
+                {
+                    "abId": "STG|inlineTargetingRules|f9101bbf|h",
+                    "appId": "Mapi",
+                    "expId": "desktop_infinite_scroll_imp",
+                    "metadata": {
+                        "desktopInfiniteScrollUXImp": false
+                    }
+                },
+                {
+                    "abId": "STG|inlineTargetingRules|c64579bf|h",
+                    "appId": "Mapi",
+                    "expId": "msite_esm_bundler",
+                    "metadata": {
+                        "includeEsmBundle": false
+                    }
+                },
+                {
+                    "abId": "STG|inlineTargetingRules|b8b719c1|h",
+                    "appId": "Mapi",
+                    "expId": "web_maps_revamp",
+                    "metadata": {
+                        "web_maps_revamp": false
+                    }
+                },
+                {
+                    "abId": "STG|prestart|8ffebe0c|h",
+                    "appId": "Mapi",
+                    "expId": "mhp_ghp_image_improvement",
+                    "metadata": {
+                        "isImageDimensionProviderEnabled": false
+                    }
+                },
+                {
+                    "abId": "STG|prestart|65ff5e01|h",
+                    "appId": "Mapi",
+                    "expId": "msite_module_preload",
+                    "metadata": {
+                        "isModulePreloadEnabled": false
+                    }
+                },
+                {
+                    "abId": "STG|prestart|23fc2e2d|h",
+                    "appId": "Mapi",
+                    "expId": "minutes_snb_changes",
+                    "metadata": {
+                        "openLhsViaD1Hl": "",
+                        "enableMsiteSearchPageRevamp": false
+                    }
+                },
+                {
+                    "abId": "STG|prestart|236e3306|h",
+                    "appId": "Mapi",
+                    "expId": "image_view_optimization",
+                    "metadata": {
+                        "isImageDimensionProviderPresent": false
+                    }
+                },
+                {
+                    "abId": "STG|prestart|bb9495cf|h",
+                    "appId": "Mapi",
+                    "expId": "cross_sell_m1_essentials-explore",
+                    "metadata": {
+                        "crossCart": "control"
+                    }
+                },
+                {
+                    "abId": "STG|prestart|0b6e51e5|h",
+                    "appId": "Mapi",
+                    "expId": "payments_request_parellisation",
+                    "metadata": {
+                        "isParallisationEnabled": false
+                    }
+                },
+                {
+                    "abId": "STG|prestart|91437ef2|h",
+                    "appId": "Mapi",
+                    "expId": "address_autosuggest_sync_exp",
+                    "metadata": {
+                        "sync_autosuggest": false
+                    }
+                },
+                {
+                    "abId": "STG|prestart|00dae71f|h",
+                    "appId": "Mapi",
+                    "expId": "cross_sell_m1_me_essentials-explore_unlayered",
+                    "metadata": {
+                        "crossCart": "old"
+                    }
+                },
+                {
+                    "abId": "STG|prestart|137e573c|h",
+                    "appId": "Mapi",
+                    "expId": "cross_sell_m1_combo_logic_unlayered",
+                    "metadata": {
+                        "combo_logic": "old"
+                    }
+                },
+                {
+                    "abId": "STG|prestart|4ea811c6|h",
+                    "appId": "Mapi",
+                    "expId": "cross_sell_m1_combo_ui_unlayered",
+                    "metadata": {
+                        "ComboUI": "control"
+                    }
+                },
+                {
+                    "abId": "STG|prestart|1f2d5d70|h",
+                    "appId": "Mapi",
+                    "expId": "sampling_nr_log",
+                    "metadata": {
+                        "trunkLogSampleRate": 1
+                    }
+                },
+                {
+                    "abId": "STG|prestart|382055de|h",
+                    "appId": "Mapi",
+                    "expId": "pp_lcp_placeholder",
+                    "metadata": {
+                        "enablePlaceholderLcpShimmer": false
+                    }
+                },
+                {
+                    "abId": "STG|prestart|07df3769|h",
+                    "appId": "Mapi",
+                    "expId": "direct_api_from_browser_ab",
+                    "metadata": {
+                        "enableDirectApiFromBrowser": false
+                    }
+                },
+                {
+                    "abId": "STG|prestart|ab2746cf|h",
+                    "appId": "Mapi",
+                    "expId": "rn-lazypackage-android",
+                    "metadata": {
+                        "lazyPackageEnabled": false
+                    }
+                },
+                {
+                    "abId": "STG|prestart|728fc27b|h",
+                    "appId": "Mapi",
+                    "expId": "address_reverse_geocode_v2",
+                    "metadata": {
+                        "structured_address_extraction": false
+                    }
+                },
+                {
+                    "abId": "STG|prestart|e79d2519|h",
+                    "appId": "Mapi",
+                    "expId": "search_inception_msite",
+                    "metadata": {
+                        "enableSnBInceptionRevampMsite": false
+                    }
+                },
+                {
+                    "abId": "STG|prestart|56fa8087|h",
+                    "appId": "Mapi",
+                    "expId": "fk_all_marketplaces_address_porting",
+                    "metadata": {
+                        "fk-maps_porting": false
+                    }
+                },
+                {
+                    "abId": "STG|prestart|b0b05d58|h",
+                    "appId": "Mapi",
+                    "expId": "fk_address_gmapsapis_backend",
+                    "metadata": {
+                        "API_backend_Call": false,
+                        "Geocode_API_V3": true,
+                        "Search_API_V3": true
+                    }
+                },
+                {
+                    "abId": "STG|prestart|1ca1b2b2|h",
+                    "appId": "Mapi",
+                    "expId": "rlv-fcp-perf",
+                    "metadata": {
+                        "enablePostTtiRelayout": false
+                    }
+                }
+            ]
+        },
+        "groceryEnabled": false,
+        "locale": "en",
+        "location": {
+            "communityStore": null,
+            "selectedLocation": null
+        },
+        "lockinResponse": {
+            "flipkartLogoAction": {
+                "action": null,
+                "constraints": null,
+                "customTrackingEvents": null,
+                "fallback": null,
+                "loginType": "LOGIN_NOT_REQUIRED",
+                "nonWidgetizeRedirection": null,
+                "omnitureData": null,
+                "omnitureTracking": null,
+                "originalUrl": "/plus",
+                "params": {
+                    "valid": true,
+                    "screenName": "LOYALTY_PAGE"
+                },
+                "requiredPermissionType": null,
+                "retry": null,
+                "screenType": "multiWidgetPage",
+                "storeValue": {},
+                "subType": null,
+                "tracking": {},
+                "triggerExtraStandardEvents": null,
+                "type": "NAVIGATION",
+                "url": "/plus",
+                "validationMeta": null,
+                "widgetTracking": null,
+                "widgetizedActions": null
+            },
+            "userMembershipState": "NON_LOGGED_IN"
+        },
+        "meta": {
+            "loc": {
+                "ipInfo": {
+                    "country": "India",
+                    "state": "Madhya Pradesh",
+                    "city": "Bhopal",
+                    "ip": "10.65.243.81"
+                }
+            },
+            "ad": {
+                "id": "T=TI179074972401500162832755009298494745855305244265780526400154691978"
+            }
+        },
+        "userCohortResponse": {
+            "segmentIds": null
+        },
+        "accountId": null,
+        "asn": null,
+        "ec": null,
+        "firstName": null,
+        "flipkartFirstUser": false,
+        "isLoggedIn": false,
+        "lastName": null,
+        "ts": 0,
+        "twoFa": false,
+        "omnitureInfo": {
+            "additionProperties": null,
+            "bucketId": "15",
+            "ingestionEnabled": false
+        },
+        "userEmail": null
+    },
+    "wishlistItemDetails": {
+        "asyncStatus": "INIT"
+    },
+    "redeemVoucherReducer": {
+        "asyncStatus": "INIT"
+    },
+    "apiError": {},
+    "floodLights": {
+        "visible": false,
+        "isClickTriggered": false
+    },
+    "userAddressData": {
+        "asyncStatus": "INIT",
+        "data": null
+    },
+    "locationUpdate": {
+        "asyncStatus": "INIT",
+        "data": {
+            "currentPincode": ""
+        }
+    },
+    "productServiceabilityInfo": {
+        "asyncStatus": "INIT",
+        "data": null
+    },
+    "validate2Fa": {
+        "asyncStatus": "INIT"
+    },
+    "actionViewReducer": {
+        "asyncStatus": "INIT"
+    },
+    "notifPrefsAccordion": {
+        "items": []
+    },
+    "TravelSearchData": {
+        "journeyList": [
+            {
+                "minDate": "2026-09-26T00:42:29.586Z",
+                "journeyStartDate": "2026-09-26T00:42:29.586Z",
+                "requestKey": "Sat Sep 26 2026 06:12:29 GMT+0530 (India Standard Time)",
+                "origin": {
+                    "isDirty": false,
+                    "isEmpty": true
+                },
+                "dest": {
+                    "isDirty": false,
+                    "isEmpty": true
+                }
+            }
+        ],
+        "selectedTripType": "ONE_WAY",
+        "travellers": {
+            "adult": 1,
+            "child": 0,
+            "infant": 0
+        },
+        "fieldChanged": "EMPTY"
+    },
+    "TravelSearchValidation": {
+        "isValid": false
+    },
+    "FareCalendarData": {
+        "asyncStatus": "INIT"
+    },
+    "cityAutoSuggestion": {},
+    "sectionSlotData": {
+        "activeIndex": 0,
+        "sectionMetaData": []
+    },
+    "wiggleValidationData": {
+        "wiggleData": {}
+    },
+    "cbcApplyReducer": {
+        "asyncStatus": "INIT"
+    },
+    "fsupPayKeepDeviceReducer": {
+        "asyncStatus": "INIT"
+    },
+    "delayedPageWidgetsData": {
+        "asyncStatus": "INIT",
+        "data": {}
+    },
+    "srpFilterSortData": {
+        "asyncStatus": "INIT",
+        "data": {},
+        "minifiedSearchResultData": {},
+        "noFlightsFound": false,
+        "timestamp": 1790383349589
+    },
+    "travelCancellationFormReducer": {
+        "data": {}
+    },
+    "humanChallengeReducer": {
+        "challengeData": null,
+        "shouldRetriggerAction": false
+    },
+    "dcContextReducer": {
+        "hostName": "2.rome.api.flipkart.com"
+    },
+    "smbData": {
+        "seatForSegment": {},
+        "mealForSegment": {},
+        "baggageForSegment": {},
+        "totalPriceSeat": 0,
+        "totalPriceMeal": 0,
+        "totalPriceBaggage": 0,
+        "throwProductOverselectionError": false,
+        "selectedSegmentIndex": 1,
+        "nextSegmentIndex": 2,
+        "selectedTab": "SEAT",
+        "nextSelectedTab": "MEAL",
+        "numOfTravellers": 1,
+        "showReviewAddOnPopUp": false,
+        "reviewAddOnType": "CHANGE_SEGMENT",
+        "seatTabVisited": false,
+        "mealTabVisited": false,
+        "seatMealSegmentsData": [],
+        "baggageSegmentsData": [],
+        "goToNextSection": false,
+        "availableTabs": {
+            "SEAT": false,
+            "MEAL": false,
+            "BAGGAGE": false
+        },
+        "availableSegmentData": {}
+    },
+    "deleteAccountReducer": {
+        "deleteAccount": {
+            "data": null,
+            "feedback": null,
+            "error": null
+        },
+        "deleteAccountOtp": {
+            "data": null,
+            "feedback": null,
+            "error": null
+        },
+        "deleteAccountToken": {
+            "data": null,
+            "feedback": null,
+            "error": null
+        }
+    }
+}

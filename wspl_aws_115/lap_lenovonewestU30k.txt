@@ -1,0 +1,12 @@
+21-09-26
+03:05:02 => Lenovo Chromebook 11IJL9 Intel Celeron Dual Core N4500 - (4 GB/64 GB EMMC Storage/Chrome OS) Chromebook 11IJL9 Chromebook => IN_STOCK => 36502 => 16990 => LSTCOMHCYMG83BGNQHHQNGMKF
+03:05:02 => Lenovo Chromebook MediaTek Kompanio 520 - (4 GB/128 GB EMMC Storage/Chrome OS) 14M868 Chromebook => IN_STOCK => 38999 => 27949 => LSTCOMGSYYSHRSUEGMG63W2HL
+03:05:02 => Lenovo 100e Chromebook Gen 4 MediaTek MediaTek Kompanio 528 - (4 GB/64 GB EMMC Storage/Chrome OS) 100e Chromebook Gen 4 Chromebook => IN_STOCK => 37690 => 23958 => LSTCOMHA9FKZ7KSC3SZUB9XJX
+03:05:02 => Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520 - (8 GB/64 GB EMMC Storage/Chrome OS) 100e Chromebook Gen 4 Chromebook => IN_STOCK => 37504 => 25990 => LSTCOMHC5G9YPVUM34VT5LFYM
+03:05:02 => Lenovo IdeaPad 1 Intel Celeron Dual Core N4020 - (4 GB/256 GB SSD/Windows 11 Home) 11IGL05 Thin and Light Laptop => IN_STOCK => 38990 => 27290 => LSTCOMGCFNZASDRTZAUFOA46X
+03:05:02 => Lenovo Chromebook Intel Celeron Dual Core N4020 - (4 GB/64 GB EMMC Storage/Chrome OS) 11IGL05 Chromebook => IN_STOCK => 28890 => 23690 => LSTCOMGTZ8KZGVNXUGZI4TTUA
+03:05:02 => Lenovo IdeaPad Slim 3 Intel Intel Celeron Dual Core N4020 - (8 GB/256 GB SSD/Windows 11 Home) 15IGL05 Thin and Light Laptop => IN_STOCK => 38990 => 27990 => LSTCOMGSF3YSSX6KPBPIHL4SU
+03:05:02 => Lenovo IdeaPad 3 Chromebook Intel Celeron Dual Core N4020 - (4 GB/64 GB EMMC Storage/Chrome OS) ideapad 3 cb 11igl05 2 Chromebook => IN_STOCK => 34678 => 22379 => LSTCOMG6AKVN3KXNVY2NPYXS9
+03:05:02 => Lenovo IdeaPad Slim 3 Intel Intel Celeron Dual Core N4020 - (8 GB/256 GB SSD/Windows 11 Home) 15IGL05 Thin and Light Laptop => IN_STOCK => 46090 => 28299 => LSTCOMGHNMAMVAGBW35MCDPK8
+03:05:16 => Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520 - (4 GB/32 GB EMMC Storage/Chrome OS) 100e Chromebook Gen 4 Chromebook => IN_STOCK => 37090 => 14990 => LSTCOMHA9FK8YXVUUWAAREQMZ
+03:05:16 => Lenovo IdeaPad 3 Intel Celeron Dual Core N4020 - (4 GB/256 GB SSD/Windows 10 Home) 15IGL05 Thin and Light Laptop => IN_STOCK => 40490 => 27990 => LSTCOMG6AKVSRJAUE92BL1AWP

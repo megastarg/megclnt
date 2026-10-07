@@ -1,0 +1,25 @@
+21-09-26
+03:05:02 => Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520 - (4 GB/32 GB EMMC Storage/Chrome OS) 100e Chromebook Gen 4 Chromebook => IN_STOCK => 37090 => 14990 => LSTCOMHA9FK8YXVUUWAAREQMZ
+03:05:02 => Lenovo Chromebook 11IJL9 Intel Celeron Dual Core N4500 - (4 GB/64 GB EMMC Storage/Chrome OS) Chromebook 11IJL9 Chromebook => IN_STOCK => 36502 => 16990 => LSTCOMHCYMG83BGNQHHQNGMKF
+03:05:02 => Lenovo IdeaPad 3 Chromebook Intel Celeron Dual Core N4020 - (4 GB/64 GB EMMC Storage/Chrome OS) ideapad 3 cb 11igl05 2 Chromebook => IN_STOCK => 34678 => 22379 => LSTCOMG6AKVN3KXNVY2NPYXS9
+03:05:02 => Lenovo Chromebook Intel Celeron Dual Core N4020 - (4 GB/64 GB EMMC Storage/Chrome OS) 11IGL05 Chromebook => IN_STOCK => 28890 => 23690 => LSTCOMGTZ8KZGVNXUGZI4TTUA
+03:05:02 => Lenovo 100e Chromebook Gen 4 MediaTek MediaTek Kompanio 528 - (4 GB/64 GB EMMC Storage/Chrome OS) 100e Chromebook Gen 4 Chromebook => IN_STOCK => 37690 => 23958 => LSTCOMHA9FKZ7KSC3SZUB9XJX
+03:05:02 => Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520 - (8 GB/64 GB EMMC Storage/Chrome OS) 100e Chromebook Gen 4 Chromebook => IN_STOCK => 37504 => 25990 => LSTCOMHC5G9YPVUM34VT5LFYM
+03:05:02 => Lenovo IdeaPad 1 Intel Celeron Dual Core N4020 - (4 GB/256 GB SSD/Windows 11 Home) 11IGL05 Thin and Light Laptop => IN_STOCK => 38990 => 27290 => LSTCOMGCFNZASDRTZAUFOA46X
+03:05:02 => Lenovo Chromebook MediaTek Kompanio 520 - (4 GB/128 GB EMMC Storage/Chrome OS) 14M868 Chromebook => IN_STOCK => 38999 => 27949 => LSTCOMGSYYSHRSUEGMG63W2HL
+03:05:02 => Lenovo IdeaPad 3 Intel Celeron Dual Core N4020 - (4 GB/256 GB SSD/Windows 10 Home) 15IGL05 Thin and Light Laptop => IN_STOCK => 40490 => 27990 => LSTCOMG6AKVSRJAUE92BL1AWP
+03:05:02 => Lenovo IdeaPad Slim 3 Intel Intel Celeron Dual Core N4020 - (8 GB/256 GB SSD/Windows 11 Home) 15IGL05 Thin and Light Laptop => IN_STOCK => 38990 => 27990 => LSTCOMGSF3YSSX6KPBPIHL4SU
+03:05:02 => Lenovo IdeaPad Slim 3 Intel Intel Celeron Dual Core N4020 - (8 GB/256 GB SSD/Windows 11 Home) 15IGL05 Thin and Light Laptop => IN_STOCK => 46090 => 28299 => LSTCOMGHNMAMVAGBW35MCDPK8
+03:05:02 => Lenovo Chromebook Duet 11M889 MediaTek MediaTek Kompanio 838 - (8 GB/128 GB EMMC Storage/Chrome OS) 11M889 Chromebook => IN_STOCK => 37699 => 32600 => LSTCOMHBCAFZGVNEDTKJYIQFS
+03:05:02 => Lenovo IdeaPad 1 AMD Ryzen 3 Dual Core 3250U - (8 GB/512 GB SSD/Windows 11 Home) 15ADA7 Thin and Light Laptop => IN_STOCK => 54490 => 33490 => LSTCOMGFM5BYHQPXCRZHKVCXY
+03:05:02 => Lenovo IdeaPad Slim 1 AMD Ryzen 3 Quad Core 7320U - (8 GB/512 GB SSD/Windows 11 Home) 15AMN7 Thin and Light Laptop => IN_STOCK => 59390 => 34899 => LSTCOMGNY3BTHRQ8MJGQNNTLN
+03:05:02 => Lenovo Intel Core i3 10th Gen 10110U - (8 GB/1 TB HDD/Windows 11 Home) 81WB018UIN | 81WB01E7IN Thin and Light Laptop => IN_STOCK => 57999 => 34939 => LSTCOMG9VHHHUJWMFR2XZKTI1
+03:05:02 => Lenovo IdeaPad Slim 3 Intel Core i3 11th Gen - (8 GB/256 GB SSD/Windows 11 Home) 15ITL6 Thin and Light Laptop => IN_STOCK => 49190 => 34960 => LSTCOMGAGRYXAWSHSRM26CSM3
+03:05:02 => Lenovo IdeaPad 3 Intel Intel Core i3 10th Gen - (8 GB/256 GB SSD/Windows 10 Home) 81WA00K1IN Laptop => IN_STOCK => 59990 => 34990 => LSTCOMG57X3HRJ5C8KCA6PPRQ
+03:05:02 => Lenovo IdeaPad 3 Intel Intel Core i3 10th Gen - (4 GB/256 GB SSD/Windows 10 Home) 81WB010XIN Laptop => IN_STOCK => 49999 => 34990 => LSTCOMG7EJFQHPFHG8QESJ4KD
+03:05:02 => Lenovo IdeaPad 3 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) IdeaPad 3 15IAU7 Thin and Light Laptop => IN_STOCK => 69990 => 35099 => LSTCOMGGR9S3YGZUHDZ0RO13G
+03:05:02 => Lenovo IdeaPad 3 Intel Intel Core i3 11th Gen 1115G4 - (8 GB/256 GB SSD/Windows 11 Home) IdeaPad 3 15ITL6 Ub Thin and Light Laptop => IN_STOCK => 62038 => 35658 => LSTCOMG8ZHBWGT78TUYP6NMCK
+03:05:02 => Lenovo Ideapad Slim 3i (2021) Intel Core i3 10th Gen 1135G7 - (4 GB/256 GB SSD/Windows 10 Home) Ideapad 3 15IML05 Thin and Light Laptop => IN_STOCK => 50990 => 35690 => LSTCOMG54ZH8A3KHCQPVOZ62K
+03:05:02 => Lenovo IdeaPad Slim 3 Intel Core i3 11th Gen 1115G4 - (8 GB/512 GB SSD/Windows 11 Home) 81X800J3IN|81X800LGIN|81X800N2IN Thin and Light Laptop => IN_STOCK => 57890 => 35950 => LSTCOMGBNFUTNYFZRJQ0DAYVA
+03:05:02 => Lenovo Ideapad Slim 3 Intel Intel Core i3 10th Gen 1005G1 - (8 GB/512 GB SSD/Windows 11 Home) 81WE01QLIN | 81WE01QJIN Laptop => IN_STOCK => 54990 => 35997 => LSTCOMGEMAYEQDCHRMCU2XSZF
+03:05:32 => Lenovo Chromebook Intel Pentium Quad Core N100 - (4 GB/128 GB EMMC Storage/Chrome OS) 14IAN8 Chromebook => IN_STOCK => 36690 => 36690 => LSTCOMGT2Y3DHC6QN4RLXRUHG

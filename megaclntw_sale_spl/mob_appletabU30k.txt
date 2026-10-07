@@ -1,0 +1,49 @@
+04-10-26
+03:00:29 => Apple iPad (6th Gen) 32 GB ROM 9.7 inch with Wi-Fi Only A10 Fusion Chip (Gold) => OUT_OF_STOCK => 28000 => 26143 => LSTTABF455ESJGJ3K7JJR4GII
+03:00:29 => Apple iPad (6th Gen) 32 GB ROM 9.7 inch with Wi-Fi Only A10 Fusion Chip (Space Grey) => OUT_OF_STOCK => 28000 => 26143 => LSTTABF455EVUJEWUMZJM4GIY
+03:00:29 => Apple iPad (6th Gen) 32 GB ROM 9.7 inch with Wi-Fi Only A10 Fusion Chip (Space Grey) => OUT_OF_STOCK => 28000 => 26143 => LSTTABF455EVUJEWUMZJM4GIY
+03:00:29 => Apple iPad (6th Gen) 32 GB ROM 9.7 inch with Wi-Fi Only A10 Fusion Chip (Space Grey) => OUT_OF_STOCK => 28000 => 26143 => LSTTABF455EVUJEWUMZJM4GIY
+03:00:29 => Apple iPad (6th Gen) 32 GB ROM 9.7 inch with Wi-Fi Only A10 Fusion Chip (Space Grey) => OUT_OF_STOCK => 28000 => 26143 => LSTTABF455EVUJEWUMZJM4GIY
+03:00:29 => Apple iPad (6th Gen) 32 GB ROM 9.7 inch with Wi-Fi Only A10 Fusion Chip (Silver) => OUT_OF_STOCK => 28000 => 26143 => LSTTABF455EZRU2GTXZWOI2FK
+03:00:29 => Apple iPad (6th Gen) 32 GB ROM 9.7 inch with Wi-Fi Only A10 Fusion Chip (Silver) => OUT_OF_STOCK => 28000 => 26143 => LSTTABF455EZRU2GTXZWOI2FK
+03:00:29 => Apple iPad (6th Gen) 32 GB ROM 9.7 inch with Wi-Fi Only A10 Fusion Chip (Silver) => OUT_OF_STOCK => 28000 => 26143 => LSTTABF455EZRU2GTXZWOI2FK
+03:00:29 => Apple iPad (6th Gen) 32 GB ROM 9.7 inch with Wi-Fi Only A10 Fusion Chip (Silver) => OUT_OF_STOCK => 28000 => 26143 => LSTTABF455EZRU2GTXZWOI2FK
+03:00:29 => Apple iPad (7th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only A10 Fusion Chip (Gold) => OUT_OF_STOCK => 29900 => 26756 => LSTTABFHF3A3GTFNHZH0VCIDD
+03:00:29 => Apple iPad (7th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only A10 Fusion Chip (Silver) => OUT_OF_STOCK => 29900 => 27823 => LSTTABFHF3AQUH7HRBNLF7I3D
+03:00:29 => Apple iPad 2 GB RAM 32 GB ROM 11 inch with Wi-Fi Only A9 Chip with 64-bit Architecture with Embedded M9 Co-processor (Space Grey) => OUT_OF_STOCK => 28000 => 28000 => LSTTABESPZMM7PE2W4YYZLBJT
+03:00:29 => Apple iPad 32 GB ROM 11 inch with Wi-Fi Only A9 Chip with 64-bit Architecture with Embedded M9 Co-processor (Silver) => OUT_OF_STOCK => 28000 => 28000 => LSTTABESPZMFHW2GFB4VITBUW
+03:00:29 => Apple iPad 32 GB ROM 9.7 inch with Wi-Fi Only A9 Chip with 64-bit Architecture with Embedded M9 Co-processor (Gold) => OUT_OF_STOCK => 28000 => 28000 => LSTTABESPZMYBDRQCVNQ9UTIK
+03:00:29 => Apple iPad (7th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only A10 Fusion Chip (Space Grey) => OUT_OF_STOCK => 29900 => 28453 => LSTTABFHF3ATXZ42TW8CVH9IT
+03:00:29 => Apple iPad (7th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only A10 Fusion Chip (Space Grey) => OUT_OF_STOCK => 29900 => 28453 => LSTTABFHF3ATXZ42TW8CVH9IT
+03:00:29 => Apple iPad (7th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only A10 Fusion Chip (Space Grey) => OUT_OF_STOCK => 29900 => 28453 => LSTTABFHF3ATXZ42TW8CVH9IT
+03:00:29 => Apple iPad (7th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only A10 Fusion Chip (Space Grey) => OUT_OF_STOCK => 29900 => 28453 => LSTTABFHF3ATXZ42TW8CVH9IT
+03:00:29 => Apple iPad (10th Gen) 64 GB ROM 10.9 inch with Wi-Fi Only Gaming A14 Bionic Chip (Pink) => IN_STOCK => 34900 => 28768 => LSTTABGJ6XUSFTPNTKHITLWPF
+03:00:29 => Apple iPad (10th Gen) 64 GB ROM 10.9 inch with Wi-Fi Only Gaming A14 Bionic Chip (Yellow) => OUT_OF_STOCK => 34900 => 28768 => LSTTABGJ6XUVMSWMHFXAQHZVQ
+03:00:29 => Apple iPad (8th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only A12 Bionic chip with Neural Engine (Space Grey) => OUT_OF_STOCK => 29900 => 29900 => LSTTABFVZD2CHSWPBYXZV3DTN
+03:00:29 => Apple iPad (8th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only A12 Bionic chip with Neural Engine (Silver) => OUT_OF_STOCK => 29900 => 29900 => LSTTABFVZD2CDGAMUSZOQ3IUZ
+03:00:29 => Apple iPad (8th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only A12 Bionic chip with Neural Engine (Gold) => OUT_OF_STOCK => 29900 => 29900 => LSTTABFVZD2BQF7PDQ2GNUUOX
+11:22:10 => Apple iPad 2 GB RAM 32 GB ROM 11 inch with Wi-Fi Only A9 Chip with 64-bit Architecture with Embedded M9 Co-processor (Space Grey) => IN_STOCK => 28000 => 28000 => LSTTABESPZMM7PE2W4YYZLBJT
+16:25:51 => Apple iPad (6th Gen) 32 GB ROM 9.7 inch with Wi-Fi Only A10 Fusion Chip (Space Grey) => IN_STOCK => 28000 => 26143 => LSTTABF455EVUJEWUMZJM4GIY
+16:25:51 => Apple iPad (6th Gen) 32 GB ROM 9.7 inch with Wi-Fi Only A10 Fusion Chip (Space Grey) => IN_STOCK => 28000 => 26143 => LSTTABF455EVUJEWUMZJM4GIY
+16:25:51 => Apple iPad (6th Gen) 32 GB ROM 9.7 inch with Wi-Fi Only A10 Fusion Chip (Space Grey) => IN_STOCK => 28000 => 26143 => LSTTABF455EVUJEWUMZJM4GIY
+16:25:51 => Apple iPad (6th Gen) 32 GB ROM 9.7 inch with Wi-Fi Only A10 Fusion Chip (Space Grey) => IN_STOCK => 28000 => 26143 => LSTTABF455EVUJEWUMZJM4GIY
+16:25:51 => Apple iPad (6th Gen) 32 GB ROM 9.7 inch with Wi-Fi Only A10 Fusion Chip (Gold) => IN_STOCK => 28000 => 26143 => LSTTABF455ESJGJ3K7JJR4GII
+16:25:51 => Apple iPad (6th Gen) 32 GB ROM 9.7 inch with Wi-Fi Only A10 Fusion Chip (Silver) => IN_STOCK => 28000 => 26143 => LSTTABF455EZRU2GTXZWOI2FK
+16:25:51 => Apple iPad (6th Gen) 32 GB ROM 9.7 inch with Wi-Fi Only A10 Fusion Chip (Silver) => IN_STOCK => 28000 => 26143 => LSTTABF455EZRU2GTXZWOI2FK
+16:25:51 => Apple iPad (6th Gen) 32 GB ROM 9.7 inch with Wi-Fi Only A10 Fusion Chip (Silver) => IN_STOCK => 28000 => 26143 => LSTTABF455EZRU2GTXZWOI2FK
+16:25:51 => Apple iPad (6th Gen) 32 GB ROM 9.7 inch with Wi-Fi Only A10 Fusion Chip (Silver) => IN_STOCK => 28000 => 26143 => LSTTABF455EZRU2GTXZWOI2FK
+16:25:51 => Apple iPad (7th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only A10 Fusion Chip (Gold) => IN_STOCK => 29900 => 26756 => LSTTABFHF3A3GTFNHZH0VCIDD
+16:25:51 => Apple iPad (7th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only A10 Fusion Chip (Silver) => IN_STOCK => 29900 => 27823 => LSTTABFHF3AQUH7HRBNLF7I3D
+16:25:51 => Apple iPad 32 GB ROM 11 inch with Wi-Fi Only A9 Chip with 64-bit Architecture with Embedded M9 Co-processor (Silver) => IN_STOCK => 28000 => 28000 => LSTTABESPZMFHW2GFB4VITBUW
+16:25:51 => Apple iPad 32 GB ROM 9.7 inch with Wi-Fi Only A9 Chip with 64-bit Architecture with Embedded M9 Co-processor (Gold) => IN_STOCK => 28000 => 28000 => LSTTABESPZMYBDRQCVNQ9UTIK
+16:25:51 => Apple iPad (7th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only A10 Fusion Chip (Space Grey) => IN_STOCK => 29900 => 28453 => LSTTABFHF3ATXZ42TW8CVH9IT
+16:25:51 => Apple iPad (7th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only A10 Fusion Chip (Space Grey) => IN_STOCK => 29900 => 28453 => LSTTABFHF3ATXZ42TW8CVH9IT
+16:25:51 => Apple iPad (7th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only A10 Fusion Chip (Space Grey) => IN_STOCK => 29900 => 28453 => LSTTABFHF3ATXZ42TW8CVH9IT
+16:25:51 => Apple iPad (7th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only A10 Fusion Chip (Space Grey) => IN_STOCK => 29900 => 28453 => LSTTABFHF3ATXZ42TW8CVH9IT
+16:25:51 => Apple iPad (10th Gen) 64 GB ROM 10.9 inch with Wi-Fi Only Gaming A14 Bionic Chip (Yellow) => IN_STOCK => 34900 => 28768 => LSTTABGJ6XUVMSWMHFXAQHZVQ
+16:25:51 => Apple iPad (8th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only A12 Bionic chip with Neural Engine (Space Grey) => IN_STOCK => 29900 => 29900 => LSTTABFVZD2CHSWPBYXMXOCCM
+16:25:51 => Apple iPad (8th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only A12 Bionic chip with Neural Engine (Space Grey) => IN_STOCK => 29900 => 29900 => LSTTABFVZD2CHSWPBYXMXOCCM
+16:25:51 => Apple iPad (8th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only A12 Bionic chip with Neural Engine (Space Grey) => IN_STOCK => 29900 => 29900 => LSTTABFVZD2CHSWPBYXMXOCCM
+16:25:51 => Apple iPad (8th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only A12 Bionic chip with Neural Engine (Space Grey) => IN_STOCK => 29900 => 29900 => LSTTABFVZD2CHSWPBYXMXOCCM
+16:25:51 => Apple iPad (8th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only A12 Bionic chip with Neural Engine (Silver) => IN_STOCK => 29900 => 29900 => LSTTABFVZD2CDGAMUSZOQ3IUZ
+16:25:51 => Apple iPad (8th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only A12 Bionic chip with Neural Engine (Gold) => IN_STOCK => 29900 => 29900 => LSTTABFVZD2BQF7PDQ2GNUUOX

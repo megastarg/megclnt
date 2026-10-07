@@ -1,0 +1,8 @@
+04-10-26
+03:00:28 => Lenovo Ideacentre 520 Core i3 (6th Gen) (4 GB DDR4/1 TB/Windows 10 Home/19.5 Inch Screen/AIO 310-20IAP) => IN_STOCK => 25437 => 25437 => LSTAIOF8PW7HCWZJHKGRJO9VN
+03:00:28 => Lenovo Ideacentre 310 Pentium Quad Core (4 GB DDR3/1 TB/Windows 10 Home/19.5 Inch Screen/310 20IAP) => IN_STOCK => 27064 => 27064 => LSTAIOF3T33T7WABKHBBMHYIC
+03:00:28 => Lenovo INTEL Core i5 (7th Gen) (8 GB DDR4/256 GB SSD/Windows 11 Home/DDR4/20 Inch Screen/LENOVOMINIPC) with MS Office => IN_STOCK => 58990 => 28498 => LSTAIOHRRFVZTR8YG5NSZSMAQ
+03:00:28 => Lenovo 310 Pentium Quad Core (4 GB DDR3/1 TB/Free DOS/19.5 Inch Screen/Ideacentre AIO 310-20IAP) => IN_STOCK => 28990 => 28990 => LSTAIOES9KG8FV5HBTFWKGK5K
+11:23:59 => Lenovo Ideacentre 310 Pentium Quad Core (4 GB DDR3/1 TB/Windows 10 Home/19.5 Inch Screen/310 20IAP) => OUT_OF_STOCK => 27064 => 27064 => LSTAIOF3T33T7WABKHBBMHYIC
+14:52:53 => Lenovo ThinkCentre Core i5 (7th Gen) (8 GB DDR4/256 GB SSD/Windows 10 Pro/19.5 Inch Screen/(M710/M910)) => IN_STOCK => 54999 => 26999 => LSTAIOHPF4HVTN4H37H5IE0LY
+17:43:22 => Lenovo ThinkCentre Core i5 (7th Gen) (8 GB DDR4/256 GB SSD/Windows 10 Pro/19.5 Inch Screen/(M710/M910)) => OUT_OF_STOCK => 54999 => 26999 => LSTAIOHPF4HVTN4H37H5IE0LY

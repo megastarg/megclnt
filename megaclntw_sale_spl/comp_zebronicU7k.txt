@@ -1,0 +1,23 @@
+04-10-26
+03:00:33 => ZEBRONICS Core i3 (2nd Gen) (8 GB / 256 GB / Windows 10) Assembled Desktop Computer => IN_STOCK => 32999 => 9499 => LSTDPCHPHUGKTXZG7B2HV6AMJ
+03:00:33 => ZEBRONICS Intel Core i3 (8 GB / 128 GB / Windows 11) Assembled Desktop Computer => IN_STOCK => 34990 => 11010 => LSTDPCH4KJYKSBGGHW5FIBSF2
+03:00:33 => ZEBRONICS Core i3 (3rd Gen) (8 GB / 256 GB / Windows 10) Assembled Desktop Computer => IN_STOCK => 31999 => 11984 => LSTDPCGNGGYZGTHMYJKLAOAK3
+03:00:33 => ZEBRONICS Core i3 (3rd Gen) (8 GB / 256 GB / Windows 11) Assembled Desktop Computer => IN_STOCK => 19950 => 12440 => LSTDPCGB7G7GDKEYUGHRLLM0D
+03:00:33 => ZEBRONICS Intel Core i5 (8 GB / 256 GB / Windows 11) Assembled Desktop Computer => IN_STOCK => 24999 => 13899 => LSTDPCH8A5HEYTTYC2PPF2RPQ
+03:00:33 => ZEBRONICS Core i5 (4th Gen) (8 GB / 500 GB / Windows 11) Assembled Desktop Computer => IN_STOCK => 31200 => 16390 => LSTDPCHHB6PHQHYG84YI2SBE9
+03:00:33 => ZEBRONICS Intel Core i5 (16 GB / 256 GB / Windows 11) Assembled Desktop Computer => IN_STOCK => 45999 => 16803 => LSTDPCGZQ9RWBSTF66PYEAUZ9
+03:00:33 => ZEBRONICS Core i7 (8 GB / 256 GB / Windows 10) Assembled Desktop Computer => IN_STOCK => 49990 => 17926 => LSTDPCGZMSCPZZ2FDJDDAUEYH
+03:00:33 => ZEBRONICS Core i7 (16 GB / 256 GB / Windows 11) Assembled Desktop Computer => IN_STOCK => 49999 => 22499 => LSTDPCGPADAZHZ67UQZJ44VF9
+03:00:33 => ZEBRONICS Intel Core i5 (16 GB / 512 GB / Windows 11) Assembled Desktop Computer => IN_STOCK => 34999 => 24899 => LSTDPCGPUWVJHZR8XSUNIJP3I
+03:00:33 => ZEBRONICS Core i7 (16 GB / 1 TB / Windows 11) Assembled Desktop Computer => IN_STOCK => 59999 => 29899 => LSTDPCGZZQFWCHQNPZZCJWXVX
+03:00:33 => ZEBRONICS Core i7 (16 GB / 2 TB / Windows 10) Assembled Desktop Computer => IN_STOCK => 129990 => 47500 => LSTDPCGPV94MBGNUTHYWGCNLX
+13:00:30 => ZEBRONICS Intel Core i5 (8 GB / 256 GB / Windows 11) Assembled Desktop Computer => OUT_OF_STOCK => 24999 => 13899 => LSTDPCH8A5HEYTTYC2PPF2RPQ
+13:12:13 => ZEBRONICS Core i3 (2nd Gen) (8 GB / 256 GB / Windows 10) Assembled Desktop Computer => OUT_OF_STOCK => 32999 => 9499 => LSTDPCHPHUGKTXZG7B2HV6AMJ
+13:12:13 => ZEBRONICS Core i5 (4th Gen) (8 GB / 500 GB / Windows 11) Assembled Desktop Computer => OUT_OF_STOCK => 31200 => 16390 => LSTDPCHHB6PHQHYG84YI2SBE9
+13:12:13 => ZEBRONICS Core i7 (8 GB / 256 GB / Windows 10) Assembled Desktop Computer => OUT_OF_STOCK => 49990 => 17926 => LSTDPCGZMSCPZZ2FDJDDAUEYH
+13:12:13 => ZEBRONICS Core i7 (16 GB / 256 GB / Windows 11) Assembled Desktop Computer => OUT_OF_STOCK => 49999 => 22499 => LSTDPCGPADAZHZ67UQZJ44VF9
+13:12:13 => ZEBRONICS Core i7 (16 GB / 1 TB / Windows 11) Assembled Desktop Computer => OUT_OF_STOCK => 59999 => 29899 => LSTDPCGZZQFWCHQNPZZCJWXVX
+18:01:02 => ZEBRONICS Core i7 (16 GB / 2 TB / Windows 10) Assembled Desktop Computer => OUT_OF_STOCK => 129990 => 47500 => LSTDPCGPV94MBGNUTHYWGCNLX
+13:16:33 => ZEBRONICS Intel Core i5 (16 GB / 256 GB / Windows 11) Assembled Desktop Computer => OUT_OF_STOCK => 45999 => 16499 => LSTDPCGZQ9RWBSTF66PSOSDAR
+14:52:53 => ZEBRONICS Intel Core i5 (8 GB / 128 GB / Windows 11) Assembled Desktop Computer => IN_STOCK => 21242 => 11499 => LSTDPCGWXHVFDGK9NUHFXEGUK
+16:01:17 => ZEBRONICS Intel Core i5 (8 GB / 128 GB / Windows 11) Assembled Desktop Computer => OUT_OF_STOCK => 21242 => 11499 => LSTDPCGWXHVFDGK9NUHFXEGUK

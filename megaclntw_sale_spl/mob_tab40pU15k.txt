@@ -1,0 +1,22 @@
+04-10-26
+03:00:27 => Lenovo Tab M10 FHD 3rd Gen 4 GB RAM 64 GB ROM 10.1 inch with 4G Gaming Unisoc T610 Octa Core Processor Tablet (Storm Grey) => IN_STOCK => 30000 => 12098 => LSTTABGZEZPYSNJXFNMO3SFGY
+03:00:27 => Lenovo Tab M11 4 GB RAM 128 GB ROM 11.0 inch with Wi-Fi Only MediaTek Helio G88 Tablet (Seafoam Green) => IN_STOCK => 29000 => 12336 => LSTTABH2AGTGHUANH7NXFZJNP
+03:00:27 => REDMI Pad 4 GB RAM 128 GB ROM 10.61 Inch with Wi-Fi Only Octa Core Tablet (Graphite Gray) => IN_STOCK => 28999 => 13123 => LSTTABGG9WFZZYKAZXFHATTPL
+03:00:27 => OPPO Pad Air 4 GB RAM 128 GB ROM 10.36 inch with Wi-Fi Only Gaming Qualcomm Snapdragon 680 Tablet (Grey) => IN_STOCK => 34999 => 13543 => LSTTABGFHSKF8CEQPEYMWD29A
+03:00:27 => BrightEureka BEU 10 LITE 4 GB RAM 64 GB ROM 10.1 inch with Wi-Fi+4G mediatek Tablet (Grey) => IN_STOCK => 29999 => 14100 => LSTTABHDGH5SS8Q4YJYANVMOX
+03:00:27 => BrightEureka BEU 4 GB RAM 64 GB ROM 8 inch with Wi-Fi+4G mediatek Tablet (Black) => IN_STOCK => 25999 => 14106 => LSTTABHEV7SBMWGUDUYDD7FJO
+03:00:27 => Lenovo Tab M10 Plus (3rd Gen) 6 GB RAM 128 GB ROM 10.61 inch with Wi-Fi Only Qualcomm Snapdragon 680 Tablet (Storm Grey) => IN_STOCK => 32000 => 14593 => LSTTABGZEZPKZ7MUDUCTD9HL7
+10:47:49 => BrightEureka BEU 10 LITE 4 GB RAM 64 GB ROM 10.1 inch with Wi-Fi+4G mediatek Tablet (Grey) => OUT_OF_STOCK => 29999 => 14100 => LSTTABHDGH5SS8Q4YJYANVMOX
+10:47:49 => BrightEureka BEU 4 GB RAM 64 GB ROM 8 inch with Wi-Fi+4G mediatek Tablet (Black) => OUT_OF_STOCK => 25999 => 14106 => LSTTABHEV7SBMWGUDUYDD7FJO
+15:56:23 => realme Pad Mini 4 GB RAM 64 GB ROM 8.7 inch with 4G Unisoc T616 Octa-Core Tablet (Grey) => IN_STOCK => 23999 => 14278 => LSTTABGD7GFNYPWDRWDIIDCM0
+15:56:23 => realme Pad Mini 4 GB RAM 64 GB ROM 8.7 inch with 4G Unisoc T616 Octa-Core Tablet (Grey) => IN_STOCK => 23999 => 14278 => LSTTABGD7GFNYPWDRWDIIDCM0
+15:56:23 => realme Pad Mini 4 GB RAM 64 GB ROM 8.7 inch with 4G Unisoc T616 Octa-Core Tablet (Grey) => IN_STOCK => 23999 => 14278 => LSTTABGD7GFNYPWDRWDIIDCM0
+15:56:23 => realme Pad Mini 4 GB RAM 64 GB ROM 8.7 inch with 4G Unisoc T616 Octa-Core Tablet (Grey) => IN_STOCK => 23999 => 14278 => LSTTABGD7GFNYPWDRWDIIDCM0
+15:58:41 => realme Pad Mini 4 GB RAM 64 GB ROM 8.7 inch with 4G Unisoc T616 Octa-Core Tablet (Grey) => OUT_OF_STOCK => 23999 => 14278 => LSTTABGD7GFNYPWDRWDIIDCM0
+15:58:41 => realme Pad Mini 4 GB RAM 64 GB ROM 8.7 inch with 4G Unisoc T616 Octa-Core Tablet (Grey) => OUT_OF_STOCK => 23999 => 14278 => LSTTABGD7GFNYPWDRWDIIDCM0
+15:58:41 => realme Pad Mini 4 GB RAM 64 GB ROM 8.7 inch with 4G Unisoc T616 Octa-Core Tablet (Grey) => OUT_OF_STOCK => 23999 => 14278 => LSTTABGD7GFNYPWDRWDIIDCM0
+15:58:41 => realme Pad Mini 4 GB RAM 64 GB ROM 8.7 inch with 4G Unisoc T616 Octa-Core Tablet (Grey) => OUT_OF_STOCK => 23999 => 14278 => LSTTABGD7GFNYPWDRWDIIDCM0
+11:35:58 => DOMO SL39 4G Tab 4 GB RAM 32 GB ROM 10.1 inch with 4G MTK 6750 A53 64 bit Octa Core Processor running @ 2.5GHz (1.5GHz QuadCore + 1GHz QuadCore) Tablet (Grey) => IN_STOCK => 24990 => 8490 => LSTTABHEDGGAHRQQZPFKJGPUA
+15:24:37 => DOMO SL39 4G Tab 4 GB RAM 32 GB ROM 10.1 inch with 4G MTK 6750 A53 64 bit Octa Core Processor running @ 2.5GHz (1.5GHz QuadCore + 1GHz QuadCore) Tablet (Grey) => OUT_OF_STOCK => 24990 => 8490 => LSTTABHEDGGAHRQQZPFKJGPUA
+00:28:27 => Lenovo Tab M10 FHD 3rd Gen 4 GB RAM 64 GB ROM 10.1 inch with 4G Gaming Unisoc T610 Octa Core Processor Tablet (Storm Grey) => OUT_OF_STOCK => 30000 => 12098 => LSTTABGZEZPYSNJXFNMA8LODE
+14:26:24 => Lenovo Tab M11 4 GB RAM 128 GB ROM 11.0 inch with 4G MediaTek Helio G88 Tablet (Seafoam Green) => OUT_OF_STOCK => 31000 => 14698 => LSTTABHFAEH2WTGQRF5RHDFJC

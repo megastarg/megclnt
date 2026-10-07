@@ -1,0 +1,4 @@
+21-09-26
+03:05:03 => MSI Modern 15 Intel Core i7 13th Gen 1355U - (8 GB/512 GB SSD/Windows 11 Home) Modern 15 B13M-290IN Thin and Light Laptop => IN_STOCK => 83990 => 61990 => LSTCOMGMV6VU38G9B7KCMW0HD
+03:05:03 => MSI Modern 15 Intel Core i7 13th Gen 1355U - (16 GB/512 GB SSD/Windows 11 Home) Modern 15 B13M-288IN Thin and Light Laptop => IN_STOCK => 87990 => 64990 => LSTCOMGMV6VGQXP9MDHSLDMUX
+03:05:03 => MSI Stealth 16 Studio Intel Core i7 13th Gen 13700H - (32 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 4060/240 Hz) Stealth 16 Studio A13VF-023IN Gaming Laptop => IN_STOCK => 279000 => 198990 => LSTCOMGMV6VYXUTXXBDWPLPZ4

@@ -1,0 +1,4 @@
+02:54:24 => Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520 - (4 GB/32 GB EMMC Storage/Chrome OS) 100e Chromebook Gen 4 Chromebook => IN_STOCK => 37090 => 14990 => LSTCOMHA9FK8YXVUUWAAREQMZ
+02:54:24 => Lenovo Chromebook 11IJL9 Intel Celeron Dual Core N4500 - (4 GB/64 GB EMMC Storage/Chrome OS) Chromebook 11IJL9 Chromebook => IN_STOCK => 36502 => 16990 => LSTCOMHCYMG83BGNQHHQNGMKF
+02:54:24 => Acer N4500 Intel Celeron Dual Core - (4 GB/32 GB EMMC Storage/Chrome OS) CO731-C883 Chromebook => IN_STOCK => 42106 => 19499 => LSTCOMH6GRH9JVHYKSWCULJDI
+21:11:29 => Acer Chromebook Intel Celeron Dual Core N4500 - (4 GB/64 GB EMMC Storage/Chrome OS) C734-C2ED Chromebook => IN_STOCK => 36909 => 16990 => LSTCOMGW4KZMP9JAYYBVL9BLH

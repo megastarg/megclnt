@@ -1,0 +1,19 @@
+04-10-26
+03:00:28 => Samsung Galaxy Tab A 8.0 2 GB RAM 32 GB ROM 8 inch with 4G Tablet (Silver) => OUT_OF_STOCK => 12999 => 9999 => LSTTABFHKR4DMBACCQU74OEQJ
+03:00:28 => Samsung Galaxy Tab A7 Lite 3 GB RAM 32 GB ROM 8.7 inches with 4G MediaTek Tablet (Silver) => OUT_OF_STOCK => 17500 => 10000 => LSTTABG3WWRXYDURNVFYRT73B
+03:00:28 => Samsung Galaxy Tab A7 Lite 3 GB RAM 32 GB ROM 8.7 inches with 4G MediaTek Tablet (Grey) => OUT_OF_STOCK => 16934 => 6999 => LSTTABG3WWRAYHANVVDFKIAXI
+03:00:28 => Samsung Galaxy Tab A 8.0 Wifi 2 GB RAM 32 GB ROM 7.996 inch with Wi-Fi Only Tablet (Black) => OUT_OF_STOCK => 10700 => 9763 => LSTTABFHKR4TC4GBUHHGI4YVO
+03:00:28 => Samsung Galaxy Tab A 8.0 Wifi 2 GB RAM 32 GB ROM 8 inch with Wi-Fi Only Tablet (Silver) => OUT_OF_STOCK => 10700 => 9868 => LSTTABFHKR4DTHADSRZGT8HGG
+03:00:28 => Samsung Galaxy Tab A 1.5 GB RAM 8 GB ROM 7 inch with 4G Qualcomm Snapdragon Quad Core Processor Tablet (White) => OUT_OF_STOCK => 10400 => 9965 => LSTTABEZZ8VFVJZP2G3I7HYYY
+03:00:28 => Samsung Galaxy Tab 3 V T116 Single Sim Tablet 1 GB RAM 8 GB ROM 7 inch with 3G Quad Core Tablet (EBONY BLACK) => OUT_OF_STOCK => 9300 => 9300 => LSTTABE9JC5GWTMQB7HVOJ7WX
+03:00:28 => Samsung Galaxy Tab 3 V SM-T116NY Single Sim Tablet 1 GB RAM 8 GB ROM 7 inch with 3G Quad Core Tablet (Cream White) => OUT_OF_STOCK => 9300 => 9300 => LSTTABE9JC5RHF69HEMW5BP9N
+03:00:28 => Samsung Galaxy Tab A 1.5 GB RAM 8 GB ROM 7 inch with 4G Qualcomm Snapdragon Quad Core Processor Tablet (Black) => OUT_OF_STOCK => 10400 => 9965 => LSTTABEZZ8VHM4QF3YRY7PRGU
+21:20:19 => Samsung Galaxy Tab A 8.0 2 GB RAM 32 GB ROM 8 inch with 4G Tablet (Silver) => IN_STOCK => 12999 => 9999 => LSTTABFHKR4DMBACCQU74OEQJ
+21:20:19 => Samsung Galaxy Tab A7 Lite 3 GB RAM 32 GB ROM 8.7 inches with 4G MediaTek Tablet (Silver) => IN_STOCK => 17500 => 10000 => LSTTABG3WWRXYDURNVFYRT73B
+21:20:19 => Samsung Galaxy Tab A7 Lite 3 GB RAM 32 GB ROM 8.7 inches with 4G MediaTek Tablet (Grey) => IN_STOCK => 16934 => 6999 => LSTTABG3WWRAYHANVVDFKIAXI
+21:20:19 => Samsung Galaxy Tab A 8.0 Wifi 2 GB RAM 32 GB ROM 7.996 inch with Wi-Fi Only Tablet (Black) => IN_STOCK => 10700 => 9763 => LSTTABFHKR4TC4GBUHHGI4YVO
+21:20:19 => Samsung Galaxy Tab A 8.0 Wifi 2 GB RAM 32 GB ROM 8 inch with Wi-Fi Only Tablet (Silver) => IN_STOCK => 10700 => 9868 => LSTTABFHKR4DTHADSRZGT8HGG
+21:20:19 => Samsung Galaxy Tab A 1.5 GB RAM 8 GB ROM 7 inch with 4G Qualcomm Snapdragon Quad Core Processor Tablet (White) => IN_STOCK => 10400 => 9965 => LSTTABEZZ8VFVJZP2G3I7HYYY
+21:20:19 => Samsung Galaxy Tab 3 V T116 Single Sim Tablet 1 GB RAM 8 GB ROM 7 inch with 3G Quad Core Tablet (EBONY BLACK) => IN_STOCK => 9300 => 9300 => LSTTABE9JC5GWTMQB7HVOJ7WX
+21:20:19 => Samsung Galaxy Tab 3 V SM-T116NY Single Sim Tablet 1 GB RAM 8 GB ROM 7 inch with 3G Quad Core Tablet (Cream White) => IN_STOCK => 9300 => 9300 => LSTTABE9JC5RHF69HEMW5BP9N
+21:20:19 => Samsung Galaxy Tab A 1.5 GB RAM 8 GB ROM 7 inch with 4G Qualcomm Snapdragon Quad Core Processor Tablet (Black) => IN_STOCK => 10400 => 9965 => LSTTABEZZ8VHM4QF3YRY7PRGU

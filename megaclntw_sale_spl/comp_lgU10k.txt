@@ -1,0 +1,6 @@
+04-10-26
+03:00:28 => LG Core i3 (2nd Gen) (8 GB / 256 GB / Windows 11) Assembled Desktop Computer => IN_STOCK => 25990 => 15800 => LSTDPCGW7XDZR4GZ7VF1TSUB6
+08:29:12 => LG Core i3 (2nd Gen) (8 GB / 256 GB / Windows 11) Assembled Desktop Computer => OUT_OF_STOCK => 25990 => 15800 => LSTDPCGW7XDZR4GZ7VF1TSUB6
+08:31:06 => LG Core i5 (3rd Gen) (8 GB / 500 GB / Windows 11) Assembled Desktop Computer => IN_STOCK => 32990 => 19520 => LSTDPCGTMUXCWCC7JHGXESTTY
+17:05:39 => LG Core i5 (3rd Gen) (8 GB / 512 GB / Windows 11) Assembled Desktop Computer => IN_STOCK => 30980 => 19055 => LSTDPCHGAMGWS5THVUXCNSTDV
+15:43:42 => LG Intel Core i3 (8 GB / 500 GB / Windows 11) Assembled Desktop Computer => IN_STOCK => 29990 => 18125 => LSTDPCGTKZGHNZDDHVHXDM3KD

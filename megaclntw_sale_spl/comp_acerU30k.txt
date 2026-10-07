@@ -1,0 +1,4 @@
+04-10-26
+03:00:33 => Acer UD.33CSI.006 Core i7 (16 GB RAM/Intel UHD Graphics Graphics/512 GB SSD Capacity/Windows 11 Home (64-bit)) Full Tower with MS Office => IN_STOCK => 85999 => 85999 => LSTCPUGXQFKJJEHN3HPIES27K
+03:00:33 => Acer Aspire C27 Core i5 (16 GB DDR4/1000 GB SSD/Windows 11 Home/27 Inch Screen/UD.311SI.00X) with MS Office => IN_STOCK => 89999 => 89999 => LSTAIOHGMZPKF8YY7V6U6YEB1
+13:01:37 => Acer Aspire C27 Core i5 (16 GB DDR4/1000 GB SSD/Windows 11 Home/27 Inch Screen/UD.311SI.00X) with MS Office => OUT_OF_STOCK => 89999 => 89999 => LSTAIOHGMZPKF8YY7V6U6YEB1

@@ -1,0 +1,9 @@
+04-10-26
+03:00:38 => DELL E-Series 50.8 cm (20 inch) HD+ LED Backlit TN Panel with Brightness-250 Nits,1 xDisplay Port 1.2, 1 xVGA, Screen Coating: Anti-Glare Monitor (E2020H) => IN_STOCK => 23679 => 5899 => LSTMONGYVKGYYSDDX7RZ8AOTA
+03:00:38 => DELL E Series 60.96 cm (24 inch) Full HD LED Backlit IPS Panel with 1 HDMI, 1 DP 1.2, 1 VGA, TV Rheinland 3-star Eye Comfort, 1000:1 Contrast, Tilt Adjustment Monitor (E2425HM) => IN_STOCK => 21806 => 8899 => LSTMONHF67VTVBJEQZJQNHMYJ
+03:00:38 => DELL 68.58 cm (27 inch) Full HD LED Backlit VA Panel with 16:9 Aspect Ratio, 300 Nits Brightness (Typical), 1x HDMI, 1x VGA, 1x Power Connector, 1x Security Lock, TUV Certified Monitor (SE2725H) => IN_STOCK => 31859 => 8999 => LSTMONH4ECNAZQHY5AFYNMUCG
+03:00:38 => DELL E-Series 60.96 cm (24 inch) Full HD LED Backlit VA Panel Monitor (E2423H) => IN_STOCK => 30759 => 9999 => LSTMONGYVKGE7DM6DFH0XIHBG
+10:52:32 => DELL E Series 60.96 cm (24 inch) Full HD LED Backlit IPS Panel with Dual Speakers, 1 HDMI, 1 DP 1.2, 1 VGA, TV Rheinland 3-star Eye Comfort, 1000:1 Contrast, Height Tilt Swivel Pivot Monitor (E2425HSM) => IN_STOCK => 24052 => 8899 => LSTMONHF67V4KQXQBHQDF6LFJ
+11:21:46 => DELL E Series 60.96 cm (24 inch) Full HD LED Backlit IPS Panel with Dual Speakers, 1 HDMI, 1 DP 1.2, 1 VGA, TV Rheinland 3-star Eye Comfort, 1000:1 Contrast, Height Tilt Swivel Pivot Monitor (E2425HSM) => OUT_OF_STOCK => 24052 => 8899 => LSTMONHF67V4KQXQBHQDF6LFJ
+11:21:46 => DELL 68.58 cm (27 inch) Full HD LED Backlit VA Panel with 16:9 Aspect Ratio, 300 Nits Brightness (Typical), 1x HDMI, 1x VGA, 1x Power Connector, 1x Security Lock, TUV Certified Monitor (SE2725H) => OUT_OF_STOCK => 31859 => 8999 => LSTMONH4ECNAZQHY5AFYNMUCG
+16:34:47 => DELL E-Series 60.96 cm (24 inch) Full HD LED Backlit VA Panel Monitor (E2423H) => OUT_OF_STOCK => 30759 => 9999 => LSTMONGYVKGE7DM6DFH0XIHBG

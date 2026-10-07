@@ -1,0 +1,11 @@
+04-10-26
+03:00:32 => Samsung Galaxy Tab A11 4 GB RAM 64 GB ROM 8.7 inch with Wi-Fi+4G Gaming MediaTek Helio G99 Tablet (Gray) => IN_STOCK => 25999 => 18572 => LSTTABHFTNZVFXFPUHZ7QZ5Q7
+13:11:04 => Samsung Galaxy Tab A9 4 GB RAM 64 GB ROM 22.1 inch with 4G Gaming MediaTek Helio G99 Tablet (Graphite) => IN_STOCK => 19990 => 18990 => LSTTABGTF4GK2ZMM4C8JQCDUH
+13:11:04 => Samsung Galaxy Tab A9 4 GB RAM 64 GB ROM 22.1 inch with 4G Gaming MediaTek Helio G99 Tablet (Graphite) => IN_STOCK => 19990 => 18990 => LSTTABGTF4GK2ZMM4C8JQCDUH
+13:11:04 => Samsung Galaxy Tab A9 4 GB RAM 64 GB ROM 22.1 inch with 4G Gaming MediaTek Helio G99 Tablet (Graphite) => IN_STOCK => 19990 => 18990 => LSTTABGTF4GK2ZMM4C8JQCDUH
+13:11:04 => Samsung Galaxy Tab A9 4 GB RAM 64 GB ROM 22.1 inch with 4G Gaming MediaTek Helio G99 Tablet (Graphite) => IN_STOCK => 19990 => 18990 => LSTTABGTF4GK2ZMM4C8JQCDUH
+15:26:16 => Samsung Galaxy Tab A9 4 GB RAM 64 GB ROM 22.1 inch with 4G Gaming MediaTek Helio G99 Tablet (Graphite) => OUT_OF_STOCK => 19990 => 18990 => LSTTABGTF4GK2ZMM4C8JQCDUH
+15:26:16 => Samsung Galaxy Tab A9 4 GB RAM 64 GB ROM 22.1 inch with 4G Gaming MediaTek Helio G99 Tablet (Graphite) => OUT_OF_STOCK => 19990 => 18990 => LSTTABGTF4GK2ZMM4C8JQCDUH
+15:26:16 => Samsung Galaxy Tab A9 4 GB RAM 64 GB ROM 22.1 inch with 4G Gaming MediaTek Helio G99 Tablet (Graphite) => OUT_OF_STOCK => 19990 => 18990 => LSTTABGTF4GK2ZMM4C8JQCDUH
+15:26:16 => Samsung Galaxy Tab A9 4 GB RAM 64 GB ROM 22.1 inch with 4G Gaming MediaTek Helio G99 Tablet (Graphite) => OUT_OF_STOCK => 19990 => 18990 => LSTTABGTF4GK2ZMM4C8JQCDUH
+18:10:14 => Samsung Galaxy Tab A11 4 GB RAM 64 GB ROM 8.7 inch with Wi-Fi+4G Gaming MediaTek Helio G99 Tablet (Gray) => OUT_OF_STOCK => 25999 => 18572 => LSTTABHFTNZVFXFPUHZ7QZ5Q7

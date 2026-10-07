@@ -1,0 +1,2535 @@
+{
+    "CACHE_INVALIDATION_TTL": "0",
+    "META_INFO": {
+        "abContext": {
+            "abWrapper": []
+        },
+        "appConfigHash": null,
+        "clientConfigHashMap": null,
+        "dcInfo": null,
+        "omnitureInfo": null
+    },
+    "REQUEST": null,
+    "REQUEST-ID": "c28b7e5a-d5bc-429c-81e1-c5c00f6f6473",
+    "RESPONSE": {
+        "pageData": {
+            "backTTL": 30000,
+            "elementId": "page",
+            "globalSlots": [],
+            "hardTTL": 2147483647,
+            "hasMorePages": false,
+            "infinitePage": true,
+            "layoutParams": {
+                "layoutTtl": 60000,
+                "orientation": "",
+                "themeDetails": {
+                    "themeId": null
+                }
+            },
+            "pageContext": {
+                "type": "BasePageContext",
+                "bu": "BasePageContext",
+                "actionContext": null,
+                "fdpEventTracking": null,
+                "isNewUser": true,
+                "mallSelectionMode": "BasePageContext",
+                "widgetDataContext": null,
+                "xsState": null
+            },
+            "pageEventResponseMap": {},
+            "pageHash": "-1880395316",
+            "pageId": "searc-dynam-be3ea",
+            "pageLevelSlots": {},
+            "pageTTL": 30000,
+            "pageTags": {
+                "tags": []
+            },
+            "pageTitle": "Search Browse Page Desktop",
+            "paginationContextMap": {},
+            "seoData": {
+                "schema": [
+                    {
+                        "@context": "https://schema.org",
+                        "@type": "ItemList"
+                    }
+                ],
+                "seo": {
+                    "alexaVerifyId": false,
+                    "androidAppURI": "",
+                    "canonical": "https://www.flipkart.com/televisions/pr?sid=ckf,czl",
+                    "content": "<h2>Related Searches</h2><p><a href=\"/home-entertainment/pr?sid=ckf\">Home Entertainment</a></p><br/><p><a href=\"/furniture/furniture-accessories/pr?sid=wwe,q7b\">Furniture Accessories</a> | <a href=\"/vas/digital/extended-warranty/pr?sid=mcd,zyx,qwx\">Extended Warranty</a> | <a href=\"/voltage-stabilizers/pr?sid=j9e,abm,xf4\">Voltage Stabilizers</a> | <a href=\"/refrigerators/pr?sid=j9e,abm,hzg\">Refrigerators</a> | <a href=\"/vas/digital/pr?sid=mcd,zyx\">Digital</a> | <a href=\"/home-entertainment/video-players-accessories/dth/pr?sid=ckf,see,9wn\">Dth</a> | <a href=\"/washing-machines/pr?sid=j9e,abm,8qx\">Washing Machines</a> | <a href=\"/audio-video/speakers/home-audio/soundbars/pr?sid=0pm,0o7,2to,ynx\">Soundbars</a> | <a href=\"/home-entertainment/video-players-accessories/video-accessories/selector-smart-box/pr?sid=ckf,see,ul5,fcz\">Selector Smart Box</a> | <a href=\"/audio-video/speakers/home-audio/home-theatre-systems/pr?sid=0pm,0o7,2to,ict\">Home Theatre Systems</a></p><br/><h2>Trending Searches</h2><p><a href=\"/q/40-inches-led-tvs\">40 Inches Led Tvs</a> | <a href=\"/q/42-inches-led-tv\">42 Inches Led Tv</a> | <a href=\"/q/55-inches-led-tv\">55 Inches Led Tv</a> | <a href=\"/q/50-inches-led-tv\">50 Inches Led Tv</a> | <a href=\"/q/65-inch-4k-tv\">65 Inch 4k Tv</a> | <a href=\"/q/43-inch-4k-tvs\">43 Inch 4k Tvs</a> | <a href=\"/q/29-inches-lcd-tv\">29 Inches Lcd Tv</a> | <a href=\"/q/43-inch-smart-tv\">43 Inch Smart Tv</a> | <a href=\"/q/40-inches-led-tv\">40 Inches Led Tv</a> | <a href=\"/q/65-inch-led-tv\">65 Inch Led Tv</a> | <a href=\"/q/43-inch-led-tv\">43 Inch Led Tv</a> | <a href=\"/q/42-inches-plasma-tv\">42 Inches Plasma Tv</a> | <a href=\"/q/49-inch-led-tv\">49 Inch Led Tv</a> | <a href=\"/q/29-inches-led-tv\">29 Inches Led Tv</a> | <a href=\"/q/24-inches-led-tv\">24 Inches Led Tv</a> | <a href=\"/q/48-inch-tv\">48 Inch Tv</a> | <a href=\"/q/32-inches-led-tv\">32 Inches Led Tv</a> | <a href=\"/q/32-inch-smart-tv\">32 Inch Smart Tv</a> | <a href=\"/q/26-inches-led-tv\">26 Inches Led Tv</a> | <a href=\"/q/26-inches-lcd-tv\">26 Inches Lcd Tv</a></p>",
+                    "description": "A movie night with family or a matchday get-together with friends is fun for most people. A TV can help bring joy to your life. Find a range of Samsung 81.28 cm (32) TVs that offer an immersive visual and aural experience.",
+                    "faqList": [],
+                    "googleSiteVerification": false,
+                    "h1": "",
+                    "headerContent": "<p><span>A movie night with family or a matchday get-together with friends is fun for most people. A TV can help bring joy to your life. Find a range of Samsung 81.28 cm (32) TVs that offer an immersive visual and aural experience. Explore a variety of HD Ready resolution TVs with LED screens. Get clean and sharp images by picking Samsung LED TV 81.28 cm (32) with a 60 Hz screen refresh rate. Most Samsung TVs also have a user-friendly interface. Choose Samsung TVs with Tizen and other Linux-based operating systems. There are Samsung TVs with built-in Wi-Fi and Bluetooth to connect the TV to other devices. Besides wireless connectivity, Samsung also has physical connectivity options on most TVs. Swipe and browse Samsung TVs with single or multiple <a href=\"/q/hdmi-cable\">HDMI</a> and <a href=\"/laptop-accessories/usb-gadgets/usb-cable~type/pr?sid=6bo%2Cai3%2C0xm\">USB ports</a>. Watch your favourite OTT content on a larger screen by picking a Samsung 81.28 cm (32) smart TV. There are options with a content guide feature that offers suggestions based on your watch history. If you want a wider display area, you can get bezel-less TVs. Swipe and browse models such as the Samsung UA32T4110-ARXXL, UA32T4050ARXXL, UA32T4390AKXXL, UA32T4600AKXXL, UA32T4390AKXXL, and more. Bring home a Samsung 81.28 cm (32) TV now to have a gala time with your friends and family. The information you are reading has been last updated on 30-Sep-26.</span></p><p><span>Some Popular Brand of Television : </span><a href=\"/televisions/lg~brand/pr?sid=ckf,czl\">LG</a><span> | </span><a href=\"/televisions/sony~brand/pr?sid=ckf,czl\">Sony</a><span> | </span><a href=\"/televisions/mi~brand/pr?sid=ckf,czl\">MI </a><span>| </span><a href=\"/televisions/realme~brand/pr?sid=ckf%2Cczl\">Realme&#160;</a><br/></p>",
+                    "keywords": "Televisions",
+                    "noIndexSeo": true,
+                    "ogTitle": "Samsung TV Online at Best Price at Flipkart | 30-Sep-26",
+                    "ogUrl": "https://www.flipkart.com/television-store",
+                    "redirectUrl": {
+                        "incorrectUrl": true,
+                        "overrideQueryParams": {
+                            "sid": "ckf,czl"
+                        },
+                        "path": "/televisions/pr"
+                    },
+                    "relAlternateMobile": "https://www.flipkart.com/television-store",
+                    "seoFooterTitle": "More about Televisions ",
+                    "title": "Samsung TV Online at Best Price at Flipkart | 30-Sep-26"
+                }
+            },
+            "sharedData": {},
+            "trackingContext": {
+                "meta": {},
+                "navigationalPageName": null,
+                "navigationalPageType": null,
+                "orderLevelTrackingMap": {},
+                "pageName": "productListView",
+                "pageType": "dynamic",
+                "tracking": {
+                    "loginStatus": "logout"
+                }
+            }
+        },
+        "pageMeta": {
+            "baseImpressionId": "c28b7e5a-d5bc-429c-81e1-c5c00f6f6473",
+            "hasErrorWidget": false,
+            "mergeTrackingContextForAllPageFold": false,
+            "pageNotChanged": false,
+            "prefetchPage": {
+                "enablePrefetch": false
+            },
+            "reusePrevPageFoldContext": false,
+            "widgetFetchDelayMs": 0
+        },
+        "slots": [
+            {
+                "slotType": "LOGICAL",
+                "id": 10000,
+                "parentId": 0,
+                "childArrangement": "ADJACENT"
+            },
+            {
+                "slotType": "LOGICAL",
+                "id": 10001,
+                "parentId": 10000,
+                "layoutParams": {
+                    "fixedWidth": 280,
+                    "margin": "0,0,10,0",
+                    "orientation": "",
+                    "widgetHeight": 450,
+                    "widgetWidth": 2
+                },
+                "childArrangement": "STACK"
+            },
+            {
+                "slotType": "LOGICAL",
+                "id": 10002,
+                "parentId": 10001,
+                "layoutParams": {
+                    "orientation": "",
+                    "stickyScroll": false,
+                    "widgetHeight": 300,
+                    "widgetWidth": 12
+                },
+                "childArrangement": "STACK"
+            },
+            {
+                "slotType": "WIDGET",
+                "id": 2,
+                "parentId": 10002,
+                "layoutParams": {
+                    "orientation": "",
+                    "widgetHeight": 300,
+                    "widgetWidth": 12
+                },
+                "dataId": "1103652828",
+                "elementId": "2-FILTERS",
+                "hasWidgetDataChanged": true,
+                "ttl": 3000,
+                "widget": {
+                    "type": "FILTERS",
+                    "data": {
+                        "filters": {
+                            "type": "FiltersValue",
+                            "facetResponse": {
+                                "count": 1096,
+                                "facets": [
+                                    {
+                                        "type": "expandableView",
+                                        "id": "brand",
+                                        "metadata": {
+                                            "multiselect": "true",
+                                            "isDefault": true,
+                                            "showCount": false,
+                                            "subtext": "",
+                                            "fieldName": "brand",
+                                            "sort": true,
+                                            "isSearchable": true,
+                                            "facetCountThreshold": 30,
+                                            "nested": false
+                                        },
+                                        "title": "Brand",
+                                        "values": [
+                                            {
+                                                "type": "checkbox",
+                                                "id": "fixed",
+                                                "values": [
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 46,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=SONY",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "SONY"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 177,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Samsung",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Samsung"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 105,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=LG",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "LG"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 100,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=TCL",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "TCL"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 42,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=XIAOMI",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "XIAOMI"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 31,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=MOTOROLA",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "MOTOROLA"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 30,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Thomson",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Thomson"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 37,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=realme+TechLife",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "realme TechLife"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 32,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=TOSHIBA",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "TOSHIBA"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 18,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=iFFALCON",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "iFFALCON"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 54,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Haier",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Haier"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 15,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Acer",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Acer"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 20,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Blaupunkt",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Blaupunkt"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 49,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Hisense",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Hisense"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 15,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=KODAK",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "KODAK"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 12,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=PHILIPS",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "PHILIPS"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 14,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=ONIDA",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "ONIDA"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 29,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Sansui",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Sansui"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 17,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=jinis",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "jinis"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 15,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=BPL",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "BPL"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 14,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Foxsky",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Foxsky"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 14,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Coocaa",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Coocaa"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 13,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Uniboom",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Uniboom"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 13,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Lloyd",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Lloyd"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 11,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=iMEE",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "iMEE"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 11,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=VW",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "VW"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 11,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Reliance",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Reliance"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 11,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=RGL",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "RGL"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 11,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Lumio",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Lumio"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 9,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Wobble",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Wobble"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 9,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Vu",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Vu"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 8,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=acerpure",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "acerpure"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 8,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Infinix",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Infinix"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 7,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=skylive",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "skylive"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 7,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Panasonic",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Panasonic"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 7,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Metz",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Metz"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 7,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Billion",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Billion"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 4,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Reintech",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Reintech"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 4,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=NU",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "NU"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 4,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=LIMEBERRY",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "LIMEBERRY"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 4,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=INVANTER",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "INVANTER"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 4,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Compaq",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Compaq"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 4,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=BESTON",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "BESTON"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 4,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Akai",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Akai"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 3,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=VZY",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "VZY"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 3,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Nacson",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Nacson"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 3,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=JVC",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "JVC"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 2,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=VOIR",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "VOIR"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 2,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=STARSHINE",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "STARSHINE"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 2,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Qthin+Bravo",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Qthin Bravo"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 2,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=LEEMA",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "LEEMA"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 2,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Kenstar",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Kenstar"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 2,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Elista",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Elista"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 2,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=DAKTRON",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "DAKTRON"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 2,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Asiano",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Asiano"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 1,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=ZEBRONICS",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "ZEBRONICS"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 1,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=VONE",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "VONE"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 1,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=T-Series",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "T-Series"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 1,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Swan",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Swan"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 1,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Surya+Plus",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Surya Plus"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 1,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Sharp",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Sharp"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 1,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=REDMI",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "REDMI"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 1,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Mi",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Mi"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 1,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=MITASHI",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "MITASHI"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 1,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Llyod",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Llyod"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 1,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=LYVON",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "LYVON"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 1,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=HUIDI",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "HUIDI"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 1,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Bush",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Bush"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 1,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.brand%5B%5D=Aiwa",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Aiwa"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "scrollableView",
+                                        "id": "screen_size",
+                                        "metadata": {
+                                            "showCount": false,
+                                            "subtext": "Tip: More the viewing distance, greater the Tv screen size",
+                                            "fieldName": "screen_size",
+                                            "DisplayTitle": "What is your preferred screen size ?",
+                                            "previewId": "b5e135a5e331a82b3442c6fcf0a10136",
+                                            "facetCountThreshold": 30,
+                                            "nested": false
+                                        },
+                                        "title": "Screen Size",
+                                        "values": [
+                                            {
+                                                "type": "checkbox",
+                                                "id": "alphabetical",
+                                                "values": [
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 16,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.screen_size%5B%5D=24+inch+%26+Below",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "24 inch & Below"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 209,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.screen_size%5B%5D=28+-+32+inch",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "28 - 32 inch"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 271,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.screen_size%5B%5D=40+-+43+inch",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "40 - 43 inch"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 302,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.screen_size%5B%5D=50+-+55+inch",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "50 - 55 inch"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 165,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.screen_size%5B%5D=60+-+65+inch",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "60 - 65 inch"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 83,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.screen_size%5B%5D=70+-+75+inch",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "70 - 75 inch"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 29,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.screen_size%5B%5D=76+-+95+inch",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "76 - 95 inch"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 15,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.screen_size%5B%5D=96+-+100+inch",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "96 - 100 inch"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 2,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.screen_size%5B%5D=Above+100+inch",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Above 100 inch"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "scrollableView",
+                                        "id": "screen_type",
+                                        "metadata": {
+                                            "showCount": false,
+                                            "subtext": "",
+                                            "fieldName": "screen_type",
+                                            "facetCountThreshold": 30,
+                                            "nested": false
+                                        },
+                                        "title": "Display Technology",
+                                        "values": [
+                                            {
+                                                "type": "checkbox",
+                                                "id": "alphabetical",
+                                                "values": [
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 551,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.screen_type%5B%5D=LED",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "LED"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 6,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.screen_type%5B%5D=Micro+RGB",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Micro RGB"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 112,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.screen_type%5B%5D=Mini+LED",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Mini LED"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 10,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.screen_type%5B%5D=NanoCell",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "NanoCell"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 14,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.screen_type%5B%5D=Neo+QLED",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Neo QLED"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 38,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.screen_type%5B%5D=OLED",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "OLED"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 351,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.screen_type%5B%5D=QLED",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "QLED"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 14,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.screen_type%5B%5D=QNED",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "QNED"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "scrollableView",
+                                        "id": "operating_system",
+                                        "metadata": {
+                                            "showCount": false,
+                                            "subtext": "",
+                                            "fieldName": "operating_system",
+                                            "facetCountThreshold": 30,
+                                            "nested": false
+                                        },
+                                        "title": "Operating System",
+                                        "values": [
+                                            {
+                                                "type": "checkbox",
+                                                "id": "alphabetical",
+                                                "values": [
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 113,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.operating_system%5B%5D=Android",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Android"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 11,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.operating_system%5B%5D=Android+Based",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Android Based"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 21,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.operating_system%5B%5D=Coolita",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Coolita"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 11,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.operating_system%5B%5D=FireTv+OS",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "FireTv OS"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 507,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.operating_system%5B%5D=Google+TV",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Google TV"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 8,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.operating_system%5B%5D=JioTele+OS",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "JioTele OS"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 22,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.operating_system%5B%5D=Linux",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Linux"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 2,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.operating_system%5B%5D=Linux+based",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Linux based"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 4,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.operating_system%5B%5D=One+UI+Tizen",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "One UI Tizen"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 180,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.operating_system%5B%5D=Tizen",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Tizen"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 55,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.operating_system%5B%5D=VIDAA",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "VIDAA"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 135,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.operating_system%5B%5D=WebOS",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "WebOS"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "scrollableView",
+                                        "id": "resolution",
+                                        "metadata": {
+                                            "multiselect": "true",
+                                            "showCount": false,
+                                            "subtext": "Tip: Higher resolution gives the picture extra detail, depth and clarity",
+                                            "fieldName": "resolution",
+                                            "previewId": "66518dec5b720e9e7f8da88d36d59bd5",
+                                            "facetCountThreshold": 30,
+                                            "nested": false
+                                        },
+                                        "title": "Resolution",
+                                        "values": [
+                                            {
+                                                "type": "checkbox",
+                                                "id": "alphabetical",
+                                                "values": [
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 150,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.resolution%5B%5D=Full+HD",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Full HD"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 194,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.resolution%5B%5D=HD+Ready",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "HD Ready"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 752,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.resolution%5B%5D=Ultra+HD+%284K%29",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Ultra HD (4K)"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "scrollableView",
+                                        "id": "launch_year",
+                                        "metadata": {
+                                            "showCount": false,
+                                            "subtext": "",
+                                            "fieldName": "launch_year",
+                                            "facetCountThreshold": 30,
+                                            "nested": false
+                                        },
+                                        "title": "Launch Year",
+                                        "values": [
+                                            {
+                                                "type": "checkbox",
+                                                "id": "alphabetical",
+                                                "values": [
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 170,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.launch_year%5B%5D=2024",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "2024"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 453,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.launch_year%5B%5D=2025",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "2025"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 289,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.launch_year%5B%5D=2026",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "2026"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 184,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.launch_year%5B%5D=Below+2024",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Below 2024"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "scrollableView",
+                                        "id": "refresh_rate",
+                                        "metadata": {
+                                            "showCount": false,
+                                            "subtext": "",
+                                            "fieldName": "refresh_rate",
+                                            "facetCountThreshold": 30,
+                                            "nested": false
+                                        },
+                                        "title": "Refresh Rate",
+                                        "values": [
+                                            {
+                                                "type": "checkbox",
+                                                "id": "alphabetical",
+                                                "values": [
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 13,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.refresh_rate%5B%5D=100+Hz",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "100 Hz"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 122,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.refresh_rate%5B%5D=120+Hz",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "120 Hz"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 65,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.refresh_rate%5B%5D=144+Hz",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "144 Hz"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 6,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.refresh_rate%5B%5D=165+Hz",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "165 Hz"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 128,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.refresh_rate%5B%5D=50+Hz",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "50 Hz"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 760,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.refresh_rate%5B%5D=60+Hz",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "60 Hz"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 1,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.refresh_rate%5B%5D=70+Hz",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "70 Hz"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 1,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.refresh_rate%5B%5D=90+Hz",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "90 Hz"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "scrollableView",
+                                        "id": "viewing_distance",
+                                        "metadata": {
+                                            "isDefault": false,
+                                            "showCount": false,
+                                            "subtext": "Viewing Distance between the TV and sofa/chair/bed",
+                                            "fieldName": "Viewing_Distance",
+                                            "DisplayTitle": "What would be the viewing distance in your room?",
+                                            "facetCountThreshold": 30,
+                                            "nested": false
+                                        },
+                                        "title": "Ideal for Viewing Distance",
+                                        "values": [
+                                            {
+                                                "type": "checkbox",
+                                                "id": "fixed",
+                                                "values": [
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 272,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.viewing_distance%5B%5D=5.1+-+6+Feet",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "5.1 - 6 Feet"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 209,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.viewing_distance%5B%5D=4.1+-+5+Feet",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "4.1 - 5 Feet"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 16,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.viewing_distance%5B%5D=Less+than+4+Feet",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Less than 4 Feet"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 599,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.viewing_distance%5B%5D=6+Feet++above",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "6 Feet  above"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "scrollableView",
+                                        "id": "number_of_usb_ports",
+                                        "metadata": {
+                                            "multiselect": "true",
+                                            "showCount": false,
+                                            "subtext": "Tip: Plug in lots of devices at once",
+                                            "fieldName": "number_of_usb_ports",
+                                            "previewId": "2254657df5e63de0726a2fa9e232d9d0",
+                                            "facetCountThreshold": 30,
+                                            "nested": false
+                                        },
+                                        "title": "Number of USB Ports",
+                                        "values": [
+                                            {
+                                                "type": "checkbox",
+                                                "id": "fixed",
+                                                "values": [
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 781,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.number_of_usb_ports%5B%5D=2",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "2"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 283,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.number_of_usb_ports%5B%5D=1",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "1"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 32,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.number_of_usb_ports%5B%5D=3",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "3"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "scrollableView",
+                                        "id": "number_of_hdmi_ports",
+                                        "metadata": {
+                                            "multiselect": "true",
+                                            "showCount": false,
+                                            "subtext": "Tip: Plug in lots of devices at once",
+                                            "fieldName": "number_of_hdmi_ports",
+                                            "previewId": "1f331bc020343c6d14cf1d3aa8f4cf0f",
+                                            "facetCountThreshold": 30,
+                                            "nested": false
+                                        },
+                                        "title": "Number of HDMI Ports",
+                                        "values": [
+                                            {
+                                                "type": "checkbox",
+                                                "id": "fixed",
+                                                "values": [
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 641,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.number_of_hdmi_ports%5B%5D=3",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "3"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 251,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.number_of_hdmi_ports%5B%5D=2",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "2"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 196,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.number_of_hdmi_ports%5B%5D=4",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "4"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 7,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.number_of_hdmi_ports%5B%5D=1",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "1"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "scrollableView",
+                                        "id": "connectivity",
+                                        "metadata": {
+                                            "showCount": false,
+                                            "subtext": "",
+                                            "fieldName": "connectivity_features",
+                                            "DisplayTitle": "Which type of connectivity would you prefer?",
+                                            "facetCountThreshold": 30,
+                                            "nested": false
+                                        },
+                                        "title": "Smart Features",
+                                        "values": [
+                                            {
+                                                "type": "checkbox",
+                                                "id": "alphabetical",
+                                                "values": [
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 672,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.connectivity%5B%5D=Bluetooth",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Bluetooth"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 853,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.connectivity%5B%5D=Built-in+Wi-Fi",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Built-in Wi-Fi"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "price_range",
+                                        "metadata": {
+                                            "isDefault": true,
+                                            "showCount": false,
+                                            "sub_facet_order": "cnc",
+                                            "subtext": "",
+                                            "prefix": "\u20b9",
+                                            "noFilter": true,
+                                            "facetCountThreshold": 30,
+                                            "start": "Min Price",
+                                            "end": "Max Price"
+                                        },
+                                        "values": [
+                                            {
+                                                "type": "range",
+                                                "histogramValues": [
+                                                    5,
+                                                    8,
+                                                    8,
+                                                    8,
+                                                    8,
+                                                    8
+                                                ],
+                                                "resource": {
+                                                    "params": "facets.price_range.from=Min,facets.price_range.to=Max",
+                                                    "selected": false
+                                                },
+                                                "selectedRange": {
+                                                    "from": {
+                                                        "displayValue": "Min",
+                                                        "key": "Min"
+                                                    },
+                                                    "to": {
+                                                        "displayValue": "\u20b960000+",
+                                                        "key": "Max"
+                                                    }
+                                                },
+                                                "values": [
+                                                    {
+                                                        "displayValue": "Min",
+                                                        "key": "Min"
+                                                    },
+                                                    {
+                                                        "displayValue": "\u20b915000",
+                                                        "key": "15000"
+                                                    },
+                                                    {
+                                                        "displayValue": "\u20b930000",
+                                                        "key": "30000"
+                                                    },
+                                                    {
+                                                        "displayValue": "\u20b940000",
+                                                        "key": "40000"
+                                                    },
+                                                    {
+                                                        "displayValue": "\u20b950000",
+                                                        "key": "50000"
+                                                    },
+                                                    {
+                                                        "displayValue": "\u20b960000",
+                                                        "key": "60000"
+                                                    },
+                                                    {
+                                                        "displayValue": "\u20b960000+",
+                                                        "key": "Max"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "scrollableView",
+                                        "id": "rating",
+                                        "metadata": {
+                                            "isDefault": true,
+                                            "showCount": false,
+                                            "subtext": "",
+                                            "facetCountThreshold": 30,
+                                            "nested": false
+                                        },
+                                        "title": "Customer Ratings",
+                                        "values": [
+                                            {
+                                                "type": "checkbox",
+                                                "id": "fixed",
+                                                "values": [
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 635,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.rating%5B%5D=4%E2%98%85+%26+above",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "4\u2605 & above"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 729,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.rating%5B%5D=3%E2%98%85+%26+above",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "3\u2605 & above"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 732,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.rating%5B%5D=2%E2%98%85+%26+above",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "2\u2605 & above"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 733,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.rating%5B%5D=1%E2%98%85+%26+above",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "1\u2605 & above"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "scrollableView",
+                                        "id": "fulfilled_by",
+                                        "metadata": {
+                                            "isDefault": true,
+                                            "showCount": false,
+                                            "subtext": "",
+                                            "showTitle": false,
+                                            "showToolTip": true,
+                                            "facetCountThreshold": 30,
+                                            "nested": true
+                                        },
+                                        "title": "F-Assured",
+                                        "values": [
+                                            {
+                                                "type": "checkbox",
+                                                "id": "popularity",
+                                                "values": [
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 8,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.fulfilled_by%5B%5D=F-Assured",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "F-Assured"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "scrollableView",
+                                        "id": "discount_range_v1",
+                                        "metadata": {
+                                            "showCount": false,
+                                            "subtext": "",
+                                            "noFilter": true,
+                                            "facetCountThreshold": 30,
+                                            "nested": false
+                                        },
+                                        "title": "Discount",
+                                        "values": [
+                                            {
+                                                "type": "checkbox",
+                                                "id": "fixed",
+                                                "values": [
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 8,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.discount_range_v1%5B%5D=30%25+or+more",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "30% or more"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 8,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.discount_range_v1%5B%5D=20%25+or+more",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "20% or more"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 8,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.discount_range_v1%5B%5D=10%25+or+more",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "10% or more"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 8,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.discount_range_v1%5B%5D=10%25+and+below",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "10% and below"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "scrollableView",
+                                        "id": "offer_type",
+                                        "metadata": {
+                                            "isDefault": true,
+                                            "showCount": false,
+                                            "subtext": "",
+                                            "facetCountThreshold": 30,
+                                            "nested": true
+                                        },
+                                        "title": "Offers",
+                                        "values": [
+                                            {
+                                                "type": "checkbox",
+                                                "id": "popularity",
+                                                "values": [
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 8,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.offer_type%5B%5D=Buy+More%2C+Save+More",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Buy More, Save More"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 8,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.offer_type%5B%5D=Special+Price",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Special Price"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "scrollableView",
+                                        "id": "country_of_origin",
+                                        "metadata": {
+                                            "showCount": false,
+                                            "subtext": "",
+                                            "fieldName": "country_of_origin",
+                                            "facetCountThreshold": 30,
+                                            "nested": false
+                                        },
+                                        "title": "Country Of Origin",
+                                        "values": [
+                                            {
+                                                "type": "checkbox",
+                                                "id": "alphabetical",
+                                                "values": [
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 5,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.country_of_origin%5B%5D=China",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "China"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 8,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.country_of_origin%5B%5D=India",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "India"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 2,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.country_of_origin%5B%5D=South+Korea",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "South Korea"
+                                                    },
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 3,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.country_of_origin%5B%5D=Vietnam",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Vietnam"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "scrollableView",
+                                        "id": "is_gst",
+                                        "metadata": {
+                                            "showCount": false,
+                                            "subtext": "",
+                                            "facetCountThreshold": 30,
+                                            "nested": true
+                                        },
+                                        "title": "GST Invoice Available",
+                                        "values": [
+                                            {
+                                                "type": "checkbox",
+                                                "id": "popularity",
+                                                "values": [
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 8,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.is_gst%5B%5D=GST+Invoice+Available",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "GST Invoice Available"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "scrollableView",
+                                        "id": "availability",
+                                        "metadata": {
+                                            "showCount": false,
+                                            "subtext": "",
+                                            "facetCountThreshold": 30,
+                                            "nested": true
+                                        },
+                                        "title": "Availability",
+                                        "values": [
+                                            {
+                                                "type": "checkbox",
+                                                "id": "popularity",
+                                                "values": [
+                                                    {
+                                                        "childCategory": false,
+                                                        "count": 1096,
+                                                        "highlighted": false,
+                                                        "leafNode": false,
+                                                        "parentCategory": false,
+                                                        "resource": {
+                                                            "params": "facets.availability%5B%5D=Include+Out+of+Stock",
+                                                            "selected": false
+                                                        },
+                                                        "selectedCount": 0,
+                                                        "title": "Include Out of Stock"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "filtersApplied": {
+                                    "filterCount": 0
+                                },
+                                "parentMetaInfoList": [
+                                    {
+                                        "id": "ckf",
+                                        "title": "Home Entertainment",
+                                        "totalProduct": 0,
+                                        "uri": "/home-entertainment/pr?sid=ckf"
+                                    },
+                                    {
+                                        "id": "ckf/czl",
+                                        "title": "Televisions",
+                                        "totalProduct": 0,
+                                        "uri": "/televisions/pr?sid=ckf,czl"
+                                    }
+                                ]
+                            }
+                        },
+                        "store": "ckf/czl"
+                    }
+                }
+            },
+            {
+                "slotType": "LOGICAL",
+                "id": 10003,
+                "parentId": 10000,
+                "layoutParams": {
+                    "flexibleWidth": true,
+                    "orientation": "",
+                    "widgetHeight": 450,
+                    "widgetWidth": 10
+                },
+                "childArrangement": "STACK"
+            },
+            {
+                "slotType": "LOGICAL",
+                "id": 10004,
+                "parentId": 10003,
+                "layoutParams": {
+                    "alignItems": "flex-end",
+                    "backgroundColor": "#ffffff",
+                    "orientation": "",
+                    "widgetHeight": 150,
+                    "widgetWidth": 12
+                },
+                "childArrangement": "ADJACENT"
+            }
+        ]
+    },
+    "SESSION": {
+        "accountId": null,
+        "asn": null,
+        "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImQ2Yjk5NDViLWZmYTEtNGQ5ZC1iZDQyLTFkN2RmZTU4ZGNmYSJ9.eyJleHAiOjE3OTI0NzgzNzIsImlhdCI6MTc5MDc1MDM3MiwiaXNzIjoia2V2bGFyIiwianRpIjoiZDdiMjBmMTYtODkwNC00OTMxLWEzMmEtOGUyMTgxNzMzNGU0IiwidHlwZSI6IkFUIiwidElkIjoibWFwaSIsInZzIjoiTE8iLCJ6IjoiQ0giLCJtIjp0cnVlLCJnZW4iOjQsImRvbSI6IkZMSVBLQVJUIn0.YMbQf-KaM6-WhVO6vbffM1vN65ch3Z2CQOCqd2EtYNk",
+        "ec": null,
+        "email": null,
+        "firstName": null,
+        "flipkartFirstUser": false,
+        "isLoggedIn": false,
+        "kAction": null,
+        "lastName": null,
+        "nsid": "2.SIF95E63C7AE2C48018CDABF7940096E82.0.VI756978DAB7DC4BE4A60C3195AF0BE5BB",
+        "rt": null,
+        "secureToken": "SIF95E63C7AE2C48018CDABF7940096E82:VI756978DAB7DC4BE4A60C3195AF0BE5BB",
+        "sn": "2.VI756978DAB7DC4BE4A60C3195AF0BE5BB.SIF95E63C7AE2C48018CDABF7940096E82.VS3343EA694EB742DA9A696FDA78A036C7.1790750372",
+        "ts": 0,
+        "twoFa": false,
+        "vid": "VI756978DAB7DC4BE4A60C3195AF0BE5BB"
+    },
+    "STATUS_CODE": 200
+}
