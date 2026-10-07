@@ -135,7 +135,7 @@ def checkblocklist(name, total, listingid):
                     #print("blocked " + word + " in " + name)
                     break
             if bloc == 1:
-                packof = re.search("pack of (\d+)(\s|,|\)|$)", name.lower())
+                packof = re.search(r"pack of (\d+)(\s|,|\)|$)", name.lower())
                 if bprice != None and bprice!='':
                     packoftotal=total
                     if packof!=None and packof[1]!=None and packof[1]!='' and packof[1]!="1":
@@ -432,9 +432,32 @@ def flipkart_parse(filename, telegram, force, myurl, res_queue, stop_not_assured
         myurl = myurl.replace("Plus%2B%2528FAssured%2529", "F-Assured")
 
     for page in range(1, myyrange):
-        data = '{"pageUri":"' + myurl + '","pageContext":{"pageHashKey":null,"slotContextMap":null,"paginationContextMap":null,"paginatedFetch":false,"pageNumber":' + str(page) + ',"fetchAllPages":false,"trackingContext":null,"fetchSeoData":false},"locationContext":null,"requestContext":{"type":"BROWSE_PAGE","ssid":"' + str(
-            uuid.uuid1()) + '","sqid":"' + str(uuid.uuid1()) + '","disableSearchInfo":null}}'
-        # data = '{"pageUri":"' + myurl + '","pageContext":{"pageHashKey":null,"slotContextMap":null,"paginationContextMap":null,"paginatedFetch":false,"pageNumber":1,"fetchAllPages":false,"networkSpeed":317,"trackingContext":null,"fetchSeoData":false},"locationContext":null,"requestContext":null}'
+        page_uri = myurl
+        parsed_url = urllib.parse.urlsplit(myurl)
+        if parsed_url.scheme and parsed_url.netloc:
+            page_uri = urllib.parse.urlunsplit(("", "", parsed_url.path, parsed_url.query, ""))
+
+        payload = {
+            "pageUri": page_uri,
+            "pageContext": {
+                "pageHashKey": None,
+                "slotContextMap": None,
+                "paginationContextMap": None,
+                "paginatedFetch": False,
+                "pageNumber": page,
+                "fetchAllPages": False,
+                "trackingContext": None,
+                "fetchSeoData": False
+            },
+            "locationContext": None,
+            "requestContext": {
+                "type": "BROWSE_PAGE",
+                "ssid": str(uuid.uuid1()),
+                "sqid": str(uuid.uuid1()),
+                "disableSearchInfo": None
+            }
+        }
+        data = json.dumps(payload, separators=(",", ":"))
         binary_data = data.encode('utf-8')
 
         theurl = 'https://1.rome.api.flipkart.net/4/page/fetch'
@@ -446,12 +469,16 @@ def flipkart_parse(filename, telegram, force, myurl, res_queue, stop_not_assured
                                       'Mozilla/5.0') + ' AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36FKUA/msite/0.0.3/msite/Mobile'
 
         with open("cookie.txt") as fff:
-            cokie = fff.readlines()
-            if len(cokie) <= 1:
+            cokie = [line.strip() for line in fff if line.strip()]
+            cookie_header = ""
+            if len(cokie) >= 3:
                 sn = securecoki = ""
-            else:
+                cookie_header = cokie[2]
+            elif len(cokie) > 1:
                 sn=cokie[0].strip()
                 securecoki = cokie[1].strip()
+            else:
+                sn = securecoki = ""
 
         header={"User-Agent":"okhttp/4.9.2",
         "Accept-Language":"en-GB,en;q=0.9", "Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
@@ -459,10 +486,14 @@ def flipkart_parse(filename, telegram, force, myurl, res_queue, stop_not_assured
         "Origin": "https://www.flipkart.com",
         "Referer": "https://www.flipkart.com",
         "Content-Type":"application/json; charset=UTF-8",
-        "X-User-Agent":useragent,
-        "sn":sn,
-        "secureCookie":securecoki
+        "X-User-Agent":useragent
         }
+
+        if cookie_header:
+            header["Cookie"] = cookie_header
+        else:
+            header["sn"] = sn
+            header["secureCookie"] = securecoki
 
         # cookie = open("cookie.txt").readlines()
         # uclient.add_header("Cookie", cookie[0].strip())
@@ -492,6 +523,7 @@ def flipkart_parse(filename, telegram, force, myurl, res_queue, stop_not_assured
             html=r.text
             if r.status_code>=400:
                 print(filename + " -> " + str(r.status_code) + " error")
+                res_queue.put(str('{0:<35} 529 Error'.format(filename)))
                 return
 
             if html.find("recaptcha")!=-1:
@@ -762,7 +794,7 @@ def flipkart_parse(filename, telegram, force, myurl, res_queue, stop_not_assured
                             blockedpackof = ["rubber","Placemat","Silicone","Hook","Extender","bra","panty","band","cover","girls","women","Holder","Ponytail","Wipes","Plant","Saree","Storage","Monster","Saikara"]
                             if bloc == 1 and word != "" and word != None and word.find("=") != -1:
                                 if word.lower().find("pack of") == -1 and word.lower().find("lst") == -1 and name.lower().find("pack of") != -1:
-                                    packof = re.search("pack of (\d+)(\s|,|\)|$)", name.lower())
+                                    packof = re.search(r"pack of (\d+)(\s|,|\)|$)", name.lower())
                                     for item in blockedpackof:
                                         if name.lower().find(item.lower()) != -1:
                                             packof = "nevercheckout"
