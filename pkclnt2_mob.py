@@ -16,7 +16,7 @@ from fkrdplog import updatetoserver
 import gc
 import extrafiles
 extrafiles.start()
-from main import flipkart_parse
+from mainmob import flipkart_parse
 from block import block
 
 logger = logging.getLogger("Rotating Log")
@@ -26,7 +26,7 @@ formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(messag
 handler.setFormatter(formatter)
 logger.addHandler(handler)
 
-foldername = "megaclntw2_sale_spl/"
+foldername = "M_megaclntw2_sale_spl/"
 if not os.path.exists(foldername):
     os.mkdir(foldername)
 
